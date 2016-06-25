@@ -1,0 +1,1099 @@
+"B1.csv[00000]","B1.csv[00100]","B1.csv[00200]","B1.csv[00300]","B1.csv[00400]","B1.csv[00500]","B1.csv[00600]","B1.csv[00700]","B1.csv[00800]","B1.csv[00900]","B1.csv[01000]","B1.csv[01100]","B1.csv[01200]","B1.csv[01300]","B1.csv[01400]","B1.csv[01500]","B1.csv[01600]","B1.csv[01700]","B1.csv[01800]","B1.csv[01900]","B1.csv[02000]","B1.csv[02100]","B1.csv[02200]","B1.csv[02300]","B1.csv[02400]","B1.csv[02500]","B1.csv[02600]","B1.csv[02700]","B1.csv[02800]","B1.csv[02900]","B1.csv[03000]","B1.csv[03100]","B1.csv[03200]","B1.csv[03300]","B1.csv[03400]","B1.csv[03500]", , , , , ,"B1.csv[04100]"
+"4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , ,"08-11", , , , , , , , , 
+"RECLASSIFICATION AND ADJUSTMENT OF TRIAL BALANCE OF EXPENSES", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET A", , , , , , , , , , 
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , 
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , , , 
+ , , , , , , ,"RECLASSIFIED", ,"NET EXPENSES", , , , , , , , , , 
+ , ,"COST CENTER DESCRIPTIONS", , ,"TOTAL","RECLASSIFI-","TRIAL BALANCE", ,"FOR ALLOCATION", , , , , , , , , , 
+ , ,"(omit cents)","SALARIES","OTHER","(col. 1 + col. 2)","CATIONS", ,"ADJUSTMENTS", , , , , , , , , , , 
+ , , ,"1","2","3","4","5","6","7", , , , , , , , , , 
+ , ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , , , , , , , , 
+"1","00100","Capital Related Costs-Buildings and Fixtures", , , , , , , ,"1", , , , , , , , , 
+"2","00200","Capital Related Costs-Movable Equipment", , , , , , , ,"2", , , , , , , , , 
+"3","00300","Other Capital Related Costs", , , , , , ,"-0-","3", , , , , , , , , 
+"4","00400","Employee Benefits", , , , , , , ,"4", , , , , , , , , 
+"5","00500","Administrative and General", , , , , , , ,"5", , , , , , , , , 
+"6","00600","Maintenance and Repairs", , , , , , , ,"6", , , , , , , , , 
+"7","00700","Operation of Plant", , , , , , , ,"7", , , , , , , , , 
+"8","00800","Laundry and Linen Service", , , , , , , ,"8", , , , , , , , , 
+"9","00900","Housekeeping", , , , , , , ,"9", , , , , , , , , 
+"10","01000","Dietary", , , , , , , ,"10", , , , , , , , , 
+"11","01100","Cafeteria", , , , , , , ,"11", , , , , , , , , 
+"12","01200","Maintenance of Personnel", , , , , , , ,"12", , , , , , , , , 
+"13","01300","Nursing Administration", , , , , , , ,"13", , , , , , , , , 
+"14","01400","Central Services and Supply", , , , , , , ,"14", , , , , , , , , 
+"15","01500","Pharmacy", , , , , , , ,"15", , , , , , , , , 
+"16","01600","Medical Records & Medical Records Library", , , , , , , ,"16", , , , , , , , , 
+"17","01700","Social Service", , , , , , , ,"17", , , , , , , , , 
+"18", ,"Other General Service (specify)", , , , , , , ,"18", , , , , , , , , 
+"19","01900","Nonphysician Anesthetists", , , , , , , ,"19", , , , , , , , , 
+"20","02000","Nursing School", , , , , , , ,"20", , , , , , , , , 
+"21","02100","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , ,"21", , , , , , , , , 
+"22","02200","Intern & Res. Other Program Costs (Approved)", , , , , , , ,"22", , , , , , , , , 
+"23","02300","Paramedical Ed. Program (specify)", , , , , , , ,"23", , , , , , , , , 
+ , ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , , , , , , , , 
+"30","03000","Adults and Pediatrics (General Routine Care)", , , , , , , ,"30", , , , , , , , , 
+"31","03100","Intensive Care Unit", , , , , , , ,"31", , , , , , , , , 
+"32","03200","Coronary Care Unit", , , , , , , ,"32", , , , , , , , , 
+"33","03300","Burn Intensive Care Unit", , , , , , , ,"33", , , , , , , , , 
+"34","03400","Surgical Intensive Care Unit", , , , , , , ,"34", , , , , , , , , 
+"35", ,"Other Special Care (specify)", , , , , , , ,"35", , , , , , , , , 
+"40","04000","Subprovider - IPF", , , , , , , ,"40", , , , , , , , , 
+"41","04100","Subprovider - IRF", , , , , , , ,"41", , , , , , , , , 
+"42","04200","Subprovider (specify)", , , , , , , ,"42", , , , , , , , , 
+"08-11", , ,"FORM CMS-2552-10", , , , , , , , ,"4090 (Cont.)", , , , , , , 
+"RECLASSIFICATIONS", , , , , , ,"PROVIDER CCN:","PERIOD:", ,"WORKSHEET A-6", , , , , , , , , 
+ , , , , , , , ,"FROM ____________", , , , , , , , , , , 
+ , , , , , , ,"________________","TO _______________", , , , , , , , , , , 
+ , , , ,"INCREASES", , , ,"DECREASES", , ,"Wkst.", , , , , , , , 
+ , ,"CODE", , , , , , , , ,"A-7", , , , , , , , 
+ ,"EXPLANATION OF RECLASSIFICATION(S)","(1)","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref.", , , , , , , , 
+ , ,"1","2","3","4","5","6","7","8","9","10", , , , , , , , 
+"1", , , , , , , , , , , ,"1", , , , , , , 
+"2", , , , , , , , , , , ,"2", , , , , , , 
+"3", , , , , , , , , , , ,"3", , , , , , , 
+"4", , , , , , , , , , , ,"4", , , , , , , 
+"5", , , , , , , , , , , ,"5", , , , , , , 
+"6", , , , , , , , , , , ,"6", , , , , , , 
+"7", , , , , , , , , , , ,"7", , , , , , , 
+"8", , , , , , , , , , , ,"8", , , , , , , 
+"9", , , , , , , , , , , ,"9", , , , , , , 
+"10", , , , , , , , , , , ,"10", , , , , , , 
+"11", , , , , , , , , , , ,"11", , , , , , , 
+ ,"PART I - ANALYSIS OF CHANGES IN CAPITAL ASSET BALANCES", , , , , , , , , , , , , , , , , , 
+ , , , , ,"Acquisitions", , ,"Disposals", ,"Fully", , , , , , , , , 
+ , , , ,"Beginning", , , ,"and","Ending","Depreciated", , , , , , , , , 
+ , ,"Description", ,"Balances","Purchases","Donation","Total","Retirements","Balance","Assets", , , , , , , , , 
+ , , , ,"1","2","3","4","5","6","7", , , , , , , , , 
+"08-11", ,"FORM CMS-2552-10", , , , , ,"4090 (Cont.)", , , , , , , , , , , 
+"ADJUSTMENTS TO EXPENSES", ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET A-8", , , , , , , , , , , , , 
+ , , , ,"FROM ____________", , , , , , , , , , , , , , , 
+ , ,"________________", ,"TO _______________", , , , , , , , , , , , , , , 
+ , , , ,"EXPENSE CLASSIFICATION ON", , , , , , , , , , , , , , , 
+ ,"DESCRIPTION (1)", , ,"WORKSHEET A TO/FROM WHICH", , ,"Wkst.", , , , , , , , , , , , 
+ , , , ,"THE AMOUNT IS TO BE ADJUSTED", , ,"A-7", , , , , , , , , , , , 
+ , ,"BASIS/CODE (2)","AMOUNT","COST CENTER", ,"LINE #","Ref.", , , , , , , , , , , , 
+ , ,"1","2","3", ,"4","5", , , , , , , , , , , , 
+"1","Investment income - buildings and fixtures (chapter 2)", , ,"Buildings and Fixtures", ,"1", ,"1", , , , , , , , , , , 
+"2","Investment income - movable equipment (chapter 2)", , ,"Movable Equipment", ,"2", ,"2", , , , , , , , , , , 
+"3","Investment income - other (chapter 2)", , , , , , ,"3", , , , , , , , , , , 
+"4","\" Trade","quantity","and time discounts (chapter 8)\"", , , , , , ,"4", , , , , , , , , 
+"5","Refunds and rebates of expenses (chapter 8)", , , , , , ,"5", , , , , , , , , , , 
+"6","Rental of provider space by suppliers (chapter 8)", , , , , , ,"6", , , , , , , , , , , 
+"7","Telephone services (pay stations excluded) (chapter 21)", , , , , , ,"7", , , , , , , , , , , 
+"8","Television and radio service (chapter 21)", , , , , , ,"8", , , , , , , , , , , 
+"9","Parking lot (chapter 21)", , , , , , ,"9", , , , , , , , , , , 
+"10","Provider-based physician adjustment","Worksheet A-8-2", , , , , ,"10", , , , , , , , , , , 
+"11","\" Sale of scrap","waste","etc. (chapter 23)\"", , , , , , ,"11", , , , , , , , , 
+"12","Related organization transactions (chapter 10)","Worksheet A-8-1", , , , , ,"12", , , , , , , , , , , 
+"13","Laundry and linen service", , , , , , ,"13", , , , , , , , , , , 
+"14","Cafeteria-employees and guests", , , , , , ,"14", , , , , , , , , , , 
+"15","Rental of quarters to employee and others", , , , , , ,"15", , , , , , , , , , , 
+"16","Sale of medical and surgical", , , , , , ,"16", , , , , , , , , , , 
+ ,"supplies to other than patients", , , , , , , , , , , , , , , , , , 
+"17","Sale of drugs to other than patients", , , , , , ,"17", , , , , , , , , , , 
+"18","Sale of medical records and abstracts", , , , , , ,"18", , , , , , , , , , , 
+"19","\" Nursing school (tuition","fees","books","etc.)\"", , , , , , ,"19", , , , , , , , 
+"20","Vending machines", , , , , , ,"20", , , , , , , , , , , 
+"21","\" Income from imposition of interest","\"", , , , , , ,"21", , , , , , , , , , 
+ ,"finance or penalty charges (chapter 21)", , , , , , , , , , , , , , , , , , 
+"22","Interest expense on Medicare overpayments and", , , , , , ,"22", , , , , , , , , , , 
+ ,"borrowings to repay Medicare overpayments", , , , , , , , , , , , , , , , , , 
+"23","Adjustment for respiratory therapy", , , , , , ,"23", , , , , , , , , , , 
+ ,"costs in excess of limitation (chapter 14)","Worksheet A-8-3", ,"Respiratory Therapy", ,"65", , , , , , , , , , , , , 
+"24","Adjustment for physical therapy costs", , , , , , ,"24", , , , , , , , , , , 
+ ,"in excess of limitation (chapter 14)","Worksheet A-8-3", ,"Physical Therapy", ,"66", , , , , , , , , , , , , 
+"25", , , , , , , , , , , , , , , , , , , 
+ , , ,"Remuneration","Component","Component","Amount","Component Hours","RCE Limit","RCE Limit", , , , , , , , , , 
+ ,"1","2","3","4","5","6","7","8","9", , , , , , , , , , 
+"1", , , , , , , , , ,"1", , , , , , , , , 
+"2", , , , , , , , , ,"2", , , , , , , , , 
+"3", , , , , , , , , ,"3", , , , , , , , , 
+"4", , , , , , , , , ,"4", , , , , , , , , 
+"5", , , , , , , , , ,"5", , , , , , , , , 
+"6", , , , , , , , , ,"6", , , , , , , , , 
+"7", , , , , , , , , ,"7", , , , , , , , , 
+"4090 (Cont.)", , ,"FORM CMS-2552-10", , , , ,"08-11", , , , , , , , , , , 
+"REASONABLE COST DETERMINATION FOR THERAPY SERVICES", , , , ,"PROVIDER CCN:","PERIOD:","\" WORKSHEET A-8-3","\"", , , , , , , , , , , 
+"FURNISHED BY OUTSIDE SUPPLIERS", , , , , ,"FROM ____________","PARTS I & II", , , , , , , , , , , , 
+ , , , , ,"________________","TO _______________", , , , , , , , , , , , , 
+"Check applicable box:", ,"[ ] Occupational          [ ] Physical          [ ] Respiratory          [ ] Speech Pathology", , , , , , , , , , , , , , , , , 
+"PART I - GENERAL INFORMATION", , , , , , , , , , , , , , , , , , , 
+"1","Total number of weeks worked (excluding aides) (see instructions)", , , , , , ,"1", , , , , , , , , , , 
+"2","Line 1 multiplied by 15 hours per week", , , , , , ,"2", , , , , , , , , , , 
+"3","Number of unduplicated days in which supervisor or therapist was on provider site (see instructions)", , , , , , ,"3", , , , , , , , , , , 
+"4","Number of unduplicated days in which therapy assistant was on provider site but neither supervisor nor therapist was on provider site (see instructions)", , , , , , ,"4", , , , , , , , , , , 
+"5","Number of unduplicated offsite visits - supervisors or therapists (see instructions)", , , , , , ,"5", , , , , , , , , , , 
+"6","Number of unduplicated offsite visits - therapy assistants (include only visits made by therapy assistant and on which", , , , , , ,"6", , , , , , , , , , , 
+ ,"supervisor and/or therapist was not present during the visit(s)) (see instructions)", , , , , , , , , , , , , , , , , , 
+"7","Standard travel expense rate", , , , , , ,"7", , , , , , , , , , , 
+"8","Optional travel expense rate per mile", , , , , , ,"8", , , , , , , , , , , 
+ , , ,"Supervisors","dcr","Assistants","Aides","Trainees", , , , , , , , , , , , 
+ , , ,"1","2","3","4","5", , , , , , , , , , , , 
+"9","Total hours worked", , , , , , ,"9", , , , , , , , , , , 
+"10","AHSEA (see instructions)", , , , , , ,"10", , , , , , , , , , , 
+"11","\" Standard travel allowance (columns 1 and 2","one-half of column 2","\"", , , , , , ,"11", , , , , , , , , 
+ ,"\"  line 10; column 3","one-half of column 3","line 10)\"", , , , , , , , , , , , , , , , 
+"12","Number of travel hours (see instructions)", , , , , , ,"12", , , , , , , , , , , 
+"13","Number of miles driven (see instructions)", , , , , , ,"13", , , , , , , , , , , 
+"08-11", , , ,"FORM CMS-2552-10", , , , , ,"4090 (Cont.)","4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , , , ,"08-11","08-11", , , ,"FORM CMS-2552-10", , , , , , ,"4090 (Cont.)"
+"COST ALLOCATION - STATISTICAL BASIS", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1"
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , ,"FROM ____________", , , , , , , , , , , ,"FROM ____________"
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , ,"________________", ,"TO _______________", , , , , , , , , ,"________________", ,"TO _______________"
+ , , ,"CAPITAL RELATED COST", , , ,"ADMINIS-","MAIN-", , , , ,"LAUNDRY", , , ,"MAIN-","NURSING","CENTRAL", ,"MEDICAL", , , , , ,"NON-", ,"INTERNS & RESIDENTS", ,"PARA-", ,"INTERN &"
+ , , ,"BLDGS. &","MOVABLE","EMPLOYEE", ,"TRATIVE &","TENANCE &","OPERATION", , , ,"& LINEN","HOUSE-", , ,"TENANCE OF","ADMINIS-","SERVICES &", ,"RECORDS &","SOCIAL", , , ,"OTHER","PHYSICIAN","NURSING","SALARY AND","PROGRAM","MEDICAL", ,"RESIDENT"
+ , , ,"FIXTURES","EQUIPMENT","BENEFITS", ,"GENERAL","REPAIRS","OF PLANT", , , ,"SERVICE","KEEPING","DIETARY","CAFETERIA","PERSONNEL","TRATION","SUPPLY","PHARMACY","LIBRARY","SERVICE", , , ,"GENERAL","ANES-","SCHOOL","FRINGES","COSTS","EDUCATION", ,"COST & POST"
+ ,"COST CENTER DESCRIPTIONS", ,"(SQUARE","(DOLLAR","(GROSS","RECONCIL-","(ACCUM.","(SQUARE","(SQUARE", , ,"COST CENTER DESCRIPTIONS","(POUNDS OF","(HOURS OF","(MEALS","(MEALS","(NUMBER","(DIRECT","(COSTED","(COSTED","(TIME","(TIME", , ,"COST CENTER DESCRIPTIONS","SERVICE","THETISTS","(ASSIGNED","(ASSIGNED","(ASSIGNED","(ASSIGNED", ,"STEPDOWN"
+ , , ,"FEET)","VALUE)","SALARIES)","IATION","COST)","FEET)","FEET)", , , ,"LAUNDRY)","SERVICE)","SERVED)","SERVED)","HOUSED)","NURS. HRS)","REQUIS.)","REQUIS.)","SPENT)","SPENT)", , , ,"(SPECIFY)","(ASGND TIME)","TIME)","TIME)","TIME)","TIME)","SUBTOTAL","ADJUSTMENTS","TOTAL"
+ , , ,"1","2","4","5A","5","6","7", , , ,"8","9","10","11","12","13","14","15","16","17", , , ,"18","19","20","21","22","23","24","25","26"
+ ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , , , ,"GENERAL SERVICE COST CENTERS"
+"1","Capital Related Costs-Buildings and Fixtures", , , , , , , , ,"1","1","Capital Related Costs-Buildings and Fixtures", , , , , , , , , , ,"1","1","Capital Related Costs-Buildings and Fixtures", , , , , , , , , ,"1"
+"2","Capital Related Costs-Movable Equipment", , , , , , , , ,"2","2","Capital Related Costs-Movable Equipment", , , , , , , , , , ,"2","2","Capital Related Costs-Movable Equipment", , , , , , , , , ,"2"
+"4","Employee Benefits", , , , , , , , ,"4","4","Employee Benefits", , , , , , , , , , ,"4","4","Employee Benefits", , , , , , , , , ,"4"
+"5","Administrative and General", , , , , , , , ,"5","5","Administrative and General", , , , , , , , , , ,"5","5","Administrative and General", , , , , , , , , ,"5"
+"6","Maintenance and Repairs", , , , , , , , ,"6","6","Maintenance and Repairs", , , , , , , , , , ,"6","6","Maintenance and Repairs", , , , , , , , , ,"6"
+"7","Operation of Plant", , , , , , , , ,"7","7","Operation of Plant", , , , , , , , , , ,"7","7","Operation of Plant", , , , , , , , , ,"7"
+"8","Laundry and Linen Service", , , , , , , , ,"8","8","Laundry and Linen Service", , , , , , , , , , ,"8","8","Laundry and Linen Service", , , , , , , , , ,"8"
+"9","Housekeeping", , , , , , , , ,"9","9","Housekeeping", , , , , , , , , , ,"9","9","Housekeeping", , , , , , , , , ,"9"
+"10","Dietary", , , , , , , , ,"10","10","Dietary", , , , , , , , , , ,"10","10","Dietary", , , , , , , , , ,"10"
+"11","Cafeteria", , , , , , , , ,"11","11","Cafeteria", , , , , , , , , , ,"11","11","Cafeteria", , , , , , , , , ,"11"
+"12","Maintenance of Personnel", , , , , , , , ,"12","12","Maintenance of Personnel", , , , , , , , , , ,"12","12","Maintenance of Personnel", , , , , , , , , ,"12"
+"13","Nursing Administration", , , , , , , , ,"13","13","Nursing Administration", , , , , , , , , , ,"13","13","Nursing Administration", , , , , , , , , ,"13"
+"14","Central Services and Supply", , , , , , , , ,"14","14","Central Services and Supply", , , , , , , , , , ,"14","14","Central Services and Supply", , , , , , , , , ,"14"
+"15","Pharmacy", , , , , , , , ,"15","15","Pharmacy", , , , , , , , , , ,"15","15","Pharmacy", , , , , , , , , ,"15"
+"16","Medical Records & Medical Records Library", , , , , , , , ,"16","16","Medical Records & Medical Records Library", , , , , , , , , , ,"16","16","Medical Records & Medical Records Library", , , , , , , , , ,"16"
+"17","Social Service", , , , , , , , ,"17","17","Social Service", , , , , , , , , , ,"17","17","Social Service", , , , , , , , , ,"17"
+"18","Other General Service (specify)", , , , , , , , ,"18","18","Other General Service (specify)", , , , , , , , , , ,"18","18","Other General Service (specify)", , , , , , , , , ,"18"
+"19","Nonphysician Anesthetists", , , , , , , , ,"19","19","Nonphysician Anesthetists", , , , , , , , , , ,"19","19","Nonphysician Anesthetists", , , , , , , , , ,"19"
+"20","Nursing School", , , , , , , , ,"20","20","Nursing School", , , , , , , , , , ,"20","20","Nursing School", , , , , , , , , ,"20"
+"21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , ,"21","21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , , , ,"21","21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , , ,"21"
+"22","Intern & Res. Other Program Costs (Approved)", , , , , , , , ,"22","22","Intern & Res. Other Program Costs (Approved)", , , , , , , , , , ,"22","22","Intern & Res. Other Program Costs (Approved)", , , , , , , , , ,"22"
+"23","Paramedical Education Program (specify)", , , , , , , , ,"23","23","Paramedical Education Program (specify)", , , , , , , , , , ,"23","23","Paramedical Education Program (specify)", , , , , , , , , ,"23"
+ ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , , , ,"INPATIENT ROUTINE SERVICE COST CENTERS"
+"30","Adults and Pediatrics (General Routine Care)", , , , , , , , ,"30","30","Adults and Pediatrics (General Routine Care)", , , , , , , , , , ,"30","30","Adults and Pediatrics (General Routine Care)", , , , , , , , , ,"30"
+"31","Intensive Care Unit", , , , , , , , ,"31","31","Intensive Care Unit", , , , , , , , , , ,"31","31","Intensive Care Unit", , , , , , , , , ,"31"
+"32","Coronary Care Unit", , , , , , , , ,"32","32","Coronary Care Unit", , , , , , , , , , ,"32","32","Coronary Care Unit", , , , , , , , , ,"32"
+"33","Burn Intensive Care Unit", , , , , , , , ,"33","33","Burn Intensive Care Unit", , , , , , , , , , ,"33","33","Burn Intensive Care Unit", , , , , , , , , ,"33"
+"34","Surgical Intensive Care Unit", , , , , , , , ,"34","34","Surgical Intensive Care Unit", , , , , , , , , , ,"34","34","Surgical Intensive Care Unit", , , , , , , , , ,"34"
+"35","Other Special Care Unit (specify)", , , , , , , , ,"35","35","Other Special Care Unit (specify)", , , , , , , , , , ,"35","35","Other Special Care Unit (specify)", , , , , , , , , ,"35"
+"40","Subprovider IPF", , , , , , , , ,"40","40","Subprovider IPF", , , , , , , , , , ,"40","40","Subprovider IPF", , , , , , , , , ,"40"
+"41","Subprovider IRF", , , , , , , , ,"41","41","Subprovider IRF", , , , , , , , , , ,"41","41","Subprovider IRF", , , , , , , , , ,"41"
+"42","Subprovider (specify)", , , , , , , , ,"42","42","Subprovider (specify)", , , , , , , , , , ,"42","42","Subprovider (specify)", , , , , , , , , ,"42"
+"43","Nursery", , , , , , , , ,"43","43","Nursery", , , , , , , , , , ,"43","43","Nursery", , , , , , , , , ,"43"
+"44","Skilled Nursing Facility", , , , , , , , ,"44","44","Skilled Nursing Facility", , , , , , , , , , ,"44","44","Skilled Nursing Facility", , , , , , , , , ,"44"
+"45","Nursing Facility", , , , , , , , ,"45","45","Nursing Facility", , , , , , , , , , ,"45","45","Nursing Facility", , , , , , , , , ,"45"
+"46","Other Long Term Care", , , , , , , , ,"46","46","Other Long Term Care", , , , , , , , , , ,"46","46","Other Long Term Care", , , , , , , , , ,"46"
+"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\"", , , , , , , , , , ,"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\"", , , , , , , , , , , , ,"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\""
+"Rev. 2", , , , , , , , , ,"40-553","40-556", , , , , , , , , , , ,"Rev. 2","Rev. 2", , , , , , , , , , ,"40-559"
+"4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , ,"08-11","08-11", , , ,"FORM CMS-2552-10", , , , , , , ,"4090 (Cont.)","4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , , ,"08-11"
+"COST ALLOCATION - STATISTICAL BASIS", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1"
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , ,"FROM ____________", , , , , , , , , , , ,"FROM ____________"
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , ,"________________", ,"TO _______________", , , , , , , , , ,"________________", ,"TO _______________"
+ , , ,"CAPITAL RELATED COST", , , ,"ADMINIS-","MAIN-", , , , ,"LAUNDRY", , , ,"MAIN-","NURSING","CENTRAL", ,"MEDICAL", , , , , ,"NON-", ,"INTERNS & RESIDENTS", ,"PARA-", ,"INTERN &"
+ , , ,"BLDGS. &","MOVABLE","EMPLOYEE", ,"TRATIVE &","TENANCE &","OPERATION", , , ,"& LINEN","HOUSE-", , ,"TENANCE OF","ADMINIS-","SERVICES &", ,"RECORDS &","SOCIAL", , , ,"OTHER","PHYSICIAN","NURSING","SALARY AND","PROGRAM","MEDICAL", ,"RESIDENT"
+ , , ,"FIXTURES","EQUIPMENT","BENEFITS", ,"GENERAL","REPAIRS","OF PLANT", , , ,"SERVICE","KEEPING","DIETARY","CAFETERIA","PERSONNEL","TRATION","SUPPLY","PHARMACY","LIBRARY","SERVICE", , , ,"GENERAL","ANES-","SCHOOL","FRINGES","COSTS","EDUCATION", ,"COST & POST"
+ ,"COST CENTER DESCRIPTIONS", ,"(SQUARE","(DOLLAR","(GROSS","RECONCIL-","(ACCUM.","(SQUARE","(SQUARE", , ,"COST CENTER DESCRIPTIONS","(POUNDS OF","(HOURS OF","(MEALS","(MEALS","(NUMBER","(DIRECT","(COSTED","(COSTED","(TIME","(TIME", , ,"COST CENTER DESCRIPTIONS","SERVICE","THETISTS","(ASSIGNED","(ASSIGNED","(ASSIGNED","(ASSIGNED", ,"STEPDOWN"
+ , , ,"FEET)","VALUE)","SALARIES)","IATION","COST)","FEET)","FEET)", , , ,"LAUNDRY)","SERVICE)","SERVED)","SERVED)","HOUSED)","NURS. HRS)","REQUIS.)","REQUIS.)","SPENT)","SPENT)", , , ,"(SPECIFY)","(ASGND TIME)","TIME)","TIME)","TIME)","TIME)","SUBTOTAL","ADJUSTMENTS","TOTAL"
+ , , ,"1","2","4","5A","5","6","7", , , ,"8","9","10","11","12","13","14","15","16","17", , , ,"18","19","20","21","22","23","24","25","26"
+ ,"ANCILLARY SERVICE COST CENTERS", , , , , , , , , , ,"ANCILLARY SERVICE COST CENTERS", , , , , , , , , , , , ,"ANCILLARY SERVICE COST CENTERS"
+"50","Operating Room", , , , , , , , ,"50","50","Operating Room", , , , , , , , , , ,"50","50","Operating Room", , , , , , , , , ,"50"
+"51","Recovery Room", , , , , , , , ,"51","51","Recovery Room", , , , , , , , , , ,"51","51","Recovery Room", , , , , , , , , ,"51"
+"52","Labor Room and Delivery Room", , , , , , , , ,"52","52","Labor Room and Delivery Room", , , , , , , , , , ,"52","52","Labor Room and Delivery Room", , , , , , , , , ,"52"
+"53","Anesthesiology", , , , , , , , ,"53","53","Anesthesiology", , , , , , , , , , ,"53","53","Anesthesiology", , , , , , , , , ,"53"
+"54","Radiology-Diagnostic", , , , , , , , ,"54","54","Radiology-Diagnostic", , , , , , , , , , ,"54","54","Radiology-Diagnostic", , , , , , , , , ,"54"
+"55","Radiology-Therapeutic", , , , , , , , ,"55","55","Radiology-Therapeutic", , , , , , , , , , ,"55","55","Radiology-Therapeutic", , , , , , , , , ,"55"
+"56","Radioisotope", , , , , , , , ,"56","56","Radioisotope", , , , , , , , , , ,"56","56","Radioisotope", , , , , , , , , ,"56"
+"57","Computed Tomography (CT) Scan", , , , , , , , ,"57","57","Computed Tomography (CT) Scan", , , , , , , , , , ,"57","57","Computed Tomography (CT) Scan", , , , , , , , , ,"57"
+"58","Magnetic Resonance Imaging (MRI)", , , , , , , , ,"58","58","Magnetic Resonance Imaging (MRI)", , , , , , , , , , ,"58","58","Magnetic Resonance Imaging (MRI)", , , , , , , , , ,"58"
+"59","Cardiac Catheterization", , , , , , , , ,"59","59","Cardiac Catheterization", , , , , , , , , , ,"59","59","Cardiac Catheterization", , , , , , , , , ,"59"
+"60","Laboratory", , , , , , , , ,"60","60","Laboratory", , , , , , , , , , ,"60","60","Laboratory", , , , , , , , , ,"60"
+"61","PBP Clinical Laboratory Services-Program Only", , , , , , , , ,"61","61","PBP Clinical Laboratory Services-Program Only", , , , , , , , , , ,"61","61","PBP Clinical Laboratory Services-Program Only", , , , , , , , , ,"61"
+"62","Whole Blood & Packed Red Blood Cells", , , , , , , , ,"62","62","Whole Blood & Packed Red Blood Cells", , , , , , , , , , ,"62","62","Whole Blood & Packed Red Blood Cells", , , , , , , , , ,"62"
+"63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , ,"63","63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , , , ,"63","63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , , ,"63"
+"64","Intravenous Therapy", , , , , , , , ,"64","64","Intravenous Therapy", , , , , , , , , , ,"64","64","Intravenous Therapy", , , , , , , , , ,"64"
+"65","Respiratory Therapy", , , , , , , , ,"65","65","Respiratory Therapy", , , , , , , , , , ,"65","65","Respiratory Therapy", , , , , , , , , ,"65"
+"66","Physical Therapy", , , , , , , , ,"66","66","Physical Therapy", , , , , , , , , , ,"66","66","Physical Therapy", , , , , , , , , ,"66"
+"67","Occupational Therapy", , , , , , , , ,"67","67","Occupational Therapy", , , , , , , , , , ,"67","67","Occupational Therapy", , , , , , , , , ,"67"
+"68","Speech Pathology", , , , , , , , ,"68","68","Speech Pathology", , , , , , , , , , ,"68","68","Speech Pathology", , , , , , , , , ,"68"
+"69","Electrocardiology", , , , , , , , ,"69","69","Electrocardiology", , , , , , , , , , ,"69","69","Electrocardiology", , , , , , , , , ,"69"
+"70","Electroencephalography", , , , , , , , ,"70","70","Electroencephalography", , , , , , , , , , ,"70","70","Electroencephalography", , , , , , , , , ,"70"
+"71","Medical Supplies Charged to Patients", , , , , , , , ,"71","71","Medical Supplies Charged to Patients", , , , , , , , , , ,"71","71","Medical Supplies Charged to Patients", , , , , , , , , ,"71"
+"72","Implantable Devices Charged to Patients", , , , , , , , ,"72","72","Implantable Devices Charged to Patients", , , , , , , , , , ,"72","72","Implantable Devices Charged to Patients", , , , , , , , , ,"72"
+"73","Drugs Charged to Patients", , , , , , , , ,"73","73","Drugs Charged to Patients", , , , , , , , , , ,"73","73","Drugs Charged to Patients", , , , , , , , , ,"73"
+"74","Renal Dialysis", , , , , , , , ,"74","74","Renal Dialysis", , , , , , , , , , ,"74","74","Renal Dialysis", , , , , , , , , ,"74"
+"75","ASC (Non-Distinct Part)", , , , , , , , ,"75","75","ASC (Non-Distinct Part)", , , , , , , , , , ,"75","75","ASC (Non-Distinct Part)", , , , , , , , , ,"75"
+"76","Other Ancillary (specify)", , , , , , , , ,"76","76","Other Ancillary (specify)", , , , , , , , , , ,"76","76","Other Ancillary (specify)", , , , , , , , , ,"76"
+ ,"OUTPATIENT SERVICE COST CENTERS", , , , , , , , , , ,"OUTPATIENT SERVICE COST CENTERS", , , , , , , , , , , , ,"OUTPATIENT SERVICE COST CENTERS"
+"88","Rural Health Clinic (RHC)", , , , , , , , ,"88","88","Rural Health Clinic (RHC)", , , , , , , , , , ,"88","88","Rural Health Clinic (RHC)", , , , , , , , , ,"88"
+"89","Federally Qualified Health Center (FQHC)", , , , , , , , ,"89","89","Federally Qualified Health Center (FQHC)", , , , , , , , , , ,"89","89","Federally Qualified Health Center (FQHC)", , , , , , , , , ,"89"
+"90","Clinic", , , , , , , , ,"90","90","Clinic", , , , , , , , , , ,"90","90","Clinic", , , , , , , , , ,"90"
+"91","Emergency", , , , , , , , ,"91","91","Emergency", , , , , , , , , , ,"91","91","Emergency", , , , , , , , , ,"91"
+"92","Observation Beds", , , , , , , , ,"92","92","Observation Beds", , , , , , , , , , ,"92","92","Observation Beds", , , , , , , , , ,"92"
+ , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , 
+"B2.csv[00000]","B2.csv[00100]","B2.csv[00200]","B2.csv[00300]","B2.csv[00400]","B2.csv[00500]","B2.csv[00600]","B2.csv[00700]","B2.csv[00800]","B2.csv[00900]","B2.csv[01000]","B2.csv[01100]","B2.csv[01200]","B2.csv[01300]","B2.csv[01400]","B2.csv[01500]","B2.csv[01600]","B2.csv[01700]","B2.csv[01800]","B2.csv[01900]","B2.csv[02000]","B2.csv[02100]","B2.csv[02200]","B2.csv[02300]","B2.csv[02400]","B2.csv[02500]","B2.csv[02600]","B2.csv[02700]","B2.csv[02800]","B2.csv[02900]","B2.csv[03000]","B2.csv[03100]","B2.csv[03200]","B2.csv[03300]","B2.csv[03400]","B2.csv[03500]", , , , , ,"B2.csv[04100]"
+"4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , ,"08-11", , , , , , , , , 
+"RECLASSIFICATION AND ADJUSTMENT OF TRIAL BALANCE OF EXPENSES", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET A", , , , , , , , , , 
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , 
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , , , 
+ , , , , , , ,"RECLASSIFIED", ,"NET EXPENSES", , , , , , , , , , 
+ , ,"COST CENTER DESCRIPTIONS", , ,"TOTAL","RECLASSIFI-","TRIAL BALANCE", ,"FOR ALLOCATION", , , , , , , , , , 
+ , ,"(omit cents)","SALARIES","OTHER","(col. 1 + col. 2)","CATIONS", ,"ADJUSTMENTS", , , , , , , , , , , 
+ , , ,"1","2","3","4","5","6","7", , , , , , , , , , 
+ , ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , , , , , , , , 
+"1","00100","Capital Related Costs-Buildings and Fixtures", , , , , , , ,"1", , , , , , , , , 
+"2","00200","Capital Related Costs-Movable Equipment", , , , , , , ,"2", , , , , , , , , 
+"3","00300","Other Capital Related Costs", , , , , , ,"-0-","3", , , , , , , , , 
+"4","00400","Employee Benefits", , , , , , , ,"4", , , , , , , , , 
+"5","00500","Administrative and General", , , , , , , ,"5", , , , , , , , , 
+"6","00600","Maintenance and Repairs", , , , , , , ,"6", , , , , , , , , 
+"7","00700","Operation of Plant", , , , , , , ,"7", , , , , , , , , 
+"8","00800","Laundry and Linen Service", , , , , , , ,"8", , , , , , , , , 
+"9","00900","Housekeeping", , , , , , , ,"9", , , , , , , , , 
+"10","01000","Dietary", , , , , , , ,"10", , , , , , , , , 
+"11","01100","Cafeteria", , , , , , , ,"11", , , , , , , , , 
+"12","01200","Maintenance of Personnel", , , , , , , ,"12", , , , , , , , , 
+"13","01300","Nursing Administration", , , , , , , ,"13", , , , , , , , , 
+"14","01400","Central Services and Supply", , , , , , , ,"14", , , , , , , , , 
+"15","01500","Pharmacy", , , , , , , ,"15", , , , , , , , , 
+"16","01600","Medical Records & Medical Records Library", , , , , , , ,"16", , , , , , , , , 
+"17","01700","Social Service", , , , , , , ,"17", , , , , , , , , 
+"18", ,"Other General Service (specify)", , , , , , , ,"18", , , , , , , , , 
+"19","01900","Nonphysician Anesthetists", , , , , , , ,"19", , , , , , , , , 
+"20","02000","Nursing School", , , , , , , ,"20", , , , , , , , , 
+"21","02100","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , ,"21", , , , , , , , , 
+"22","02200","Intern & Res. Other Program Costs (Approved)", , , , , , , ,"22", , , , , , , , , 
+"23","02300","Paramedical Ed. Program (specify)", , , , , , , ,"23", , , , , , , , , 
+ , ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , , , , , , , , 
+"30","03000","Adults and Pediatrics (General Routine Care)", , , , , , , ,"30", , , , , , , , , 
+"31","03100","Intensive Care Unit", , , , , , , ,"31", , , , , , , , , 
+"32","03200","Coronary Care Unit", , , , , , , ,"32", , , , , , , , , 
+"33","03300","Burn Intensive Care Unit", , , , , , , ,"33", , , , , , , , , 
+"34","03400","Surgical Intensive Care Unit", , , , , , , ,"34", , , , , , , , , 
+"35", ,"Other Special Care (specify)", , , , , , , ,"35", , , , , , , , , 
+"40","04000","Subprovider - IPF", , , , , , , ,"40", , , , , , , , , 
+"41","04100","Subprovider - IRF", , , , , , , ,"41", , , , , , , , , 
+"42","04200","Subprovider (specify)", , , , , , , ,"42", , , , , , , , , 
+"08-11", , ,"FORM CMS-2552-10", , , , , , , , ,"4090 (Cont.)", , , , , , , 
+"RECLASSIFICATIONS", , , , , , ,"PROVIDER CCN:","PERIOD:", ,"WORKSHEET A-6", , , , , , , , , 
+ , , , , , , , ,"FROM ____________", , , , , , , , , , , 
+ , , , , , , ,"________________","TO _______________", , , , , , , , , , , 
+ , , , ,"INCREASES", , , ,"DECREASES", , ,"Wkst.", , , , , , , , 
+ , ,"CODE", , , , , , , , ,"A-7", , , , , , , , 
+ ,"EXPLANATION OF RECLASSIFICATION(S)","(1)","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref.", , , , , , , , 
+ , ,"1","2","3","4","5","6","7","8","9","10", , , , , , , , 
+"1", , , , , , , , , , , ,"1", , , , , , , 
+"2", , , , , , , , , , , ,"2", , , , , , , 
+"3", , , , , , , , , , , ,"3", , , , , , , 
+"4", , , , , , , , , , , ,"4", , , , , , , 
+"5", , , , , , , , , , , ,"5", , , , , , , 
+"6", , , , , , , , , , , ,"6", , , , , , , 
+"7", , , , , , , , , , , ,"7", , , , , , , 
+"8", , , , , , , , , , , ,"8", , , , , , , 
+"9", , , , , , , , , , , ,"9", , , , , , , 
+"10", , , , , , , , , , , ,"10", , , , , , , 
+"11", , , , , , , , , , , ,"11", , , , , , , 
+ ,"PART I - ANALYSIS OF CHANGES IN CAPITAL ASSET BALANCES", , , , , , , , , , , , , , , , , , 
+ , , , , ,"Acquisitions", , ,"Disposals", ,"Fully", , , , , , , , , 
+ , , , ,"Beginning", , , ,"and","Ending","Depreciated", , , , , , , , , 
+ , ,"Description", ,"Balances","Purchases","Donation","Total","Retirements","Balance","Assets", , , , , , , , , 
+ , , , ,"1","2","3","4","5","6","7", , , , , , , , , 
+"08-11", ,"FORM CMS-2552-10", , , , , ,"4090 (Cont.)", , , , , , , , , , , 
+"ADJUSTMENTS TO EXPENSES", ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET A-8", , , , , , , , , , , , , 
+ , , , ,"FROM ____________", , , , , , , , , , , , , , , 
+ , ,"________________", ,"TO _______________", , , , , , , , , , , , , , , 
+ , , , ,"EXPENSE CLASSIFICATION ON", , , , , , , , , , , , , , , 
+ ,"DESCRIPTION (1)", , ,"WORKSHEET A TO/FROM WHICH", , ,"Wkst.", , , , , , , , , , , , 
+ , , , ,"THE AMOUNT IS TO BE ADJUSTED", , ,"A-7", , , , , , , , , , , , 
+ , ,"BASIS/CODE (2)","AMOUNT","COST CENTER", ,"LINE #","Ref.", , , , , , , , , , , , 
+ , ,"1","2","3", ,"4","5", , , , , , , , , , , , 
+"1","Investment income - buildings and fixtures (chapter 2)", , ,"Buildings and Fixtures", ,"1", ,"1", , , , , , , , , , , 
+"2","Investment income - movable equipment (chapter 2)", , ,"Movable Equipment", ,"2", ,"2", , , , , , , , , , , 
+"3","Investment income - other (chapter 2)", , , , , , ,"3", , , , , , , , , , , 
+"4","\" Trade","quantity","and time discounts (chapter 8)\"", , , , , , ,"4", , , , , , , , , 
+"5","Refunds and rebates of expenses (chapter 8)", , , , , , ,"5", , , , , , , , , , , 
+"6","Rental of provider space by suppliers (chapter 8)", , , , , , ,"6", , , , , , , , , , , 
+"7","Telephone services (pay stations excluded) (chapter 21)", , , , , , ,"7", , , , , , , , , , , 
+"8","Television and radio service (chapter 21)", , , , , , ,"8", , , , , , , , , , , 
+"9","Parking lot (chapter 21)", , , , , , ,"9", , , , , , , , , , , 
+"10","Provider-based physician adjustment","Worksheet A-8-2", , , , , ,"10", , , , , , , , , , , 
+"11","\" Sale of scrap","waste","etc. (chapter 23)\"", , , , , , ,"11", , , , , , , , , 
+"12","Related organization transactions (chapter 10)","Worksheet A-8-1", , , , , ,"12", , , , , , , , , , , 
+"13","Laundry and linen service", , , , , , ,"13", , , , , , , , , , , 
+"14","Cafeteria-employees and guests", , , , , , ,"14", , , , , , , , , , , 
+"15","Rental of quarters to employee and others", , , , , , ,"15", , , , , , , , , , , 
+"16","Sale of medical and surgical", , , , , , ,"16", , , , , , , , , , , 
+ ,"supplies to other than patients", , , , , , , , , , , , , , , , , , 
+"17","Sale of drugs to other than patients", , , , , , ,"17", , , , , , , , , , , 
+"18","Sale of medical records and abstracts", , , , , , ,"18", , , , , , , , , , , 
+"19","\" Nursing school (tuition","fees","books","etc.)\"", , , , , , ,"19", , , , , , , , 
+"20","Vending machines", , , , , , ,"20", , , , , , , , , , , 
+"21","\" Income from imposition of interest","\"", , , , , , ,"21", , , , , , , , , , 
+ ,"finance or penalty charges (chapter 21)", , , , , , , , , , , , , , , , , , 
+"22","Interest expense on Medicare overpayments and", , , , , , ,"22", , , , , , , , , , , 
+ ,"borrowings to repay Medicare overpayments", , , , , , , , , , , , , , , , , , 
+"23","Adjustment for respiratory therapy", , , , , , ,"23", , , , , , , , , , , 
+ ,"costs in excess of limitation (chapter 14)","Worksheet A-8-3", ,"Respiratory Therapy", ,"65", , , , , , , , , , , , , 
+"24","Adjustment for physical therapy costs", , , , , , ,"24", , , , , , , , , , , 
+ ,"in excess of limitation (chapter 14)","Worksheet A-8-3", ,"Physical Therapy", ,"66", , , , , , , , , , , , , 
+"25", , , , , , , , , , , , , , , , , , , 
+ , , ,"Remuneration","Component","Component","Amount","Component Hours","RCE Limit","RCE Limit", , , , , , , , , , 
+ ,"1","2","3","4","5","6","7","8","9", , , , , , , , , , 
+"1", , , , , , , , , ,"1", , , , , , , , , 
+"2", , , , , , , , , ,"2", , , , , , , , , 
+"3", , , , , , , , , ,"3", , , , , , , , , 
+"4", , , , , , , , , ,"4", , , , , , , , , 
+"5", , , , , , , , , ,"5", , , , , , , , , 
+"6", , , , , , , , , ,"6", , , , , , , , , 
+"7", , , , , , , , , ,"7", , , , , , , , , 
+"4090 (Cont.)", , ,"FORM CMS-2552-10", , , , ,"08-11", , , , , , , , , , , 
+"REASONABLE COST DETERMINATION FOR THERAPY SERVICES", , , , ,"PROVIDER CCN:","PERIOD:","\" WORKSHEET A-8-3","\"", , , , , , , , , , , 
+"FURNISHED BY OUTSIDE SUPPLIERS", , , , , ,"FROM ____________","PARTS I & II", , , , , , , , , , , , 
+ , , , , ,"________________","TO _______________", , , , , , , , , , , , , 
+"Check applicable box:", ,"[ ] Occupational          [ ] Physical          [ ] Respiratory          [ ] Speech Pathology", , , , , , , , , , , , , , , , , 
+"PART I - GENERAL INFORMATION", , , , , , , , , , , , , , , , , , , 
+"1","Total number of weeks worked (excluding aides) (see instructions)", , , , , , ,"1", , , , , , , , , , , 
+"2","Line 1 multiplied by 15 hours per week", , , , , , ,"2", , , , , , , , , , , 
+"3","Number of unduplicated days in which supervisor or therapist was on provider site (see instructions)", , , , , , ,"3", , , , , , , , , , , 
+"4","Number of unduplicated days in which therapy assistant was on provider site but neither supervisor nor therapist was on provider site (see instructions)", , , , , , ,"4", , , , , , , , , , , 
+"5","Number of unduplicated offsite visits - supervisors or therapists (see instructions)", , , , , , ,"5", , , , , , , , , , , 
+"6","Number of unduplicated offsite visits - therapy assistants (include only visits made by therapy assistant and on which", , , , , , ,"6", , , , , , , , , , , 
+ ,"supervisor and/or therapist was not present during the visit(s)) (see instructions)", , , , , , , , , , , , , , , , , , 
+"7","Standard travel expense rate", , , , , , ,"7", , , , , , , , , , , 
+"8","Optional travel expense rate per mile", , , , , , ,"8", , , , , , , , , , , 
+ , , ,"Supervisors","dcr","Assistants","Aides","Trainees", , , , , , , , , , , , 
+ , , ,"1","2","3","4","5", , , , , , , , , , , , 
+"9","Total hours worked", , , , , , ,"9", , , , , , , , , , , 
+"10","AHSEA (see instructions)", , , , , , ,"10", , , , , , , , , , , 
+"11","\" Standard travel allowance (columns 1 and 2","one-half of column 2","\"", , , , , , ,"11", , , , , , , , , 
+ ,"\"  line 10; column 3","one-half of column 3","line 10)\"", , , , , , , , , , , , , , , , 
+"12","Number of travel hours (see instructions)", , , , , , ,"12", , , , , , , , , , , 
+"13","Number of miles driven (see instructions)", , , , , , ,"13", , , , , , , , , , , 
+"08-11", , , ,"FORM CMS-2552-10", , , , , ,"4090 (Cont.)","4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , , , ,"08-11","08-11", , , ,"FORM CMS-2552-10", , , , , , ,"4090 (Cont.)"
+"COST ALLOCATION - STATISTICAL BASIS", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1"
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , ,"FROM ____________", , , , , , , , , , , ,"FROM ____________"
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , ,"________________", ,"TO _______________", , , , , , , , , ,"________________", ,"TO _______________"
+ , , ,"CAPITAL RELATED COST", , , ,"ADMINIS-","MAIN-", , , , ,"LAUNDRY", , , ,"MAIN-","NURSING","CENTRAL", ,"MEDICAL", , , , , ,"NON-", ,"INTERNS & RESIDENTS", ,"PARA-", ,"INTERN &"
+ , , ,"BLDGS. &","MOVABLE","EMPLOYEE", ,"TRATIVE &","TENANCE &","OPERATION", , , ,"& LINEN","HOUSE-", , ,"TENANCE OF","ADMINIS-","SERVICES &", ,"RECORDS &","SOCIAL", , , ,"OTHER","PHYSICIAN","NURSING","SALARY AND","PROGRAM","MEDICAL", ,"RESIDENT"
+ , , ,"FIXTURES","EQUIPMENT","BENEFITS", ,"GENERAL","REPAIRS","OF PLANT", , , ,"SERVICE","KEEPING","DIETARY","CAFETERIA","PERSONNEL","TRATION","SUPPLY","PHARMACY","LIBRARY","SERVICE", , , ,"GENERAL","ANES-","SCHOOL","FRINGES","COSTS","EDUCATION", ,"COST & POST"
+ ,"COST CENTER DESCRIPTIONS", ,"(SQUARE","(DOLLAR","(GROSS","RECONCIL-","(ACCUM.","(SQUARE","(SQUARE", , ,"COST CENTER DESCRIPTIONS","(POUNDS OF","(HOURS OF","(MEALS","(MEALS","(NUMBER","(DIRECT","(COSTED","(COSTED","(TIME","(TIME", , ,"COST CENTER DESCRIPTIONS","SERVICE","THETISTS","(ASSIGNED","(ASSIGNED","(ASSIGNED","(ASSIGNED", ,"STEPDOWN"
+ , , ,"FEET)","VALUE)","SALARIES)","IATION","COST)","FEET)","FEET)", , , ,"LAUNDRY)","SERVICE)","SERVED)","SERVED)","HOUSED)","NURS. HRS)","REQUIS.)","REQUIS.)","SPENT)","SPENT)", , , ,"(SPECIFY)","(ASGND TIME)","TIME)","TIME)","TIME)","TIME)","SUBTOTAL","ADJUSTMENTS","TOTAL"
+ , , ,"1","2","4","5A","5","6","7", , , ,"8","9","10","11","12","13","14","15","16","17", , , ,"18","19","20","21","22","23","24","25","26"
+ ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , , , ,"GENERAL SERVICE COST CENTERS"
+"1","Capital Related Costs-Buildings and Fixtures", , , , , , , , ,"1","1","Capital Related Costs-Buildings and Fixtures", , , , , , , , , , ,"1","1","Capital Related Costs-Buildings and Fixtures", , , , , , , , , ,"1"
+"2","Capital Related Costs-Movable Equipment", , , , , , , , ,"2","2","Capital Related Costs-Movable Equipment", , , , , , , , , , ,"2","2","Capital Related Costs-Movable Equipment", , , , , , , , , ,"2"
+"4","Employee Benefits", , , , , , , , ,"4","4","Employee Benefits", , , , , , , , , , ,"4","4","Employee Benefits", , , , , , , , , ,"4"
+"5","Administrative and General", , , , , , , , ,"5","5","Administrative and General", , , , , , , , , , ,"5","5","Administrative and General", , , , , , , , , ,"5"
+"6","Maintenance and Repairs", , , , , , , , ,"6","6","Maintenance and Repairs", , , , , , , , , , ,"6","6","Maintenance and Repairs", , , , , , , , , ,"6"
+"7","Operation of Plant", , , , , , , , ,"7","7","Operation of Plant", , , , , , , , , , ,"7","7","Operation of Plant", , , , , , , , , ,"7"
+"8","Laundry and Linen Service", , , , , , , , ,"8","8","Laundry and Linen Service", , , , , , , , , , ,"8","8","Laundry and Linen Service", , , , , , , , , ,"8"
+"9","Housekeeping", , , , , , , , ,"9","9","Housekeeping", , , , , , , , , , ,"9","9","Housekeeping", , , , , , , , , ,"9"
+"10","Dietary", , , , , , , , ,"10","10","Dietary", , , , , , , , , , ,"10","10","Dietary", , , , , , , , , ,"10"
+"11","Cafeteria", , , , , , , , ,"11","11","Cafeteria", , , , , , , , , , ,"11","11","Cafeteria", , , , , , , , , ,"11"
+"12","Maintenance of Personnel", , , , , , , , ,"12","12","Maintenance of Personnel", , , , , , , , , , ,"12","12","Maintenance of Personnel", , , , , , , , , ,"12"
+"13","Nursing Administration", , , , , , , , ,"13","13","Nursing Administration", , , , , , , , , , ,"13","13","Nursing Administration", , , , , , , , , ,"13"
+"14","Central Services and Supply", , , , , , , , ,"14","14","Central Services and Supply", , , , , , , , , , ,"14","14","Central Services and Supply", , , , , , , , , ,"14"
+"15","Pharmacy", , , , , , , , ,"15","15","Pharmacy", , , , , , , , , , ,"15","15","Pharmacy", , , , , , , , , ,"15"
+"16","Medical Records & Medical Records Library", , , , , , , , ,"16","16","Medical Records & Medical Records Library", , , , , , , , , , ,"16","16","Medical Records & Medical Records Library", , , , , , , , , ,"16"
+"17","Social Service", , , , , , , , ,"17","17","Social Service", , , , , , , , , , ,"17","17","Social Service", , , , , , , , , ,"17"
+"18","Other General Service (specify)", , , , , , , , ,"18","18","Other General Service (specify)", , , , , , , , , , ,"18","18","Other General Service (specify)", , , , , , , , , ,"18"
+"19","Nonphysician Anesthetists", , , , , , , , ,"19","19","Nonphysician Anesthetists", , , , , , , , , , ,"19","19","Nonphysician Anesthetists", , , , , , , , , ,"19"
+"20","Nursing School", , , , , , , , ,"20","20","Nursing School", , , , , , , , , , ,"20","20","Nursing School", , , , , , , , , ,"20"
+"21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , ,"21","21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , , , ,"21","21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , , ,"21"
+"22","Intern & Res. Other Program Costs (Approved)", , , , , , , , ,"22","22","Intern & Res. Other Program Costs (Approved)", , , , , , , , , , ,"22","22","Intern & Res. Other Program Costs (Approved)", , , , , , , , , ,"22"
+"23","Paramedical Education Program (specify)", , , , , , , , ,"23","23","Paramedical Education Program (specify)", , , , , , , , , , ,"23","23","Paramedical Education Program (specify)", , , , , , , , , ,"23"
+ ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , , , ,"INPATIENT ROUTINE SERVICE COST CENTERS"
+"30","Adults and Pediatrics (General Routine Care)", , , , , , , , ,"30","30","Adults and Pediatrics (General Routine Care)", , , , , , , , , , ,"30","30","Adults and Pediatrics (General Routine Care)", , , , , , , , , ,"30"
+"31","Intensive Care Unit", , , , , , , , ,"31","31","Intensive Care Unit", , , , , , , , , , ,"31","31","Intensive Care Unit", , , , , , , , , ,"31"
+"32","Coronary Care Unit", , , , , , , , ,"32","32","Coronary Care Unit", , , , , , , , , , ,"32","32","Coronary Care Unit", , , , , , , , , ,"32"
+"33","Burn Intensive Care Unit", , , , , , , , ,"33","33","Burn Intensive Care Unit", , , , , , , , , , ,"33","33","Burn Intensive Care Unit", , , , , , , , , ,"33"
+"34","Surgical Intensive Care Unit", , , , , , , , ,"34","34","Surgical Intensive Care Unit", , , , , , , , , , ,"34","34","Surgical Intensive Care Unit", , , , , , , , , ,"34"
+"35","Other Special Care Unit (specify)", , , , , , , , ,"35","35","Other Special Care Unit (specify)", , , , , , , , , , ,"35","35","Other Special Care Unit (specify)", , , , , , , , , ,"35"
+"40","Subprovider IPF", , , , , , , , ,"40","40","Subprovider IPF", , , , , , , , , , ,"40","40","Subprovider IPF", , , , , , , , , ,"40"
+"41","Subprovider IRF", , , , , , , , ,"41","41","Subprovider IRF", , , , , , , , , , ,"41","41","Subprovider IRF", , , , , , , , , ,"41"
+"42","Subprovider (specify)", , , , , , , , ,"42","42","Subprovider (specify)", , , , , , , , , , ,"42","42","Subprovider (specify)", , , , , , , , , ,"42"
+"43","Nursery", , , , , , , , ,"43","43","Nursery", , , , , , , , , , ,"43","43","Nursery", , , , , , , , , ,"43"
+"44","Skilled Nursing Facility", , , , , , , , ,"44","44","Skilled Nursing Facility", , , , , , , , , , ,"44","44","Skilled Nursing Facility", , , , , , , , , ,"44"
+"45","Nursing Facility", , , , , , , , ,"45","45","Nursing Facility", , , , , , , , , , ,"45","45","Nursing Facility", , , , , , , , , ,"45"
+"46","Other Long Term Care", , , , , , , , ,"46","46","Other Long Term Care", , , , , , , , , , ,"46","46","Other Long Term Care", , , , , , , , , ,"46"
+"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\"", , , , , , , , , , ,"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\"", , , , , , , , , , , , ,"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\""
+"Rev. 2", , , , , , , , , ,"40-553","40-556", , , , , , , , , , , ,"Rev. 2","Rev. 2", , , , , , , , , , ,"40-559"
+"4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , ,"08-11","08-11", , , ,"FORM CMS-2552-10", , , , , , , ,"4090 (Cont.)","4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , , ,"08-11"
+"COST ALLOCATION - STATISTICAL BASIS", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1"
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , ,"FROM ____________", , , , , , , , , , , ,"FROM ____________"
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , ,"________________", ,"TO _______________", , , , , , , , , ,"________________", ,"TO _______________"
+ , , ,"CAPITAL RELATED COST", , , ,"ADMINIS-","MAIN-", , , , ,"LAUNDRY", , , ,"MAIN-","NURSING","CENTRAL", ,"MEDICAL", , , , , ,"NON-", ,"INTERNS & RESIDENTS", ,"PARA-", ,"INTERN &"
+ , , ,"BLDGS. &","MOVABLE","EMPLOYEE", ,"TRATIVE &","TENANCE &","OPERATION", , , ,"& LINEN","HOUSE-", , ,"TENANCE OF","ADMINIS-","SERVICES &", ,"RECORDS &","SOCIAL", , , ,"OTHER","PHYSICIAN","NURSING","SALARY AND","PROGRAM","MEDICAL", ,"RESIDENT"
+ , , ,"FIXTURES","EQUIPMENT","BENEFITS", ,"GENERAL","REPAIRS","OF PLANT", , , ,"SERVICE","KEEPING","DIETARY","CAFETERIA","PERSONNEL","TRATION","SUPPLY","PHARMACY","LIBRARY","SERVICE", , , ,"GENERAL","ANES-","SCHOOL","FRINGES","COSTS","EDUCATION", ,"COST & POST"
+ ,"COST CENTER DESCRIPTIONS", ,"(SQUARE","(DOLLAR","(GROSS","RECONCIL-","(ACCUM.","(SQUARE","(SQUARE", , ,"COST CENTER DESCRIPTIONS","(POUNDS OF","(HOURS OF","(MEALS","(MEALS","(NUMBER","(DIRECT","(COSTED","(COSTED","(TIME","(TIME", , ,"COST CENTER DESCRIPTIONS","SERVICE","THETISTS","(ASSIGNED","(ASSIGNED","(ASSIGNED","(ASSIGNED", ,"STEPDOWN"
+ , , ,"FEET)","VALUE)","SALARIES)","IATION","COST)","FEET)","FEET)", , , ,"LAUNDRY)","SERVICE)","SERVED)","SERVED)","HOUSED)","NURS. HRS)","REQUIS.)","REQUIS.)","SPENT)","SPENT)", , , ,"(SPECIFY)","(ASGND TIME)","TIME)","TIME)","TIME)","TIME)","SUBTOTAL","ADJUSTMENTS","TOTAL"
+ , , ,"1","2","4","5A","5","6","7", , , ,"8","9","10","11","12","13","14","15","16","17", , , ,"18","19","20","21","22","23","24","25","26"
+ ,"ANCILLARY SERVICE COST CENTERS", , , , , , , , , , ,"ANCILLARY SERVICE COST CENTERS", , , , , , , , , , , , ,"ANCILLARY SERVICE COST CENTERS"
+"50","Operating Room", , , , , , , , ,"50","50","Operating Room", , , , , , , , , , ,"50","50","Operating Room", , , , , , , , , ,"50"
+"51","Recovery Room", , , , , , , , ,"51","51","Recovery Room", , , , , , , , , , ,"51","51","Recovery Room", , , , , , , , , ,"51"
+"52","Labor Room and Delivery Room", , , , , , , , ,"52","52","Labor Room and Delivery Room", , , , , , , , , , ,"52","52","Labor Room and Delivery Room", , , , , , , , , ,"52"
+"53","Anesthesiology", , , , , , , , ,"53","53","Anesthesiology", , , , , , , , , , ,"53","53","Anesthesiology", , , , , , , , , ,"53"
+"54","Radiology-Diagnostic", , , , , , , , ,"54","54","Radiology-Diagnostic", , , , , , , , , , ,"54","54","Radiology-Diagnostic", , , , , , , , , ,"54"
+"55","Radiology-Therapeutic", , , , , , , , ,"55","55","Radiology-Therapeutic", , , , , , , , , , ,"55","55","Radiology-Therapeutic", , , , , , , , , ,"55"
+"56","Radioisotope", , , , , , , , ,"56","56","Radioisotope", , , , , , , , , , ,"56","56","Radioisotope", , , , , , , , , ,"56"
+"57","Computed Tomography (CT) Scan", , , , , , , , ,"57","57","Computed Tomography (CT) Scan", , , , , , , , , , ,"57","57","Computed Tomography (CT) Scan", , , , , , , , , ,"57"
+"58","Magnetic Resonance Imaging (MRI)", , , , , , , , ,"58","58","Magnetic Resonance Imaging (MRI)", , , , , , , , , , ,"58","58","Magnetic Resonance Imaging (MRI)", , , , , , , , , ,"58"
+"59","Cardiac Catheterization", , , , , , , , ,"59","59","Cardiac Catheterization", , , , , , , , , , ,"59","59","Cardiac Catheterization", , , , , , , , , ,"59"
+"60","Laboratory", , , , , , , , ,"60","60","Laboratory", , , , , , , , , , ,"60","60","Laboratory", , , , , , , , , ,"60"
+"61","PBP Clinical Laboratory Services-Program Only", , , , , , , , ,"61","61","PBP Clinical Laboratory Services-Program Only", , , , , , , , , , ,"61","61","PBP Clinical Laboratory Services-Program Only", , , , , , , , , ,"61"
+"62","Whole Blood & Packed Red Blood Cells", , , , , , , , ,"62","62","Whole Blood & Packed Red Blood Cells", , , , , , , , , , ,"62","62","Whole Blood & Packed Red Blood Cells", , , , , , , , , ,"62"
+"63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , ,"63","63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , , , ,"63","63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , , ,"63"
+"64","Intravenous Therapy", , , , , , , , ,"64","64","Intravenous Therapy", , , , , , , , , , ,"64","64","Intravenous Therapy", , , , , , , , , ,"64"
+"65","Respiratory Therapy", , , , , , , , ,"65","65","Respiratory Therapy", , , , , , , , , , ,"65","65","Respiratory Therapy", , , , , , , , , ,"65"
+"66","Physical Therapy", , , , , , , , ,"66","66","Physical Therapy", , , , , , , , , , ,"66","66","Physical Therapy", , , , , , , , , ,"66"
+"67","Occupational Therapy", , , , , , , , ,"67","67","Occupational Therapy", , , , , , , , , , ,"67","67","Occupational Therapy", , , , , , , , , ,"67"
+"68","Speech Pathology", , , , , , , , ,"68","68","Speech Pathology", , , , , , , , , , ,"68","68","Speech Pathology", , , , , , , , , ,"68"
+"69","Electrocardiology", , , , , , , , ,"69","69","Electrocardiology", , , , , , , , , , ,"69","69","Electrocardiology", , , , , , , , , ,"69"
+"70","Electroencephalography", , , , , , , , ,"70","70","Electroencephalography", , , , , , , , , , ,"70","70","Electroencephalography", , , , , , , , , ,"70"
+"71","Medical Supplies Charged to Patients", , , , , , , , ,"71","71","Medical Supplies Charged to Patients", , , , , , , , , , ,"71","71","Medical Supplies Charged to Patients", , , , , , , , , ,"71"
+"72","Implantable Devices Charged to Patients", , , , , , , , ,"72","72","Implantable Devices Charged to Patients", , , , , , , , , , ,"72","72","Implantable Devices Charged to Patients", , , , , , , , , ,"72"
+"73","Drugs Charged to Patients", , , , , , , , ,"73","73","Drugs Charged to Patients", , , , , , , , , , ,"73","73","Drugs Charged to Patients", , , , , , , , , ,"73"
+"74","Renal Dialysis", , , , , , , , ,"74","74","Renal Dialysis", , , , , , , , , , ,"74","74","Renal Dialysis", , , , , , , , , ,"74"
+"75","ASC (Non-Distinct Part)", , , , , , , , ,"75","75","ASC (Non-Distinct Part)", , , , , , , , , , ,"75","75","ASC (Non-Distinct Part)", , , , , , , , , ,"75"
+"76","Other Ancillary (specify)", , , , , , , , ,"76","76","Other Ancillary (specify)", , , , , , , , , , ,"76","76","Other Ancillary (specify)", , , , , , , , , ,"76"
+ ,"OUTPATIENT SERVICE COST CENTERS", , , , , , , , , , ,"OUTPATIENT SERVICE COST CENTERS", , , , , , , , , , , , ,"OUTPATIENT SERVICE COST CENTERS"
+"88","Rural Health Clinic (RHC)", , , , , , , , ,"88","88","Rural Health Clinic (RHC)", , , , , , , , , , ,"88","88","Rural Health Clinic (RHC)", , , , , , , , , ,"88"
+"89","Federally Qualified Health Center (FQHC)", , , , , , , , ,"89","89","Federally Qualified Health Center (FQHC)", , , , , , , , , , ,"89","89","Federally Qualified Health Center (FQHC)", , , , , , , , , ,"89"
+"90","Clinic", , , , , , , , ,"90","90","Clinic", , , , , , , , , , ,"90","90","Clinic", , , , , , , , , ,"90"
+"91","Emergency", , , , , , , , ,"91","91","Emergency", , , , , , , , , , ,"91","91","Emergency", , , , , , , , , ,"91"
+"92","Observation Beds", , , , , , , , ,"92","92","Observation Beds", , , , , , , , , , ,"92","92","Observation Beds", , , , , , , , , ,"92"
+"93","Other Outpatient Service (specify)", , , , , , , , ,"93","93","Other Outpatient Service (specify)", , , , , , , , , , ,"93","93","Other Outpatient Service (specify)", , , , , , , , , ,"93"
+"4090 (Cont.)", ,"FORM CMS-2552-10", , , ,"08-11", , , , , , , , , , , , , 
+"POST STEPDOWN ADJUSTMENTS", ,"PROVIDER CCN:","PERIOD:", ,"WORKSHEET B-2", , , , , , , , , , , , , , , , , , , , , , , ,"."
+ , , ,"FROM ____________", , , , , , , , , , , , , , , , 
+ , ,"________________","TO _______________", , , , , , , , , , , , , , , , 
+ , , ,"WORKSHEET", , , , , , , , , , , , , , , , 
+ ,"DESCRIPTION", ,"PART","LINE NO.","AMOUNT", , , , , , , , , , , , , , 
+ ,"1", ,"2","3","4", , , , , , , , , , , , , , 
+"1","Adjustment for EPO costs in Renal Dialysis cost center", ,"1","74", ,"1", , , , , , , , , , , , , 
+"2","Adjustment for EPO costs in Home Program Dialysis cost center", ,"1","94", ,"2", , , , , , , , , , , , , 
+"3","Adjustment for ARANESP costs in Renal Dialysis cost center", ,"1","74", ,"3", , , , , , , , , , , , , 
+"4","Adjustment for ARANESP costs in Home Program Dialysis cost center", ,"1","94", ,"4", , , , , , , , , , , , , 
+"5", , , , , ,"5", , , , , , , , , , , , , 
+"6", , , , , ,"6", , , , , , , , , , , , , 
+"7", , , , , ,"7", , , , , , , , , , , , , 
+"8", , , , , ,"8", , , , , , , , , , , , , 
+"9", , , , , ,"9", , , , , , , , , , , , , 
+"10", , , , , ,"10", , , , , , , , , , , , , 
+"11", , , , , ,"11", , , , , , , , , , , , , 
+"12", , , , , ,"12", , , , , , , , , , , , , 
+"13", , , , , ,"13", , , , , , , , , , , , , 
+"14", , , , , ,"14", , , , , , , , , , , , , 
+"15", , , , , ,"15", , , , , , , , , , , , , 
+"16", , , , , ,"16", , , , , , , , , , , , , 
+"17", , , , , ,"17", , , , , , , , , , , , , 
+"18", , , , , ,"18", , , , , , , , , , , , , 
+"19", , , , , ,"19", , , , , , , , , , , , , 
+"20", , , , , ,"20", , , , , , , , , , , , , 
+"21", , , , , ,"21", , , , , , , , , , , , , 
+"22", , , , , ,"22", , , , , , , , , , , , , 
+"23", , , , , ,"23", , , , , , , , , , , , , 
+"24", , , , , ,"24", , , , , , , , , , , , , 
+"25", , , , , ,"25", , , , , , , , , , , , , 
+"26", , , , , ,"26", , , , , , , , , , , , , 
+"27", , , , , ,"27", , , , , , , , , , , , , 
+"28", , , , , ,"28", , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , 
+"BI.csv[00000]","BI.csv[00100]","BI.csv[00200]","BI.csv[00300]","BI.csv[00400]","BI.csv[00500]","BI.csv[00600]","BI.csv[00700]","BI.csv[00800]","BI.csv[00900]","BI.csv[01000]","BI.csv[01100]","BI.csv[01200]","BI.csv[01300]","BI.csv[01400]","BI.csv[01500]","BI.csv[01600]","BI.csv[01700]","BI.csv[01800]","BI.csv[01900]","BI.csv[02000]","BI.csv[02100]","BI.csv[02200]","BI.csv[02300]","BI.csv[02400]","BI.csv[02500]","BI.csv[02600]","BI.csv[02700]","BI.csv[02800]","BI.csv[02900]","BI.csv[03000]","BI.csv[03100]","BI.csv[03200]","BI.csv[03300]","BI.csv[03400]","BI.csv[03500]", , , , , ,"BI.csv[04100]"
+"4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , ,"08-11", , , , , , , , , 
+"RECLASSIFICATION AND ADJUSTMENT OF TRIAL BALANCE OF EXPENSES", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET A", , , , , , , , , , 
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , 
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , , , 
+ , , , , , , ,"RECLASSIFIED", ,"NET EXPENSES", , , , , , , , , , 
+ , ,"COST CENTER DESCRIPTIONS", , ,"TOTAL","RECLASSIFI-","TRIAL BALANCE", ,"FOR ALLOCATION", , , , , , , , , , 
+ , ,"(omit cents)","SALARIES","OTHER","(col. 1 + col. 2)","CATIONS", ,"ADJUSTMENTS", , , , , , , , , , , 
+ , , ,"1","2","3","4","5","6","7", , , , , , , , , , 
+ , ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , , , , , , , , 
+"1","00100","Capital Related Costs-Buildings and Fixtures", , , , , , , ,"1", , , , , , , , , 
+"2","00200","Capital Related Costs-Movable Equipment", , , , , , , ,"2", , , , , , , , , 
+"3","00300","Other Capital Related Costs", , , , , , ,"-0-","3", , , , , , , , , 
+"4","00400","Employee Benefits", , , , , , , ,"4", , , , , , , , , 
+"5","00500","Administrative and General", , , , , , , ,"5", , , , , , , , , 
+"6","00600","Maintenance and Repairs", , , , , , , ,"6", , , , , , , , , 
+"7","00700","Operation of Plant", , , , , , , ,"7", , , , , , , , , 
+"8","00800","Laundry and Linen Service", , , , , , , ,"8", , , , , , , , , 
+"9","00900","Housekeeping", , , , , , , ,"9", , , , , , , , , 
+"10","01000","Dietary", , , , , , , ,"10", , , , , , , , , 
+"11","01100","Cafeteria", , , , , , , ,"11", , , , , , , , , 
+"12","01200","Maintenance of Personnel", , , , , , , ,"12", , , , , , , , , 
+"13","01300","Nursing Administration", , , , , , , ,"13", , , , , , , , , 
+"14","01400","Central Services and Supply", , , , , , , ,"14", , , , , , , , , 
+"15","01500","Pharmacy", , , , , , , ,"15", , , , , , , , , 
+"16","01600","Medical Records & Medical Records Library", , , , , , , ,"16", , , , , , , , , 
+"17","01700","Social Service", , , , , , , ,"17", , , , , , , , , 
+"18", ,"Other General Service (specify)", , , , , , , ,"18", , , , , , , , , 
+"19","01900","Nonphysician Anesthetists", , , , , , , ,"19", , , , , , , , , 
+"20","02000","Nursing School", , , , , , , ,"20", , , , , , , , , 
+"21","02100","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , ,"21", , , , , , , , , 
+"22","02200","Intern & Res. Other Program Costs (Approved)", , , , , , , ,"22", , , , , , , , , 
+"23","02300","Paramedical Ed. Program (specify)", , , , , , , ,"23", , , , , , , , , 
+ , ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , , , , , , , , 
+"30","03000","Adults and Pediatrics (General Routine Care)", , , , , , , ,"30", , , , , , , , , 
+"31","03100","Intensive Care Unit", , , , , , , ,"31", , , , , , , , , 
+"32","03200","Coronary Care Unit", , , , , , , ,"32", , , , , , , , , 
+"33","03300","Burn Intensive Care Unit", , , , , , , ,"33", , , , , , , , , 
+"34","03400","Surgical Intensive Care Unit", , , , , , , ,"34", , , , , , , , , 
+"35", ,"Other Special Care (specify)", , , , , , , ,"35", , , , , , , , , 
+"40","04000","Subprovider - IPF", , , , , , , ,"40", , , , , , , , , 
+"41","04100","Subprovider - IRF", , , , , , , ,"41", , , , , , , , , 
+"42","04200","Subprovider (specify)", , , , , , , ,"42", , , , , , , , , 
+"08-11", , ,"FORM CMS-2552-10", , , , , , , , ,"4090 (Cont.)", , , , , , , 
+"RECLASSIFICATIONS", , , , , , ,"PROVIDER CCN:","PERIOD:", ,"WORKSHEET A-6", , , , , , , , , 
+ , , , , , , , ,"FROM ____________", , , , , , , , , , , 
+ , , , , , , ,"________________","TO _______________", , , , , , , , , , , 
+ , , , ,"INCREASES", , , ,"DECREASES", , ,"Wkst.", , , , , , , , 
+ , ,"CODE", , , , , , , , ,"A-7", , , , , , , , 
+ ,"EXPLANATION OF RECLASSIFICATION(S)","(1)","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref.", , , , , , , , 
+ , ,"1","2","3","4","5","6","7","8","9","10", , , , , , , , 
+"1", , , , , , , , , , , ,"1", , , , , , , 
+"2", , , , , , , , , , , ,"2", , , , , , , 
+"3", , , , , , , , , , , ,"3", , , , , , , 
+"4", , , , , , , , , , , ,"4", , , , , , , 
+"5", , , , , , , , , , , ,"5", , , , , , , 
+"6", , , , , , , , , , , ,"6", , , , , , , 
+"7", , , , , , , , , , , ,"7", , , , , , , 
+"8", , , , , , , , , , , ,"8", , , , , , , 
+"9", , , , , , , , , , , ,"9", , , , , , , 
+"10", , , , , , , , , , , ,"10", , , , , , , 
+"11", , , , , , , , , , , ,"11", , , , , , , 
+ ,"PART I - ANALYSIS OF CHANGES IN CAPITAL ASSET BALANCES", , , , , , , , , , , , , , , , , , 
+ , , , , ,"Acquisitions", , ,"Disposals", ,"Fully", , , , , , , , , 
+ , , , ,"Beginning", , , ,"and","Ending","Depreciated", , , , , , , , , 
+ , ,"Description", ,"Balances","Purchases","Donation","Total","Retirements","Balance","Assets", , , , , , , , , 
+ , , , ,"1","2","3","4","5","6","7", , , , , , , , , 
+"08-11", ,"FORM CMS-2552-10", , , , , ,"4090 (Cont.)", , , , , , , , , , , 
+"ADJUSTMENTS TO EXPENSES", ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET A-8", , , , , , , , , , , , , 
+ , , , ,"FROM ____________", , , , , , , , , , , , , , , 
+ , ,"________________", ,"TO _______________", , , , , , , , , , , , , , , 
+ , , , ,"EXPENSE CLASSIFICATION ON", , , , , , , , , , , , , , , 
+ ,"DESCRIPTION (1)", , ,"WORKSHEET A TO/FROM WHICH", , ,"Wkst.", , , , , , , , , , , , 
+ , , , ,"THE AMOUNT IS TO BE ADJUSTED", , ,"A-7", , , , , , , , , , , , 
+ , ,"BASIS/CODE (2)","AMOUNT","COST CENTER", ,"LINE #","Ref.", , , , , , , , , , , , 
+ , ,"1","2","3", ,"4","5", , , , , , , , , , , , 
+"1","Investment income - buildings and fixtures (chapter 2)", , ,"Buildings and Fixtures", ,"1", ,"1", , , , , , , , , , , 
+"2","Investment income - movable equipment (chapter 2)", , ,"Movable Equipment", ,"2", ,"2", , , , , , , , , , , 
+"3","Investment income - other (chapter 2)", , , , , , ,"3", , , , , , , , , , , 
+"4","\" Trade","quantity","and time discounts (chapter 8)\"", , , , , , ,"4", , , , , , , , , 
+"5","Refunds and rebates of expenses (chapter 8)", , , , , , ,"5", , , , , , , , , , , 
+"6","Rental of provider space by suppliers (chapter 8)", , , , , , ,"6", , , , , , , , , , , 
+"7","Telephone services (pay stations excluded) (chapter 21)", , , , , , ,"7", , , , , , , , , , , 
+"8","Television and radio service (chapter 21)", , , , , , ,"8", , , , , , , , , , , 
+"9","Parking lot (chapter 21)", , , , , , ,"9", , , , , , , , , , , 
+"10","Provider-based physician adjustment","Worksheet A-8-2", , , , , ,"10", , , , , , , , , , , 
+"11","\" Sale of scrap","waste","etc. (chapter 23)\"", , , , , , ,"11", , , , , , , , , 
+"12","Related organization transactions (chapter 10)","Worksheet A-8-1", , , , , ,"12", , , , , , , , , , , 
+"13","Laundry and linen service", , , , , , ,"13", , , , , , , , , , , 
+"14","Cafeteria-employees and guests", , , , , , ,"14", , , , , , , , , , , 
+"15","Rental of quarters to employee and others", , , , , , ,"15", , , , , , , , , , , 
+"16","Sale of medical and surgical", , , , , , ,"16", , , , , , , , , , , 
+ ,"supplies to other than patients", , , , , , , , , , , , , , , , , , 
+"17","Sale of drugs to other than patients", , , , , , ,"17", , , , , , , , , , , 
+"18","Sale of medical records and abstracts", , , , , , ,"18", , , , , , , , , , , 
+"19","\" Nursing school (tuition","fees","books","etc.)\"", , , , , , ,"19", , , , , , , , 
+"20","Vending machines", , , , , , ,"20", , , , , , , , , , , 
+"21","\" Income from imposition of interest","\"", , , , , , ,"21", , , , , , , , , , 
+ ,"finance or penalty charges (chapter 21)", , , , , , , , , , , , , , , , , , 
+"22","Interest expense on Medicare overpayments and", , , , , , ,"22", , , , , , , , , , , 
+ ,"borrowings to repay Medicare overpayments", , , , , , , , , , , , , , , , , , 
+"23","Adjustment for respiratory therapy", , , , , , ,"23", , , , , , , , , , , 
+ ,"costs in excess of limitation (chapter 14)","Worksheet A-8-3", ,"Respiratory Therapy", ,"65", , , , , , , , , , , , , 
+"24","Adjustment for physical therapy costs", , , , , , ,"24", , , , , , , , , , , 
+ ,"in excess of limitation (chapter 14)","Worksheet A-8-3", ,"Physical Therapy", ,"66", , , , , , , , , , , , , 
+"25", , , , , , , , , , , , , , , , , , , 
+ , , ,"Remuneration","Component","Component","Amount","Component Hours","RCE Limit","RCE Limit", , , , , , , , , , 
+ ,"1","2","3","4","5","6","7","8","9", , , , , , , , , , 
+"1", , , , , , , , , ,"1", , , , , , , , , 
+"2", , , , , , , , , ,"2", , , , , , , , , 
+"3", , , , , , , , , ,"3", , , , , , , , , 
+"4", , , , , , , , , ,"4", , , , , , , , , 
+"5", , , , , , , , , ,"5", , , , , , , , , 
+"6", , , , , , , , , ,"6", , , , , , , , , 
+"7", , , , , , , , , ,"7", , , , , , , , , 
+"4090 (Cont.)", , ,"FORM CMS-2552-10", , , , ,"08-11", , , , , , , , , , , 
+"REASONABLE COST DETERMINATION FOR THERAPY SERVICES", , , , ,"PROVIDER CCN:","PERIOD:","\" WORKSHEET A-8-3","\"", , , , , , , , , , , 
+"FURNISHED BY OUTSIDE SUPPLIERS", , , , , ,"FROM ____________","PARTS I & II", , , , , , , , , , , , 
+ , , , , ,"________________","TO _______________", , , , , , , , , , , , , 
+"Check applicable box:", ,"[ ] Occupational          [ ] Physical          [ ] Respiratory          [ ] Speech Pathology", , , , , , , , , , , , , , , , , 
+"PART I - GENERAL INFORMATION", , , , , , , , , , , , , , , , , , , 
+"1","Total number of weeks worked (excluding aides) (see instructions)", , , , , , ,"1", , , , , , , , , , , 
+"2","Line 1 multiplied by 15 hours per week", , , , , , ,"2", , , , , , , , , , , 
+"3","Number of unduplicated days in which supervisor or therapist was on provider site (see instructions)", , , , , , ,"3", , , , , , , , , , , 
+"4","Number of unduplicated days in which therapy assistant was on provider site but neither supervisor nor therapist was on provider site (see instructions)", , , , , , ,"4", , , , , , , , , , , 
+"5","Number of unduplicated offsite visits - supervisors or therapists (see instructions)", , , , , , ,"5", , , , , , , , , , , 
+"6","Number of unduplicated offsite visits - therapy assistants (include only visits made by therapy assistant and on which", , , , , , ,"6", , , , , , , , , , , 
+ ,"supervisor and/or therapist was not present during the visit(s)) (see instructions)", , , , , , , , , , , , , , , , , , 
+"7","Standard travel expense rate", , , , , , ,"7", , , , , , , , , , , 
+"8","Optional travel expense rate per mile", , , , , , ,"8", , , , , , , , , , , 
+ , , ,"Supervisors","dcr","Assistants","Aides","Trainees", , , , , , , , , , , , 
+ , , ,"1","2","3","4","5", , , , , , , , , , , , 
+"9","Total hours worked", , , , , , ,"9", , , , , , , , , , , 
+"10","AHSEA (see instructions)", , , , , , ,"10", , , , , , , , , , , 
+"11","\" Standard travel allowance (columns 1 and 2","one-half of column 2","\"", , , , , , ,"11", , , , , , , , , 
+ ,"\"  line 10; column 3","one-half of column 3","line 10)\"", , , , , , , , , , , , , , , , 
+"12","Number of travel hours (see instructions)", , , , , , ,"12", , , , , , , , , , , 
+"13","Number of miles driven (see instructions)", , , , , , ,"13", , , , , , , , , , , 
+"08-11", , , ,"FORM CMS-2552-10", , , , , ,"4090 (Cont.)","4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , , , ,"08-11","08-11", , , ,"FORM CMS-2552-10", , , , , , ,"4090 (Cont.)"
+"COST ALLOCATION - STATISTICAL BASIS", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1"
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , ,"FROM ____________", , , , , , , , , , , ,"FROM ____________"
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , ,"________________", ,"TO _______________", , , , , , , , , ,"________________", ,"TO _______________"
+ , , ,"CAPITAL RELATED COST", , , ,"ADMINIS-","MAIN-", , , , ,"LAUNDRY", , , ,"MAIN-","NURSING","CENTRAL", ,"MEDICAL", , , , , ,"NON-", ,"INTERNS & RESIDENTS", ,"PARA-", ,"INTERN &"
+ , , ,"BLDGS. &","MOVABLE","EMPLOYEE", ,"TRATIVE &","TENANCE &","OPERATION", , , ,"& LINEN","HOUSE-", , ,"TENANCE OF","ADMINIS-","SERVICES &", ,"RECORDS &","SOCIAL", , , ,"OTHER","PHYSICIAN","NURSING","SALARY AND","PROGRAM","MEDICAL", ,"RESIDENT"
+ , , ,"FIXTURES","EQUIPMENT","BENEFITS", ,"GENERAL","REPAIRS","OF PLANT", , , ,"SERVICE","KEEPING","DIETARY","CAFETERIA","PERSONNEL","TRATION","SUPPLY","PHARMACY","LIBRARY","SERVICE", , , ,"GENERAL","ANES-","SCHOOL","FRINGES","COSTS","EDUCATION", ,"COST & POST"
+ ,"COST CENTER DESCRIPTIONS", ,"(SQUARE","(DOLLAR","(GROSS","RECONCIL-","(ACCUM.","(SQUARE","(SQUARE", , ,"COST CENTER DESCRIPTIONS","(POUNDS OF","(HOURS OF","(MEALS","(MEALS","(NUMBER","(DIRECT","(COSTED","(COSTED","(TIME","(TIME", , ,"COST CENTER DESCRIPTIONS","SERVICE","THETISTS","(ASSIGNED","(ASSIGNED","(ASSIGNED","(ASSIGNED", ,"STEPDOWN"
+ , , ,"FEET)","VALUE)","SALARIES)","IATION","COST)","FEET)","FEET)", , , ,"LAUNDRY)","SERVICE)","SERVED)","SERVED)","HOUSED)","NURS. HRS)","REQUIS.)","REQUIS.)","SPENT)","SPENT)", , , ,"(SPECIFY)","(ASGND TIME)","TIME)","TIME)","TIME)","TIME)","SUBTOTAL","ADJUSTMENTS","TOTAL"
+ , , ,"1","2","4","5A","5","6","7", , , ,"8","9","10","11","12","13","14","15","16","17", , , ,"18","19","20","21","22","23","24","25","26"
+ ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , , , ,"GENERAL SERVICE COST CENTERS"
+"1","Capital Related Costs-Buildings and Fixtures", , , , , , , , ,"1","1","Capital Related Costs-Buildings and Fixtures", , , , , , , , , , ,"1","1","Capital Related Costs-Buildings and Fixtures", , , , , , , , , ,"1"
+"2","Capital Related Costs-Movable Equipment", , , , , , , , ,"2","2","Capital Related Costs-Movable Equipment", , , , , , , , , , ,"2","2","Capital Related Costs-Movable Equipment", , , , , , , , , ,"2"
+"4","Employee Benefits", , , , , , , , ,"4","4","Employee Benefits", , , , , , , , , , ,"4","4","Employee Benefits", , , , , , , , , ,"4"
+"5","Administrative and General", , , , , , , , ,"5","5","Administrative and General", , , , , , , , , , ,"5","5","Administrative and General", , , , , , , , , ,"5"
+"6","Maintenance and Repairs", , , , , , , , ,"6","6","Maintenance and Repairs", , , , , , , , , , ,"6","6","Maintenance and Repairs", , , , , , , , , ,"6"
+"7","Operation of Plant", , , , , , , , ,"7","7","Operation of Plant", , , , , , , , , , ,"7","7","Operation of Plant", , , , , , , , , ,"7"
+"8","Laundry and Linen Service", , , , , , , , ,"8","8","Laundry and Linen Service", , , , , , , , , , ,"8","8","Laundry and Linen Service", , , , , , , , , ,"8"
+"9","Housekeeping", , , , , , , , ,"9","9","Housekeeping", , , , , , , , , , ,"9","9","Housekeeping", , , , , , , , , ,"9"
+"10","Dietary", , , , , , , , ,"10","10","Dietary", , , , , , , , , , ,"10","10","Dietary", , , , , , , , , ,"10"
+"11","Cafeteria", , , , , , , , ,"11","11","Cafeteria", , , , , , , , , , ,"11","11","Cafeteria", , , , , , , , , ,"11"
+"12","Maintenance of Personnel", , , , , , , , ,"12","12","Maintenance of Personnel", , , , , , , , , , ,"12","12","Maintenance of Personnel", , , , , , , , , ,"12"
+"13","Nursing Administration", , , , , , , , ,"13","13","Nursing Administration", , , , , , , , , , ,"13","13","Nursing Administration", , , , , , , , , ,"13"
+"14","Central Services and Supply", , , , , , , , ,"14","14","Central Services and Supply", , , , , , , , , , ,"14","14","Central Services and Supply", , , , , , , , , ,"14"
+"15","Pharmacy", , , , , , , , ,"15","15","Pharmacy", , , , , , , , , , ,"15","15","Pharmacy", , , , , , , , , ,"15"
+"16","Medical Records & Medical Records Library", , , , , , , , ,"16","16","Medical Records & Medical Records Library", , , , , , , , , , ,"16","16","Medical Records & Medical Records Library", , , , , , , , , ,"16"
+"17","Social Service", , , , , , , , ,"17","17","Social Service", , , , , , , , , , ,"17","17","Social Service", , , , , , , , , ,"17"
+"18","Other General Service (specify)", , , , , , , , ,"18","18","Other General Service (specify)", , , , , , , , , , ,"18","18","Other General Service (specify)", , , , , , , , , ,"18"
+"19","Nonphysician Anesthetists", , , , , , , , ,"19","19","Nonphysician Anesthetists", , , , , , , , , , ,"19","19","Nonphysician Anesthetists", , , , , , , , , ,"19"
+"20","Nursing School", , , , , , , , ,"20","20","Nursing School", , , , , , , , , , ,"20","20","Nursing School", , , , , , , , , ,"20"
+"21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , ,"21","21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , , , ,"21","21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , , ,"21"
+"22","Intern & Res. Other Program Costs (Approved)", , , , , , , , ,"22","22","Intern & Res. Other Program Costs (Approved)", , , , , , , , , , ,"22","22","Intern & Res. Other Program Costs (Approved)", , , , , , , , , ,"22"
+"23","Paramedical Education Program (specify)", , , , , , , , ,"23","23","Paramedical Education Program (specify)", , , , , , , , , , ,"23","23","Paramedical Education Program (specify)", , , , , , , , , ,"23"
+ ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , , , ,"INPATIENT ROUTINE SERVICE COST CENTERS"
+"30","Adults and Pediatrics (General Routine Care)", , , , , , , , ,"30","30","Adults and Pediatrics (General Routine Care)", , , , , , , , , , ,"30","30","Adults and Pediatrics (General Routine Care)", , , , , , , , , ,"30"
+"31","Intensive Care Unit", , , , , , , , ,"31","31","Intensive Care Unit", , , , , , , , , , ,"31","31","Intensive Care Unit", , , , , , , , , ,"31"
+"32","Coronary Care Unit", , , , , , , , ,"32","32","Coronary Care Unit", , , , , , , , , , ,"32","32","Coronary Care Unit", , , , , , , , , ,"32"
+"33","Burn Intensive Care Unit", , , , , , , , ,"33","33","Burn Intensive Care Unit", , , , , , , , , , ,"33","33","Burn Intensive Care Unit", , , , , , , , , ,"33"
+"34","Surgical Intensive Care Unit", , , , , , , , ,"34","34","Surgical Intensive Care Unit", , , , , , , , , , ,"34","34","Surgical Intensive Care Unit", , , , , , , , , ,"34"
+"35","Other Special Care Unit (specify)", , , , , , , , ,"35","35","Other Special Care Unit (specify)", , , , , , , , , , ,"35","35","Other Special Care Unit (specify)", , , , , , , , , ,"35"
+"40","Subprovider IPF", , , , , , , , ,"40","40","Subprovider IPF", , , , , , , , , , ,"40","40","Subprovider IPF", , , , , , , , , ,"40"
+"41","Subprovider IRF", , , , , , , , ,"41","41","Subprovider IRF", , , , , , , , , , ,"41","41","Subprovider IRF", , , , , , , , , ,"41"
+"42","Subprovider (specify)", , , , , , , , ,"42","42","Subprovider (specify)", , , , , , , , , , ,"42","42","Subprovider (specify)", , , , , , , , , ,"42"
+"43","Nursery", , , , , , , , ,"43","43","Nursery", , , , , , , , , , ,"43","43","Nursery", , , , , , , , , ,"43"
+"44","Skilled Nursing Facility", , , , , , , , ,"44","44","Skilled Nursing Facility", , , , , , , , , , ,"44","44","Skilled Nursing Facility", , , , , , , , , ,"44"
+"45","Nursing Facility", , , , , , , , ,"45","45","Nursing Facility", , , , , , , , , , ,"45","45","Nursing Facility", , , , , , , , , ,"45"
+"46","Other Long Term Care", , , , , , , , ,"46","46","Other Long Term Care", , , , , , , , , , ,"46","46","Other Long Term Care", , , , , , , , , ,"46"
+"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\"", , , , , , , , , , ,"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\"", , , , , , , , , , , , ,"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\""
+"Rev. 2", , , , , , , , , ,"40-553","40-556", , , , , , , , , , , ,"Rev. 2","Rev. 2", , , , , , , , , , ,"40-559"
+"4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , ,"08-11","08-11", , , ,"FORM CMS-2552-10", , , , , , , ,"4090 (Cont.)","4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , , ,"08-11"
+"COST ALLOCATION - STATISTICAL BASIS", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1"
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , ,"FROM ____________", , , , , , , , , , , ,"FROM ____________"
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , ,"________________", ,"TO _______________", , , , , , , , , ,"________________", ,"TO _______________"
+ , , ,"CAPITAL RELATED COST", , , ,"ADMINIS-","MAIN-", , , , ,"LAUNDRY", , , ,"MAIN-","NURSING","CENTRAL", ,"MEDICAL", , , , , ,"NON-", ,"INTERNS & RESIDENTS", ,"PARA-", ,"INTERN &"
+ , , ,"BLDGS. &","MOVABLE","EMPLOYEE", ,"TRATIVE &","TENANCE &","OPERATION", , , ,"& LINEN","HOUSE-", , ,"TENANCE OF","ADMINIS-","SERVICES &", ,"RECORDS &","SOCIAL", , , ,"OTHER","PHYSICIAN","NURSING","SALARY AND","PROGRAM","MEDICAL", ,"RESIDENT"
+ , , ,"FIXTURES","EQUIPMENT","BENEFITS", ,"GENERAL","REPAIRS","OF PLANT", , , ,"SERVICE","KEEPING","DIETARY","CAFETERIA","PERSONNEL","TRATION","SUPPLY","PHARMACY","LIBRARY","SERVICE", , , ,"GENERAL","ANES-","SCHOOL","FRINGES","COSTS","EDUCATION", ,"COST & POST"
+ ,"COST CENTER DESCRIPTIONS", ,"(SQUARE","(DOLLAR","(GROSS","RECONCIL-","(ACCUM.","(SQUARE","(SQUARE", , ,"COST CENTER DESCRIPTIONS","(POUNDS OF","(HOURS OF","(MEALS","(MEALS","(NUMBER","(DIRECT","(COSTED","(COSTED","(TIME","(TIME", , ,"COST CENTER DESCRIPTIONS","SERVICE","THETISTS","(ASSIGNED","(ASSIGNED","(ASSIGNED","(ASSIGNED", ,"STEPDOWN"
+ , , ,"FEET)","VALUE)","SALARIES)","IATION","COST)","FEET)","FEET)", , , ,"LAUNDRY)","SERVICE)","SERVED)","SERVED)","HOUSED)","NURS. HRS)","REQUIS.)","REQUIS.)","SPENT)","SPENT)", , , ,"(SPECIFY)","(ASGND TIME)","TIME)","TIME)","TIME)","TIME)","SUBTOTAL","ADJUSTMENTS","TOTAL"
+ , , ,"1","2","4","5A","5","6","7", , , ,"8","9","10","11","12","13","14","15","16","17", , , ,"18","19","20","21","22","23","24","25","26"
+ ,"ANCILLARY SERVICE COST CENTERS", , , , , , , , , , ,"ANCILLARY SERVICE COST CENTERS", , , , , , , , , , , , ,"ANCILLARY SERVICE COST CENTERS"
+"50","Operating Room", , , , , , , , ,"50","50","Operating Room", , , , , , , , , , ,"50","50","Operating Room", , , , , , , , , ,"50"
+"51","Recovery Room", , , , , , , , ,"51","51","Recovery Room", , , , , , , , , , ,"51","51","Recovery Room", , , , , , , , , ,"51"
+"52","Labor Room and Delivery Room", , , , , , , , ,"52","52","Labor Room and Delivery Room", , , , , , , , , , ,"52","52","Labor Room and Delivery Room", , , , , , , , , ,"52"
+"53","Anesthesiology", , , , , , , , ,"53","53","Anesthesiology", , , , , , , , , , ,"53","53","Anesthesiology", , , , , , , , , ,"53"
+"54","Radiology-Diagnostic", , , , , , , , ,"54","54","Radiology-Diagnostic", , , , , , , , , , ,"54","54","Radiology-Diagnostic", , , , , , , , , ,"54"
+"55","Radiology-Therapeutic", , , , , , , , ,"55","55","Radiology-Therapeutic", , , , , , , , , , ,"55","55","Radiology-Therapeutic", , , , , , , , , ,"55"
+"56","Radioisotope", , , , , , , , ,"56","56","Radioisotope", , , , , , , , , , ,"56","56","Radioisotope", , , , , , , , , ,"56"
+"57","Computed Tomography (CT) Scan", , , , , , , , ,"57","57","Computed Tomography (CT) Scan", , , , , , , , , , ,"57","57","Computed Tomography (CT) Scan", , , , , , , , , ,"57"
+"58","Magnetic Resonance Imaging (MRI)", , , , , , , , ,"58","58","Magnetic Resonance Imaging (MRI)", , , , , , , , , , ,"58","58","Magnetic Resonance Imaging (MRI)", , , , , , , , , ,"58"
+"59","Cardiac Catheterization", , , , , , , , ,"59","59","Cardiac Catheterization", , , , , , , , , , ,"59","59","Cardiac Catheterization", , , , , , , , , ,"59"
+"60","Laboratory", , , , , , , , ,"60","60","Laboratory", , , , , , , , , , ,"60","60","Laboratory", , , , , , , , , ,"60"
+"61","PBP Clinical Laboratory Services-Program Only", , , , , , , , ,"61","61","PBP Clinical Laboratory Services-Program Only", , , , , , , , , , ,"61","61","PBP Clinical Laboratory Services-Program Only", , , , , , , , , ,"61"
+"62","Whole Blood & Packed Red Blood Cells", , , , , , , , ,"62","62","Whole Blood & Packed Red Blood Cells", , , , , , , , , , ,"62","62","Whole Blood & Packed Red Blood Cells", , , , , , , , , ,"62"
+"63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , ,"63","63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , , , ,"63","63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , , ,"63"
+"64","Intravenous Therapy", , , , , , , , ,"64","64","Intravenous Therapy", , , , , , , , , , ,"64","64","Intravenous Therapy", , , , , , , , , ,"64"
+"65","Respiratory Therapy", , , , , , , , ,"65","65","Respiratory Therapy", , , , , , , , , , ,"65","65","Respiratory Therapy", , , , , , , , , ,"65"
+"66","Physical Therapy", , , , , , , , ,"66","66","Physical Therapy", , , , , , , , , , ,"66","66","Physical Therapy", , , , , , , , , ,"66"
+"67","Occupational Therapy", , , , , , , , ,"67","67","Occupational Therapy", , , , , , , , , , ,"67","67","Occupational Therapy", , , , , , , , , ,"67"
+"68","Speech Pathology", , , , , , , , ,"68","68","Speech Pathology", , , , , , , , , , ,"68","68","Speech Pathology", , , , , , , , , ,"68"
+"69","Electrocardiology", , , , , , , , ,"69","69","Electrocardiology", , , , , , , , , , ,"69","69","Electrocardiology", , , , , , , , , ,"69"
+"70","Electroencephalography", , , , , , , , ,"70","70","Electroencephalography", , , , , , , , , , ,"70","70","Electroencephalography", , , , , , , , , ,"70"
+"71","Medical Supplies Charged to Patients", , , , , , , , ,"71","71","Medical Supplies Charged to Patients", , , , , , , , , , ,"71","71","Medical Supplies Charged to Patients", , , , , , , , , ,"71"
+"72","Implantable Devices Charged to Patients", , , , , , , , ,"72","72","Implantable Devices Charged to Patients", , , , , , , , , , ,"72","72","Implantable Devices Charged to Patients", , , , , , , , , ,"72"
+"73","Drugs Charged to Patients", , , , , , , , ,"73","73","Drugs Charged to Patients", , , , , , , , , , ,"73","73","Drugs Charged to Patients", , , , , , , , , ,"73"
+"74","Renal Dialysis", , , , , , , , ,"74","74","Renal Dialysis", , , , , , , , , , ,"74","74","Renal Dialysis", , , , , , , , , ,"74"
+"75","ASC (Non-Distinct Part)", , , , , , , , ,"75","75","ASC (Non-Distinct Part)", , , , , , , , , , ,"75","75","ASC (Non-Distinct Part)", , , , , , , , , ,"75"
+"76","Other Ancillary (specify)", , , , , , , , ,"76","76","Other Ancillary (specify)", , , , , , , , , , ,"76","76","Other Ancillary (specify)", , , , , , , , , ,"76"
+ ,"OUTPATIENT SERVICE COST CENTERS", , , , , , , , , , ,"OUTPATIENT SERVICE COST CENTERS", , , , , , , , , , , , ,"OUTPATIENT SERVICE COST CENTERS"
+"88","Rural Health Clinic (RHC)", , , , , , , , ,"88","88","Rural Health Clinic (RHC)", , , , , , , , , , ,"88","88","Rural Health Clinic (RHC)", , , , , , , , , ,"88"
+"89","Federally Qualified Health Center (FQHC)", , , , , , , , ,"89","89","Federally Qualified Health Center (FQHC)", , , , , , , , , , ,"89","89","Federally Qualified Health Center (FQHC)", , , , , , , , , ,"89"
+"90","Clinic", , , , , , , , ,"90","90","Clinic", , , , , , , , , , ,"90","90","Clinic", , , , , , , , , ,"90"
+"91","Emergency", , , , , , , , ,"91","91","Emergency", , , , , , , , , , ,"91","91","Emergency", , , , , , , , , ,"91"
+"92","Observation Beds", , , , , , , , ,"92","92","Observation Beds", , , , , , , , , , ,"92","92","Observation Beds", , , , , , , , , ,"92"
+"93","Other Outpatient Service (specify)", , , , , , , , ,"93","93","Other Outpatient Service (specify)", , , , , , , , , , ,"93","93","Other Outpatient Service (specify)", , , , , , , , , ,"93"
+"4090 (Cont.)", ,"FORM CMS-2552-10", , , ,"08-11", , , , , , , , , , , , , 
+"POST STEPDOWN ADJUSTMENTS", ,"PROVIDER CCN:","PERIOD:", ,"WORKSHEET B-2", , , , , , , , , , , , , , , , , , , , , , , ,"."
+ , , ,"FROM ____________", , , , , , , , , , , , , , , , 
+ , ,"________________","TO _______________", , , , , , , , , , , , , , , , 
+ , , ,"WORKSHEET", , , , , , , , , , , , , , , , 
+ ,"DESCRIPTION", ,"PART","LINE NO.","AMOUNT", , , , , , , , , , , , , , 
+ ,"1", ,"2","3","4", , , , , , , , , , , , , , 
+"1","Adjustment for EPO costs in Renal Dialysis cost center", ,"1","74", ,"1", , , , , , , , , , , , , 
+"2","Adjustment for EPO costs in Home Program Dialysis cost center", ,"1","94", ,"2", , , , , , , , , , , , , 
+"3","Adjustment for ARANESP costs in Renal Dialysis cost center", ,"1","74", ,"3", , , , , , , , , , , , , 
+"4","Adjustment for ARANESP costs in Home Program Dialysis cost center", ,"1","94", ,"4", , , , , , , , , , , , , 
+"5", , , , , ,"5", , , , , , , , , , , , , 
+"6", , , , , ,"6", , , , , , , , , , , , , 
+"7", , , , , ,"7", , , , , , , , , , , , , 
+"8", , , , , ,"8", , , , , , , , , , , , , 
+"9", , , , , ,"9", , , , , , , , , , , , , 
+"10", , , , , ,"10", , , , , , , , , , , , , 
+"11", , , , , ,"11", , , , , , , , , , , , , 
+"12", , , , , ,"12", , , , , , , , , , , , , 
+"13", , , , , ,"13", , , , , , , , , , , , , 
+"14", , , , , ,"14", , , , , , , , , , , , , 
+"15", , , , , ,"15", , , , , , , , , , , , , 
+"16", , , , , ,"16", , , , , , , , , , , , , 
+"17", , , , , ,"17", , , , , , , , , , , , , 
+"18", , , , , ,"18", , , , , , , , , , , , , 
+"19", , , , , ,"19", , , , , , , , , , , , , 
+"20", , , , , ,"20", , , , , , , , , , , , , 
+"21", , , , , ,"21", , , , , , , , , , , , , 
+"22", , , , , ,"22", , , , , , , , , , , , , 
+"23", , , , , ,"23", , , , , , , , , , , , , 
+"24", , , , , ,"24", , , , , , , , , , , , , 
+"25", , , , , ,"25", , , , , , , , , , , , , 
+"26", , , , , ,"26", , , , , , , , , , , , , 
+"27", , , , , ,"27", , , , , , , , , , , , , 
+"28", , , , , ,"28", , , , , , , , , , , , , 
+"29", , , , , ,"29", , , , , , , , , , , , , 
+ , , ,"NET EXPENSES","CAPITAL", , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,"INTERN &"
+ , , ,"FOR COST","RELATED COSTS", , , , , , , , , , , , , , , , , , , , , , , ,"NON-", ,"INTERNS &","INTERNS &", , ,"RESIDENT"
+ , , ,"ALLOCATION", , , , ,"ADMINIS-","MAIN-", , , , ,"LAUNDRY", , , ,"MAIN-","NURSING","CENTRAL", ,"MEDICAL", , , , ,"OTHER","PHYSICIAN", ,"RESIDENTS","RESIDENTS","PARAMEDICAL", ,"COST & POST"
+ , ,"COST CENTER DESCRIPTIONS","(from Wkst.","BLDGS. &","MOVABLE","EMPLOYEE","SUBTOTAL","TRATIVE &","TENANCE &","OPERATION", , ,"COST CENTER DESCRIPTIONS","& LINEN","HOUSE-", , ,"TENANCE OF","ADMINIS-","SERVICES &", ,"RECORDS &","SOCIAL", , ,"COST CENTER DESCRIPTIONS","GENERAL","ANES-","NURSING","SALARY AND","PROGRAM","EDUCATION", ,"STEPDOWN"
+ , , ,"A col. 7)","FIXTURES","EQUIPMENT","BENEFITS","(cols. 0-4)","GENERAL","REPAIRS","OF PLANT", , , ,"SERVICE","KEEPING","DIETARY","CAFETERIA","PERSONNEL","TRATION","SUPPLY","PHARMACY","LIBRARY","SERVICE", , , ,"SERVICE","THETISTS","SCHOOL","FRINGES","COSTS","(SPECIFY)","SUBTOTAL","ADJUSTMENTS","TOTAL"
+ , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , 
+"BII.csv[00000]","BII.csv[00100]","BII.csv[00200]","BII.csv[00300]","BII.csv[00400]","BII.csv[00500]","BII.csv[00600]","BII.csv[00700]","BII.csv[00800]","BII.csv[00900]","BII.csv[01000]","BII.csv[01100]","BII.csv[01200]","BII.csv[01300]","BII.csv[01400]","BII.csv[01500]","BII.csv[01600]","BII.csv[01700]","BII.csv[01800]","BII.csv[01900]","BII.csv[02000]","BII.csv[02100]","BII.csv[02200]","BII.csv[02300]","BII.csv[02400]","BII.csv[02500]","BII.csv[02600]","BII.csv[02700]","BII.csv[02800]","BII.csv[02900]","BII.csv[03000]","BII.csv[03100]","BII.csv[03200]","BII.csv[03300]","BII.csv[03400]","BII.csv[03500]","BII.csv[03600]","BII.csv[03700]", , , ,"BII.csv[04100]"
+"4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , ,"08-11", , , , , , , , , 
+"RECLASSIFICATION AND ADJUSTMENT OF TRIAL BALANCE OF EXPENSES", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET A", , , , , , , , , , 
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , 
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , , , 
+ , , , , , , ,"RECLASSIFIED", ,"NET EXPENSES", , , , , , , , , , 
+ , ,"COST CENTER DESCRIPTIONS", , ,"TOTAL","RECLASSIFI-","TRIAL BALANCE", ,"FOR ALLOCATION", , , , , , , , , , 
+ , ,"(omit cents)","SALARIES","OTHER","(col. 1 + col. 2)","CATIONS", ,"ADJUSTMENTS", , , , , , , , , , , 
+ , , ,"1","2","3","4","5","6","7", , , , , , , , , , 
+ , ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , , , , , , , , 
+"1","00100","Capital Related Costs-Buildings and Fixtures", , , , , , , ,"1", , , , , , , , , 
+"2","00200","Capital Related Costs-Movable Equipment", , , , , , , ,"2", , , , , , , , , 
+"3","00300","Other Capital Related Costs", , , , , , ,"-0-","3", , , , , , , , , 
+"4","00400","Employee Benefits", , , , , , , ,"4", , , , , , , , , 
+"5","00500","Administrative and General", , , , , , , ,"5", , , , , , , , , 
+"6","00600","Maintenance and Repairs", , , , , , , ,"6", , , , , , , , , 
+"7","00700","Operation of Plant", , , , , , , ,"7", , , , , , , , , 
+"8","00800","Laundry and Linen Service", , , , , , , ,"8", , , , , , , , , 
+"9","00900","Housekeeping", , , , , , , ,"9", , , , , , , , , 
+"10","01000","Dietary", , , , , , , ,"10", , , , , , , , , 
+"11","01100","Cafeteria", , , , , , , ,"11", , , , , , , , , 
+"12","01200","Maintenance of Personnel", , , , , , , ,"12", , , , , , , , , 
+"13","01300","Nursing Administration", , , , , , , ,"13", , , , , , , , , 
+"14","01400","Central Services and Supply", , , , , , , ,"14", , , , , , , , , 
+"15","01500","Pharmacy", , , , , , , ,"15", , , , , , , , , 
+"16","01600","Medical Records & Medical Records Library", , , , , , , ,"16", , , , , , , , , 
+"17","01700","Social Service", , , , , , , ,"17", , , , , , , , , 
+"18", ,"Other General Service (specify)", , , , , , , ,"18", , , , , , , , , 
+"19","01900","Nonphysician Anesthetists", , , , , , , ,"19", , , , , , , , , 
+"20","02000","Nursing School", , , , , , , ,"20", , , , , , , , , 
+"21","02100","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , ,"21", , , , , , , , , 
+"22","02200","Intern & Res. Other Program Costs (Approved)", , , , , , , ,"22", , , , , , , , , 
+"23","02300","Paramedical Ed. Program (specify)", , , , , , , ,"23", , , , , , , , , 
+ , ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , , , , , , , , 
+"30","03000","Adults and Pediatrics (General Routine Care)", , , , , , , ,"30", , , , , , , , , 
+"31","03100","Intensive Care Unit", , , , , , , ,"31", , , , , , , , , 
+"32","03200","Coronary Care Unit", , , , , , , ,"32", , , , , , , , , 
+"33","03300","Burn Intensive Care Unit", , , , , , , ,"33", , , , , , , , , 
+"34","03400","Surgical Intensive Care Unit", , , , , , , ,"34", , , , , , , , , 
+"35", ,"Other Special Care (specify)", , , , , , , ,"35", , , , , , , , , 
+"40","04000","Subprovider - IPF", , , , , , , ,"40", , , , , , , , , 
+"41","04100","Subprovider - IRF", , , , , , , ,"41", , , , , , , , , 
+"42","04200","Subprovider (specify)", , , , , , , ,"42", , , , , , , , , 
+"08-11", , ,"FORM CMS-2552-10", , , , , , , , ,"4090 (Cont.)", , , , , , , 
+"RECLASSIFICATIONS", , , , , , ,"PROVIDER CCN:","PERIOD:", ,"WORKSHEET A-6", , , , , , , , , 
+ , , , , , , , ,"FROM ____________", , , , , , , , , , , 
+ , , , , , , ,"________________","TO _______________", , , , , , , , , , , 
+ , , , ,"INCREASES", , , ,"DECREASES", , ,"Wkst.", , , , , , , , 
+ , ,"CODE", , , , , , , , ,"A-7", , , , , , , , 
+ ,"EXPLANATION OF RECLASSIFICATION(S)","(1)","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref.", , , , , , , , 
+ , ,"1","2","3","4","5","6","7","8","9","10", , , , , , , , 
+"1", , , , , , , , , , , ,"1", , , , , , , 
+"2", , , , , , , , , , , ,"2", , , , , , , 
+"3", , , , , , , , , , , ,"3", , , , , , , 
+"4", , , , , , , , , , , ,"4", , , , , , , 
+"5", , , , , , , , , , , ,"5", , , , , , , 
+"6", , , , , , , , , , , ,"6", , , , , , , 
+"7", , , , , , , , , , , ,"7", , , , , , , 
+"8", , , , , , , , , , , ,"8", , , , , , , 
+"9", , , , , , , , , , , ,"9", , , , , , , 
+"10", , , , , , , , , , , ,"10", , , , , , , 
+"11", , , , , , , , , , , ,"11", , , , , , , 
+ ,"PART I - ANALYSIS OF CHANGES IN CAPITAL ASSET BALANCES", , , , , , , , , , , , , , , , , , 
+ , , , , ,"Acquisitions", , ,"Disposals", ,"Fully", , , , , , , , , 
+ , , , ,"Beginning", , , ,"and","Ending","Depreciated", , , , , , , , , 
+ , ,"Description", ,"Balances","Purchases","Donation","Total","Retirements","Balance","Assets", , , , , , , , , 
+ , , , ,"1","2","3","4","5","6","7", , , , , , , , , 
+"08-11", ,"FORM CMS-2552-10", , , , , ,"4090 (Cont.)", , , , , , , , , , , 
+"ADJUSTMENTS TO EXPENSES", ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET A-8", , , , , , , , , , , , , 
+ , , , ,"FROM ____________", , , , , , , , , , , , , , , 
+ , ,"________________", ,"TO _______________", , , , , , , , , , , , , , , 
+ , , , ,"EXPENSE CLASSIFICATION ON", , , , , , , , , , , , , , , 
+ ,"DESCRIPTION (1)", , ,"WORKSHEET A TO/FROM WHICH", , ,"Wkst.", , , , , , , , , , , , 
+ , , , ,"THE AMOUNT IS TO BE ADJUSTED", , ,"A-7", , , , , , , , , , , , 
+ , ,"BASIS/CODE (2)","AMOUNT","COST CENTER", ,"LINE #","Ref.", , , , , , , , , , , , 
+ , ,"1","2","3", ,"4","5", , , , , , , , , , , , 
+"1","Investment income - buildings and fixtures (chapter 2)", , ,"Buildings and Fixtures", ,"1", ,"1", , , , , , , , , , , 
+"2","Investment income - movable equipment (chapter 2)", , ,"Movable Equipment", ,"2", ,"2", , , , , , , , , , , 
+"3","Investment income - other (chapter 2)", , , , , , ,"3", , , , , , , , , , , 
+"4","\" Trade","quantity","and time discounts (chapter 8)\"", , , , , , ,"4", , , , , , , , , 
+"5","Refunds and rebates of expenses (chapter 8)", , , , , , ,"5", , , , , , , , , , , 
+"6","Rental of provider space by suppliers (chapter 8)", , , , , , ,"6", , , , , , , , , , , 
+"7","Telephone services (pay stations excluded) (chapter 21)", , , , , , ,"7", , , , , , , , , , , 
+"8","Television and radio service (chapter 21)", , , , , , ,"8", , , , , , , , , , , 
+"9","Parking lot (chapter 21)", , , , , , ,"9", , , , , , , , , , , 
+"10","Provider-based physician adjustment","Worksheet A-8-2", , , , , ,"10", , , , , , , , , , , 
+"11","\" Sale of scrap","waste","etc. (chapter 23)\"", , , , , , ,"11", , , , , , , , , 
+"12","Related organization transactions (chapter 10)","Worksheet A-8-1", , , , , ,"12", , , , , , , , , , , 
+"13","Laundry and linen service", , , , , , ,"13", , , , , , , , , , , 
+"14","Cafeteria-employees and guests", , , , , , ,"14", , , , , , , , , , , 
+"15","Rental of quarters to employee and others", , , , , , ,"15", , , , , , , , , , , 
+"16","Sale of medical and surgical", , , , , , ,"16", , , , , , , , , , , 
+ ,"supplies to other than patients", , , , , , , , , , , , , , , , , , 
+"17","Sale of drugs to other than patients", , , , , , ,"17", , , , , , , , , , , 
+"18","Sale of medical records and abstracts", , , , , , ,"18", , , , , , , , , , , 
+"19","\" Nursing school (tuition","fees","books","etc.)\"", , , , , , ,"19", , , , , , , , 
+"20","Vending machines", , , , , , ,"20", , , , , , , , , , , 
+"21","\" Income from imposition of interest","\"", , , , , , ,"21", , , , , , , , , , 
+ ,"finance or penalty charges (chapter 21)", , , , , , , , , , , , , , , , , , 
+"22","Interest expense on Medicare overpayments and", , , , , , ,"22", , , , , , , , , , , 
+ ,"borrowings to repay Medicare overpayments", , , , , , , , , , , , , , , , , , 
+"23","Adjustment for respiratory therapy", , , , , , ,"23", , , , , , , , , , , 
+ ,"costs in excess of limitation (chapter 14)","Worksheet A-8-3", ,"Respiratory Therapy", ,"65", , , , , , , , , , , , , 
+"24","Adjustment for physical therapy costs", , , , , , ,"24", , , , , , , , , , , 
+ ,"in excess of limitation (chapter 14)","Worksheet A-8-3", ,"Physical Therapy", ,"66", , , , , , , , , , , , , 
+"25", , , , , , , , , , , , , , , , , , , 
+ , , ,"Remuneration","Component","Component","Amount","Component Hours","RCE Limit","RCE Limit", , , , , , , , , , 
+ ,"1","2","3","4","5","6","7","8","9", , , , , , , , , , 
+"1", , , , , , , , , ,"1", , , , , , , , , 
+"2", , , , , , , , , ,"2", , , , , , , , , 
+"3", , , , , , , , , ,"3", , , , , , , , , 
+"4", , , , , , , , , ,"4", , , , , , , , , 
+"5", , , , , , , , , ,"5", , , , , , , , , 
+"6", , , , , , , , , ,"6", , , , , , , , , 
+"7", , , , , , , , , ,"7", , , , , , , , , 
+"4090 (Cont.)", , ,"FORM CMS-2552-10", , , , ,"08-11", , , , , , , , , , , 
+"REASONABLE COST DETERMINATION FOR THERAPY SERVICES", , , , ,"PROVIDER CCN:","PERIOD:","\" WORKSHEET A-8-3","\"", , , , , , , , , , , 
+"FURNISHED BY OUTSIDE SUPPLIERS", , , , , ,"FROM ____________","PARTS I & II", , , , , , , , , , , , 
+ , , , , ,"________________","TO _______________", , , , , , , , , , , , , 
+"Check applicable box:", ,"[ ] Occupational          [ ] Physical          [ ] Respiratory          [ ] Speech Pathology", , , , , , , , , , , , , , , , , 
+"PART I - GENERAL INFORMATION", , , , , , , , , , , , , , , , , , , 
+"1","Total number of weeks worked (excluding aides) (see instructions)", , , , , , ,"1", , , , , , , , , , , 
+"2","Line 1 multiplied by 15 hours per week", , , , , , ,"2", , , , , , , , , , , 
+"3","Number of unduplicated days in which supervisor or therapist was on provider site (see instructions)", , , , , , ,"3", , , , , , , , , , , 
+"4","Number of unduplicated days in which therapy assistant was on provider site but neither supervisor nor therapist was on provider site (see instructions)", , , , , , ,"4", , , , , , , , , , , 
+"5","Number of unduplicated offsite visits - supervisors or therapists (see instructions)", , , , , , ,"5", , , , , , , , , , , 
+"6","Number of unduplicated offsite visits - therapy assistants (include only visits made by therapy assistant and on which", , , , , , ,"6", , , , , , , , , , , 
+ ,"supervisor and/or therapist was not present during the visit(s)) (see instructions)", , , , , , , , , , , , , , , , , , 
+"7","Standard travel expense rate", , , , , , ,"7", , , , , , , , , , , 
+"8","Optional travel expense rate per mile", , , , , , ,"8", , , , , , , , , , , 
+ , , ,"Supervisors","dcr","Assistants","Aides","Trainees", , , , , , , , , , , , 
+ , , ,"1","2","3","4","5", , , , , , , , , , , , 
+"9","Total hours worked", , , , , , ,"9", , , , , , , , , , , 
+"10","AHSEA (see instructions)", , , , , , ,"10", , , , , , , , , , , 
+"11","\" Standard travel allowance (columns 1 and 2","one-half of column 2","\"", , , , , , ,"11", , , , , , , , , 
+ ,"\"  line 10; column 3","one-half of column 3","line 10)\"", , , , , , , , , , , , , , , , 
+"12","Number of travel hours (see instructions)", , , , , , ,"12", , , , , , , , , , , 
+"13","Number of miles driven (see instructions)", , , , , , ,"13", , , , , , , , , , , 
+"08-11", , , ,"FORM CMS-2552-10", , , , , ,"4090 (Cont.)","4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , , , ,"08-11","08-11", , , ,"FORM CMS-2552-10", , , , , , ,"4090 (Cont.)"
+"COST ALLOCATION - STATISTICAL BASIS", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1"
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , ,"FROM ____________", , , , , , , , , , , ,"FROM ____________"
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , ,"________________", ,"TO _______________", , , , , , , , , ,"________________", ,"TO _______________"
+ , , ,"CAPITAL RELATED COST", , , ,"ADMINIS-","MAIN-", , , , ,"LAUNDRY", , , ,"MAIN-","NURSING","CENTRAL", ,"MEDICAL", , , , , ,"NON-", ,"INTERNS & RESIDENTS", ,"PARA-", ,"INTERN &"
+ , , ,"BLDGS. &","MOVABLE","EMPLOYEE", ,"TRATIVE &","TENANCE &","OPERATION", , , ,"& LINEN","HOUSE-", , ,"TENANCE OF","ADMINIS-","SERVICES &", ,"RECORDS &","SOCIAL", , , ,"OTHER","PHYSICIAN","NURSING","SALARY AND","PROGRAM","MEDICAL", ,"RESIDENT"
+ , , ,"FIXTURES","EQUIPMENT","BENEFITS", ,"GENERAL","REPAIRS","OF PLANT", , , ,"SERVICE","KEEPING","DIETARY","CAFETERIA","PERSONNEL","TRATION","SUPPLY","PHARMACY","LIBRARY","SERVICE", , , ,"GENERAL","ANES-","SCHOOL","FRINGES","COSTS","EDUCATION", ,"COST & POST"
+ ,"COST CENTER DESCRIPTIONS", ,"(SQUARE","(DOLLAR","(GROSS","RECONCIL-","(ACCUM.","(SQUARE","(SQUARE", , ,"COST CENTER DESCRIPTIONS","(POUNDS OF","(HOURS OF","(MEALS","(MEALS","(NUMBER","(DIRECT","(COSTED","(COSTED","(TIME","(TIME", , ,"COST CENTER DESCRIPTIONS","SERVICE","THETISTS","(ASSIGNED","(ASSIGNED","(ASSIGNED","(ASSIGNED", ,"STEPDOWN"
+ , , ,"FEET)","VALUE)","SALARIES)","IATION","COST)","FEET)","FEET)", , , ,"LAUNDRY)","SERVICE)","SERVED)","SERVED)","HOUSED)","NURS. HRS)","REQUIS.)","REQUIS.)","SPENT)","SPENT)", , , ,"(SPECIFY)","(ASGND TIME)","TIME)","TIME)","TIME)","TIME)","SUBTOTAL","ADJUSTMENTS","TOTAL"
+ , , ,"1","2","4","5A","5","6","7", , , ,"8","9","10","11","12","13","14","15","16","17", , , ,"18","19","20","21","22","23","24","25","26"
+ ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , , , ,"GENERAL SERVICE COST CENTERS"
+"1","Capital Related Costs-Buildings and Fixtures", , , , , , , , ,"1","1","Capital Related Costs-Buildings and Fixtures", , , , , , , , , , ,"1","1","Capital Related Costs-Buildings and Fixtures", , , , , , , , , ,"1"
+"2","Capital Related Costs-Movable Equipment", , , , , , , , ,"2","2","Capital Related Costs-Movable Equipment", , , , , , , , , , ,"2","2","Capital Related Costs-Movable Equipment", , , , , , , , , ,"2"
+"4","Employee Benefits", , , , , , , , ,"4","4","Employee Benefits", , , , , , , , , , ,"4","4","Employee Benefits", , , , , , , , , ,"4"
+"5","Administrative and General", , , , , , , , ,"5","5","Administrative and General", , , , , , , , , , ,"5","5","Administrative and General", , , , , , , , , ,"5"
+"6","Maintenance and Repairs", , , , , , , , ,"6","6","Maintenance and Repairs", , , , , , , , , , ,"6","6","Maintenance and Repairs", , , , , , , , , ,"6"
+"7","Operation of Plant", , , , , , , , ,"7","7","Operation of Plant", , , , , , , , , , ,"7","7","Operation of Plant", , , , , , , , , ,"7"
+"8","Laundry and Linen Service", , , , , , , , ,"8","8","Laundry and Linen Service", , , , , , , , , , ,"8","8","Laundry and Linen Service", , , , , , , , , ,"8"
+"9","Housekeeping", , , , , , , , ,"9","9","Housekeeping", , , , , , , , , , ,"9","9","Housekeeping", , , , , , , , , ,"9"
+"10","Dietary", , , , , , , , ,"10","10","Dietary", , , , , , , , , , ,"10","10","Dietary", , , , , , , , , ,"10"
+"11","Cafeteria", , , , , , , , ,"11","11","Cafeteria", , , , , , , , , , ,"11","11","Cafeteria", , , , , , , , , ,"11"
+"12","Maintenance of Personnel", , , , , , , , ,"12","12","Maintenance of Personnel", , , , , , , , , , ,"12","12","Maintenance of Personnel", , , , , , , , , ,"12"
+"13","Nursing Administration", , , , , , , , ,"13","13","Nursing Administration", , , , , , , , , , ,"13","13","Nursing Administration", , , , , , , , , ,"13"
+"14","Central Services and Supply", , , , , , , , ,"14","14","Central Services and Supply", , , , , , , , , , ,"14","14","Central Services and Supply", , , , , , , , , ,"14"
+"15","Pharmacy", , , , , , , , ,"15","15","Pharmacy", , , , , , , , , , ,"15","15","Pharmacy", , , , , , , , , ,"15"
+"16","Medical Records & Medical Records Library", , , , , , , , ,"16","16","Medical Records & Medical Records Library", , , , , , , , , , ,"16","16","Medical Records & Medical Records Library", , , , , , , , , ,"16"
+"17","Social Service", , , , , , , , ,"17","17","Social Service", , , , , , , , , , ,"17","17","Social Service", , , , , , , , , ,"17"
+"18","Other General Service (specify)", , , , , , , , ,"18","18","Other General Service (specify)", , , , , , , , , , ,"18","18","Other General Service (specify)", , , , , , , , , ,"18"
+"19","Nonphysician Anesthetists", , , , , , , , ,"19","19","Nonphysician Anesthetists", , , , , , , , , , ,"19","19","Nonphysician Anesthetists", , , , , , , , , ,"19"
+"20","Nursing School", , , , , , , , ,"20","20","Nursing School", , , , , , , , , , ,"20","20","Nursing School", , , , , , , , , ,"20"
+"21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , ,"21","21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , , , ,"21","21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , , ,"21"
+"22","Intern & Res. Other Program Costs (Approved)", , , , , , , , ,"22","22","Intern & Res. Other Program Costs (Approved)", , , , , , , , , , ,"22","22","Intern & Res. Other Program Costs (Approved)", , , , , , , , , ,"22"
+"23","Paramedical Education Program (specify)", , , , , , , , ,"23","23","Paramedical Education Program (specify)", , , , , , , , , , ,"23","23","Paramedical Education Program (specify)", , , , , , , , , ,"23"
+ ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , , , ,"INPATIENT ROUTINE SERVICE COST CENTERS"
+"30","Adults and Pediatrics (General Routine Care)", , , , , , , , ,"30","30","Adults and Pediatrics (General Routine Care)", , , , , , , , , , ,"30","30","Adults and Pediatrics (General Routine Care)", , , , , , , , , ,"30"
+"31","Intensive Care Unit", , , , , , , , ,"31","31","Intensive Care Unit", , , , , , , , , , ,"31","31","Intensive Care Unit", , , , , , , , , ,"31"
+"32","Coronary Care Unit", , , , , , , , ,"32","32","Coronary Care Unit", , , , , , , , , , ,"32","32","Coronary Care Unit", , , , , , , , , ,"32"
+"33","Burn Intensive Care Unit", , , , , , , , ,"33","33","Burn Intensive Care Unit", , , , , , , , , , ,"33","33","Burn Intensive Care Unit", , , , , , , , , ,"33"
+"34","Surgical Intensive Care Unit", , , , , , , , ,"34","34","Surgical Intensive Care Unit", , , , , , , , , , ,"34","34","Surgical Intensive Care Unit", , , , , , , , , ,"34"
+"35","Other Special Care Unit (specify)", , , , , , , , ,"35","35","Other Special Care Unit (specify)", , , , , , , , , , ,"35","35","Other Special Care Unit (specify)", , , , , , , , , ,"35"
+"40","Subprovider IPF", , , , , , , , ,"40","40","Subprovider IPF", , , , , , , , , , ,"40","40","Subprovider IPF", , , , , , , , , ,"40"
+"41","Subprovider IRF", , , , , , , , ,"41","41","Subprovider IRF", , , , , , , , , , ,"41","41","Subprovider IRF", , , , , , , , , ,"41"
+"42","Subprovider (specify)", , , , , , , , ,"42","42","Subprovider (specify)", , , , , , , , , , ,"42","42","Subprovider (specify)", , , , , , , , , ,"42"
+"43","Nursery", , , , , , , , ,"43","43","Nursery", , , , , , , , , , ,"43","43","Nursery", , , , , , , , , ,"43"
+"44","Skilled Nursing Facility", , , , , , , , ,"44","44","Skilled Nursing Facility", , , , , , , , , , ,"44","44","Skilled Nursing Facility", , , , , , , , , ,"44"
+"45","Nursing Facility", , , , , , , , ,"45","45","Nursing Facility", , , , , , , , , , ,"45","45","Nursing Facility", , , , , , , , , ,"45"
+"46","Other Long Term Care", , , , , , , , ,"46","46","Other Long Term Care", , , , , , , , , , ,"46","46","Other Long Term Care", , , , , , , , , ,"46"
+"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\"", , , , , , , , , , ,"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\"", , , , , , , , , , , , ,"\"FORM CMS-2552-10 (08/2011) (INSTRUCTIONS FOR THIS WORKSHEET ARE PUBLISHED IN CMS PUB. 15-II","SECTION 4020)\""
+"Rev. 2", , , , , , , , , ,"40-553","40-556", , , , , , , , , , , ,"Rev. 2","Rev. 2", , , , , , , , , , ,"40-559"
+"4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , ,"08-11","08-11", , , ,"FORM CMS-2552-10", , , , , , , ,"4090 (Cont.)","4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , , ,"08-11"
+"COST ALLOCATION - STATISTICAL BASIS", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1", ,"COST ALLOCATION - STATISTICAL BASIS", , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"WORKSHEET B-1"
+ , , , , , , ,"FROM ____________", , , , , , , , , , , , ,"FROM ____________", , , , , , , , , , , ,"FROM ____________"
+ , , , , ,"________________", ,"TO _______________", , , , , , , , , , ,"________________", ,"TO _______________", , , , , , , , , ,"________________", ,"TO _______________"
+ , , ,"CAPITAL RELATED COST", , , ,"ADMINIS-","MAIN-", , , , ,"LAUNDRY", , , ,"MAIN-","NURSING","CENTRAL", ,"MEDICAL", , , , , ,"NON-", ,"INTERNS & RESIDENTS", ,"PARA-", ,"INTERN &"
+ , , ,"BLDGS. &","MOVABLE","EMPLOYEE", ,"TRATIVE &","TENANCE &","OPERATION", , , ,"& LINEN","HOUSE-", , ,"TENANCE OF","ADMINIS-","SERVICES &", ,"RECORDS &","SOCIAL", , , ,"OTHER","PHYSICIAN","NURSING","SALARY AND","PROGRAM","MEDICAL", ,"RESIDENT"
+ , , ,"FIXTURES","EQUIPMENT","BENEFITS", ,"GENERAL","REPAIRS","OF PLANT", , , ,"SERVICE","KEEPING","DIETARY","CAFETERIA","PERSONNEL","TRATION","SUPPLY","PHARMACY","LIBRARY","SERVICE", , , ,"GENERAL","ANES-","SCHOOL","FRINGES","COSTS","EDUCATION", ,"COST & POST"
+ ,"COST CENTER DESCRIPTIONS", ,"(SQUARE","(DOLLAR","(GROSS","RECONCIL-","(ACCUM.","(SQUARE","(SQUARE", , ,"COST CENTER DESCRIPTIONS","(POUNDS OF","(HOURS OF","(MEALS","(MEALS","(NUMBER","(DIRECT","(COSTED","(COSTED","(TIME","(TIME", , ,"COST CENTER DESCRIPTIONS","SERVICE","THETISTS","(ASSIGNED","(ASSIGNED","(ASSIGNED","(ASSIGNED", ,"STEPDOWN"
+ , , ,"FEET)","VALUE)","SALARIES)","IATION","COST)","FEET)","FEET)", , , ,"LAUNDRY)","SERVICE)","SERVED)","SERVED)","HOUSED)","NURS. HRS)","REQUIS.)","REQUIS.)","SPENT)","SPENT)", , , ,"(SPECIFY)","(ASGND TIME)","TIME)","TIME)","TIME)","TIME)","SUBTOTAL","ADJUSTMENTS","TOTAL"
+ , , ,"1","2","4","5A","5","6","7", , , ,"8","9","10","11","12","13","14","15","16","17", , , ,"18","19","20","21","22","23","24","25","26"
+ ,"ANCILLARY SERVICE COST CENTERS", , , , , , , , , , ,"ANCILLARY SERVICE COST CENTERS", , , , , , , , , , , , ,"ANCILLARY SERVICE COST CENTERS"
+"50","Operating Room", , , , , , , , ,"50","50","Operating Room", , , , , , , , , , ,"50","50","Operating Room", , , , , , , , , ,"50"
+"51","Recovery Room", , , , , , , , ,"51","51","Recovery Room", , , , , , , , , , ,"51","51","Recovery Room", , , , , , , , , ,"51"
+"52","Labor Room and Delivery Room", , , , , , , , ,"52","52","Labor Room and Delivery Room", , , , , , , , , , ,"52","52","Labor Room and Delivery Room", , , , , , , , , ,"52"
+"53","Anesthesiology", , , , , , , , ,"53","53","Anesthesiology", , , , , , , , , , ,"53","53","Anesthesiology", , , , , , , , , ,"53"
+"54","Radiology-Diagnostic", , , , , , , , ,"54","54","Radiology-Diagnostic", , , , , , , , , , ,"54","54","Radiology-Diagnostic", , , , , , , , , ,"54"
+"55","Radiology-Therapeutic", , , , , , , , ,"55","55","Radiology-Therapeutic", , , , , , , , , , ,"55","55","Radiology-Therapeutic", , , , , , , , , ,"55"
+"56","Radioisotope", , , , , , , , ,"56","56","Radioisotope", , , , , , , , , , ,"56","56","Radioisotope", , , , , , , , , ,"56"
+"57","Computed Tomography (CT) Scan", , , , , , , , ,"57","57","Computed Tomography (CT) Scan", , , , , , , , , , ,"57","57","Computed Tomography (CT) Scan", , , , , , , , , ,"57"
+"58","Magnetic Resonance Imaging (MRI)", , , , , , , , ,"58","58","Magnetic Resonance Imaging (MRI)", , , , , , , , , , ,"58","58","Magnetic Resonance Imaging (MRI)", , , , , , , , , ,"58"
+"59","Cardiac Catheterization", , , , , , , , ,"59","59","Cardiac Catheterization", , , , , , , , , , ,"59","59","Cardiac Catheterization", , , , , , , , , ,"59"
+"60","Laboratory", , , , , , , , ,"60","60","Laboratory", , , , , , , , , , ,"60","60","Laboratory", , , , , , , , , ,"60"
+"61","PBP Clinical Laboratory Services-Program Only", , , , , , , , ,"61","61","PBP Clinical Laboratory Services-Program Only", , , , , , , , , , ,"61","61","PBP Clinical Laboratory Services-Program Only", , , , , , , , , ,"61"
+"62","Whole Blood & Packed Red Blood Cells", , , , , , , , ,"62","62","Whole Blood & Packed Red Blood Cells", , , , , , , , , , ,"62","62","Whole Blood & Packed Red Blood Cells", , , , , , , , , ,"62"
+"63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , ,"63","63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , , , ,"63","63","\" Blood Storing","Processing","& Trans.\"", , , , , , , , , ,"63"
+"64","Intravenous Therapy", , , , , , , , ,"64","64","Intravenous Therapy", , , , , , , , , , ,"64","64","Intravenous Therapy", , , , , , , , , ,"64"
+"65","Respiratory Therapy", , , , , , , , ,"65","65","Respiratory Therapy", , , , , , , , , , ,"65","65","Respiratory Therapy", , , , , , , , , ,"65"
+"66","Physical Therapy", , , , , , , , ,"66","66","Physical Therapy", , , , , , , , , , ,"66","66","Physical Therapy", , , , , , , , , ,"66"
+"67","Occupational Therapy", , , , , , , , ,"67","67","Occupational Therapy", , , , , , , , , , ,"67","67","Occupational Therapy", , , , , , , , , ,"67"
+"68","Speech Pathology", , , , , , , , ,"68","68","Speech Pathology", , , , , , , , , , ,"68","68","Speech Pathology", , , , , , , , , ,"68"
+"69","Electrocardiology", , , , , , , , ,"69","69","Electrocardiology", , , , , , , , , , ,"69","69","Electrocardiology", , , , , , , , , ,"69"
+"70","Electroencephalography", , , , , , , , ,"70","70","Electroencephalography", , , , , , , , , , ,"70","70","Electroencephalography", , , , , , , , , ,"70"
+"71","Medical Supplies Charged to Patients", , , , , , , , ,"71","71","Medical Supplies Charged to Patients", , , , , , , , , , ,"71","71","Medical Supplies Charged to Patients", , , , , , , , , ,"71"
+"72","Implantable Devices Charged to Patients", , , , , , , , ,"72","72","Implantable Devices Charged to Patients", , , , , , , , , , ,"72","72","Implantable Devices Charged to Patients", , , , , , , , , ,"72"
+"73","Drugs Charged to Patients", , , , , , , , ,"73","73","Drugs Charged to Patients", , , , , , , , , , ,"73","73","Drugs Charged to Patients", , , , , , , , , ,"73"
+"74","Renal Dialysis", , , , , , , , ,"74","74","Renal Dialysis", , , , , , , , , , ,"74","74","Renal Dialysis", , , , , , , , , ,"74"
+"75","ASC (Non-Distinct Part)", , , , , , , , ,"75","75","ASC (Non-Distinct Part)", , , , , , , , , , ,"75","75","ASC (Non-Distinct Part)", , , , , , , , , ,"75"
+"76","Other Ancillary (specify)", , , , , , , , ,"76","76","Other Ancillary (specify)", , , , , , , , , , ,"76","76","Other Ancillary (specify)", , , , , , , , , ,"76"
+ ,"OUTPATIENT SERVICE COST CENTERS", , , , , , , , , , ,"OUTPATIENT SERVICE COST CENTERS", , , , , , , , , , , , ,"OUTPATIENT SERVICE COST CENTERS"
+"88","Rural Health Clinic (RHC)", , , , , , , , ,"88","88","Rural Health Clinic (RHC)", , , , , , , , , , ,"88","88","Rural Health Clinic (RHC)", , , , , , , , , ,"88"
+"89","Federally Qualified Health Center (FQHC)", , , , , , , , ,"89","89","Federally Qualified Health Center (FQHC)", , , , , , , , , , ,"89","89","Federally Qualified Health Center (FQHC)", , , , , , , , , ,"89"
+"90","Clinic", , , , , , , , ,"90","90","Clinic", , , , , , , , , , ,"90","90","Clinic", , , , , , , , , ,"90"
+"91","Emergency", , , , , , , , ,"91","91","Emergency", , , , , , , , , , ,"91","91","Emergency", , , , , , , , , ,"91"
+"92","Observation Beds", , , , , , , , ,"92","92","Observation Beds", , , , , , , , , , ,"92","92","Observation Beds", , , , , , , , , ,"92"
+"93","Other Outpatient Service (specify)", , , , , , , , ,"93","93","Other Outpatient Service (specify)", , , , , , , , , , ,"93","93","Other Outpatient Service (specify)", , , , , , , , , ,"93"
+"4090 (Cont.)", ,"FORM CMS-2552-10", , , ,"08-11", , , , , , , , , , , , , 
+"POST STEPDOWN ADJUSTMENTS", ,"PROVIDER CCN:","PERIOD:", ,"WORKSHEET B-2", , , , , , , , , , , , , , , , , , , , , , , ,"."
+ , , ,"FROM ____________", , , , , , , , , , , , , , , , 
+ , ,"________________","TO _______________", , , , , , , , , , , , , , , , 
+ , , ,"WORKSHEET", , , , , , , , , , , , , , , , 
+ ,"DESCRIPTION", ,"PART","LINE NO.","AMOUNT", , , , , , , , , , , , , , 
+ ,"1", ,"2","3","4", , , , , , , , , , , , , , 
+"1","Adjustment for EPO costs in Renal Dialysis cost center", ,"1","74", ,"1", , , , , , , , , , , , , 
+"2","Adjustment for EPO costs in Home Program Dialysis cost center", ,"1","94", ,"2", , , , , , , , , , , , , 
+"3","Adjustment for ARANESP costs in Renal Dialysis cost center", ,"1","74", ,"3", , , , , , , , , , , , , 
+"4","Adjustment for ARANESP costs in Home Program Dialysis cost center", ,"1","94", ,"4", , , , , , , , , , , , , 
+"5", , , , , ,"5", , , , , , , , , , , , , 
+"6", , , , , ,"6", , , , , , , , , , , , , 
+"7", , , , , ,"7", , , , , , , , , , , , , 
+"8", , , , , ,"8", , , , , , , , , , , , , 
+"9", , , , , ,"9", , , , , , , , , , , , , 
+"10", , , , , ,"10", , , , , , , , , , , , , 
+"11", , , , , ,"11", , , , , , , , , , , , , 
+"12", , , , , ,"12", , , , , , , , , , , , , 
+"13", , , , , ,"13", , , , , , , , , , , , , 
+"14", , , , , ,"14", , , , , , , , , , , , , 
+"15", , , , , ,"15", , , , , , , , , , , , , 
+"16", , , , , ,"16", , , , , , , , , , , , , 
+"17", , , , , ,"17", , , , , , , , , , , , , 
+"18", , , , , ,"18", , , , , , , , , , , , , 
+"19", , , , , ,"19", , , , , , , , , , , , , 
+"20", , , , , ,"20", , , , , , , , , , , , , 
+"21", , , , , ,"21", , , , , , , , , , , , , 
+"22", , , , , ,"22", , , , , , , , , , , , , 
+"23", , , , , ,"23", , , , , , , , , , , , , 
+"24", , , , , ,"24", , , , , , , , , , , , , 
+"25", , , , , ,"25", , , , , , , , , , , , , 
+"26", , , , , ,"26", , , , , , , , , , , , , 
+"27", , , , , ,"27", , , , , , , , , , , , , 
+"28", , , , , ,"28", , , , , , , , , , , , , 
+"29", , , , , ,"29", , , , , , , , , , , , , 
+ , , ,"NET EXPENSES","CAPITAL", , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,"INTERN &"
+ , , ,"FOR COST","RELATED COSTS", , , , , , , , , , , , , , , , , , , , , , , ,"NON-", ,"INTERNS &","INTERNS &", , ,"RESIDENT"
+ , , ,"ALLOCATION", , , , ,"ADMINIS-","MAIN-", , , , ,"LAUNDRY", , , ,"MAIN-","NURSING","CENTRAL", ,"MEDICAL", , , , ,"OTHER","PHYSICIAN", ,"RESIDENTS","RESIDENTS","PARAMEDICAL", ,"COST & POST"
+ , ,"COST CENTER DESCRIPTIONS","(from Wkst.","BLDGS. &","MOVABLE","EMPLOYEE","SUBTOTAL","TRATIVE &","TENANCE &","OPERATION", , ,"COST CENTER DESCRIPTIONS","& LINEN","HOUSE-", , ,"TENANCE OF","ADMINIS-","SERVICES &", ,"RECORDS &","SOCIAL", , ,"COST CENTER DESCRIPTIONS","GENERAL","ANES-","NURSING","SALARY AND","PROGRAM","EDUCATION", ,"STEPDOWN"
+ , , ,"A col. 7)","FIXTURES","EQUIPMENT","BENEFITS","(cols. 0-4)","GENERAL","REPAIRS","OF PLANT", , , ,"SERVICE","KEEPING","DIETARY","CAFETERIA","PERSONNEL","TRATION","SUPPLY","PHARMACY","LIBRARY","SERVICE", , , ,"SERVICE","THETISTS","SCHOOL","FRINGES","COSTS","(SPECIFY)","SUBTOTAL","ADJUSTMENTS","TOTAL"
+ , , ,"0","1","2","4","4A","5","6","7", , , ,"8","9","10","11","12","13","14","15","16","17", , , ,"18","19","20","21","22","23","24","25","26"
+"4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , ,"08-11","08-11", , , ,"FORM CMS-2552-10", , , , , , , ,"4090 (Cont.)","4090 (Cont.)", , , ,"FORM CMS-2552-10", , , , , , ,"08-11"
+"ALLOCATION OF CAPITAL-RELATED COSTS", , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"\" WORKSHEET B","\"", ,"ALLOCATION OF CAPITAL-RELATED COSTS", , , , ,"PROVIDER CCN:", , ,"PERIOD:", , ,"\" WORKSHEET B","\"", ,"ALLOCATION OF CAPITAL-RELATED COSTS", , , , , ,"PROVIDER CCN:", ,"PERIOD:", ,"\" WORKSHEET B","\""
+ , , , , , , ,"FROM ____________", ,"PART II", , , , , , , , , ,"FROM ____________", , ,"PART II", , , , , , , , , ,"FROM ____________", ,"PART II"
+ , , , , ,"________________", ,"TO _______________", , , , , , , , ,"________________", , ,"TO _______________", , , , , , , , , , ,"________________", ,"TO _______________"
+ , ,"DIRECTLY","CAPITAL", , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,"INTERN &"
+ , ,"ASSIGNED","RELATED COSTS", , , , , , , , , , , , , , , , , , , , , , , ,"NON-", ,"INTERNS &","INTERNS &", , ,"RESIDENT"
+ , ,"NEW CAPITAL", , ,"SUBTOTAL", ,"ADMINIS-","MAIN-", , , , ,"LAUNDRY", , , ,"MAIN-","NURSING","CENTRAL", ,"MEDICAL", , , , ,"OTHER","PHYSICIAN", ,"RESIDENTS","RESIDENTS","PARAMEDICAL", ,"COST & POST"
+ ,"COST CENTER DESCRIPTIONS","RELATED","BLDGS. &","MOVABLE","(sum of","EMPLOYEE","TRATIVE &","TENANCE &","OPERATION", , ,"COST CENTER DESCRIPTIONS","& LINEN","HOUSE-", , ,"TENANCE OF","ADMINIS-","SERVICES &", ,"RECORDS &","SOCIAL", , ,"COST CENTER DESCRIPTIONS","GENERAL","ANES-","NURSING","SALARY AND","PROGRAM","EDUCATION", ,"STEPDOWN"
+ , ,"COSTS","FIXTURES","EQUIPMENT","(cols. 0-2)","BENEFITS","GENERAL","REPAIRS","OF PLANT", , , ,"SERVICE","KEEPING","DIETARY","CAFETERIA","PERSONNEL","TRATION","SUPPLY","PHARMACY","LIBRARY","SERVICE", , , ,"SERVICE","THETISTS","SCHOOL","FRINGES","COSTS","(SPECIFY)","SUBTOTAL","ADJUSTMENTS","TOTAL"
+ , ,"0","1","2","2A","4","5","6","7", , , ,"8","9","10","11","12","13","14","15","16","17", , , ,"18","19","20","21","22","23","24","25","26"
+ ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , ,"GENERAL SERVICE COST CENTERS", , , , , , , , , , , , ,"GENERAL SERVICE COST CENTERS"
+"1","Capital Related Costs-Buildings and Fixtures", , , , , , , , ,"1","1","Capital Related Costs-Buildings and Fixtures", , , , , , , , , , ,"1","1","Capital Related Costs-Buildings and Fixtures", , , , , , , , , ,"1"
+"2","Capital Related Costs-Movable Equipment", , , , , , , , ,"2","2","Capital Related Costs-Movable Equipment", , , , , , , , , , ,"2","2","Capital Related Costs-Movable Equipment", , , , , , , , , ,"2"
+"4","Employee Benefits", , , , , , , , ,"4","4","Employee Benefits", , , , , , , , , , ,"4","4","Employee Benefits", , , , , , , , , ,"4"
+"5","Administrative and General", , , , , , , , ,"5","5","Administrative and General", , , , , , , , , , ,"5","5","Administrative and General", , , , , , , , , ,"5"
+"6","Maintenance and Repairs", , , , , , , , ,"6","6","Maintenance and Repairs", , , , , , , , , , ,"6","6","Maintenance and Repairs", , , , , , , , , ,"6"
+"7","Operation of Plant", , , , , , , , ,"7","7","Operation of Plant", , , , , , , , , , ,"7","7","Operation of Plant", , , , , , , , , ,"7"
+"8","Laundry and Linen Service", , , , , , , , ,"8","8","Laundry and Linen Service", , , , , , , , , , ,"8","8","Laundry and Linen Service", , , , , , , , , ,"8"
+"9","Housekeeping", , , , , , , , ,"9","9","Housekeeping", , , , , , , , , , ,"9","9","Housekeeping", , , , , , , , , ,"9"
+"10","Dietary", , , , , , , , ,"10","10","Dietary", , , , , , , , , , ,"10","10","Dietary", , , , , , , , , ,"10"
+"11","Cafeteria", , , , , , , , ,"11","11","Cafeteria", , , , , , , , , , ,"11","11","Cafeteria", , , , , , , , , ,"11"
+"12","Maintenance of Personnel", , , , , , , , ,"12","12","Maintenance of Personnel", , , , , , , , , , ,"12","12","Maintenance of Personnel", , , , , , , , , ,"12"
+"13","Nursing Administration", , , , , , , , ,"13","13","Nursing Administration", , , , , , , , , , ,"13","13","Nursing Administration", , , , , , , , , ,"13"
+"14","Central Services and Supply", , , , , , , , ,"14","14","Central Services and Supply", , , , , , , , , , ,"14","14","Central Services and Supply", , , , , , , , , ,"14"
+"15","Pharmacy", , , , , , , , ,"15","15","Pharmacy", , , , , , , , , , ,"15","15","Pharmacy", , , , , , , , , ,"15"
+"16","Medical Records & Medical Records Library", , , , , , , , ,"16","16","Medical Records & Medical Records Library", , , , , , , , , , ,"16","16","Medical Records & Medical Records Library", , , , , , , , , ,"16"
+"17","Social Service", , , , , , , , ,"17","17","Social Service", , , , , , , , , , ,"17","17","Social Service", , , , , , , , , ,"17"
+"18","Other General Service (specify)", , , , , , , , ,"18","18","Other General Service (specify)", , , , , , , , , , ,"18","18","Other General Service (specify)", , , , , , , , , ,"18"
+"19","Nonphysician Anesthetists", , , , , , , , ,"19","19","Nonphysician Anesthetists", , , , , , , , , , ,"19","19","Nonphysician Anesthetists", , , , , , , , , ,"19"
+"20","Nursing School", , , , , , , , ,"20","20","Nursing School", , , , , , , , , , ,"20","20","Nursing School", , , , , , , , , ,"20"
+"21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , ,"21","21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , , , ,"21","21","Intern & Res. Service-Salary & Fringes (Approved)", , , , , , , , , ,"21"
+"22","Intern & Res. Other Program Costs (Approved)", , , , , , , , ,"22","22","Intern & Res. Other Program Costs (Approved)", , , , , , , , , , ,"22","22","Intern & Res. Other Program Costs (Approved)", , , , , , , , , ,"22"
+"23","Paramedical Education Program (specify)", , , , , , , , ,"23","23","Paramedical Education Program (specify)", , , , , , , , , , ,"23","23","Paramedical Education Program (specify)", , , , , , , , , ,"23"
+ ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , ,"INPATIENT ROUTINE SERVICE COST CENTERS", , , , , , , , , , , , ,"INPATIENT ROUTINE SERVICE COST CENTERS"
+"30","Adults and Pediatrics (General Routine Care)", , , , , , , , ,"30","30","Adults and Pediatrics (General Routine Care)", , , , , , , , , , ,"30","30","Adults and Pediatrics (General Routine Care)", , , , , , , , , ,"30"
+"31","Intensive Care Unit", , , , , , , , ,"31","31","Intensive Care Unit", , , , , , , , , , ,"31","31","Intensive Care Unit", , , , , , , , , ,"31"
+"32","Coronary Care Unit", , , , , , , , ,"32","32","Coronary Care Unit", , , , , , , , , , ,"32","32","Coronary Care Unit", , , , , , , , , ,"32"
+"33","Burn Intensive Care Unit", , , , , , , , ,"33","33","Burn Intensive Care Unit", , , , , , , , , , ,"33","33","Burn Intensive Care Unit", , , , , , , , , ,"33"
+"34","Surgical Intensive Care Unit", , , , , , , , ,"34","34","Surgical Intensive Care Unit", , , , , , , , , , ,"34","34","Surgical Intensive Care Unit", , , , , , , , , ,"34"
+"35","Other Special Care Unit (specify)", , , , , , , , ,"35","35","Other Special Care Unit (specify)", , , , , , , , , , ,"35","35","Other Special Care Unit (specify)", , , , , , , , , ,"35"
+"40","Subprovider IPF", , , , , , , , ,"40","40","Subprovider IPF", , , , , , , , , , ,"40","40","Subprovider IPF", , , , , , , , , ,"40"
+"41","Subprovider IRF", , , , , , , , ,"41","41","Subprovider IRF", , , , , , , , , , ,"41","41","Subprovider IRF", , , , , , , , , ,"41"
+"42","Subprovider (specify)", , , , , , , , ,"42","42","Subprovider (specify)", , , , , , , , , , ,"42","42","Subprovider (specify)", , , , , , , , , ,"42"
+"43","Nursery", , , , , , , , ,"43","43","Nursery", , , , , , , , , , ,"43","43","Nursery", , , , , , , , , ,"43"
+"44","Skilled Nursing Facility", , , , , , , , ,"44","44","Skilled Nursing Facility", , , , , , , , , , ,"44","44","Skilled Nursing Facility", , , , , , , , , ,"44"
+"45","Nursing Facility", , , , , , , , ,"45","45","Nursing Facility", , , , , , , , , , ,"45","45","Nursing Facility", , , , , , , , , ,"45"
+ , , , , , , , , , , , , , , , , , , , 
+ , , , , , , , , , , , , , , , , , , , 
