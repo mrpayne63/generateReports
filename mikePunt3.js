@@ -44,7 +44,7 @@ connection2.connect(function(err) {
 });
 
 
-var prod = true;
+var prod = false;
 var baseDir = 'debug/';
 var sql = "select RPT_REC_NUM,WKSHT_CD from HCRIS.STRONG_DATA_2013 group by RPT_REC_NUM,WKSHT_CD order by RPT_REC_NUM,WKSHT_CD";
 var spacerArray = new Array();
@@ -79,13 +79,13 @@ connection.query(sql,function(err, rows) {
                 + rows[i].RPT_REC_NUM
                 + "' and WKSHT_CD like '"
                 + rows[i].WKSHT_CD
-                //+ "' union select RPT_REC_NUM,WKSHT_CD,LINE_NUM,CLMN_NUM,item myvalue from HCRIS.STRONG_HEADERS_2013 where RPT_REC_NUM like '"
-                //+ rows[i].RPT_REC_NUM
-                //+ "' and WKSHT_CD like '"
-                //+ rows[i].WKSHT_CD
+                + "' union select RPT_REC_NUM,WKSHT_CD,LINE_NUM,CLMN_NUM,item myvalue from HCRIS.STRONG_HEADERS2_2013 where RPT_REC_NUM like '"
+                + rows[i].RPT_REC_NUM
+                + "' and WKSHT_CD like '"
+                + rows[i].WKSHT_CD
                 
                 + "' order by RPT_REC_NUM,WKSHT_CD,LINE_NUM,CLMN_NUM";
-       // console.log(sql2);
+      //console.log(sql2);
         connection2.query(sql2,    function(err, rows2) {
 
 
@@ -302,7 +302,7 @@ connection.query(sql,function(err, rows) {
             tmpLine0 = new Array();
             
             // write sheet report
-            if (!prod) {
+            
             tmpFile2 = mydir + '/Sheet_' + tmpSheetLetter + '.csv';
 
            
@@ -317,7 +317,7 @@ connection.query(sql,function(err, rows) {
 
                 }
         
-            
+            if (!prod) {
 				var csv4 = sheetArray.map(function(d) {
 					return JSON.stringify(d);
 				}).join('\n').replace(/(^\[)|(\]$)/mg, '').replace(/null/mg,

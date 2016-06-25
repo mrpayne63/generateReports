@@ -1,0 +1,51 @@
+,HOSPITAL UNCOMPENSATED  AND INDIGENT,,, PROVIDER CCN:, PERIOD:, WORKSHEET S-10,
+,CARE DATA,,,, FROM ___________,,
+,,,, ________________, TO ______________,,
+,,,,,,,
+, Uncompensated and indigent care cost computation,,,,,,
+1," Cost to charge ratio (Worksheet C, Part I line 200 column 3 divided by line 200 column 8)",,,,,,1
+,,,,,,,
+, Medicaid (see instructions for each line),,,,,,
+2, Net revenue from Medicaid ,,,,,,2
+3, Did you receive DSH or supplemental payments from Medicaid?,,,,,,3
+4," If line 3 is yes, does line 2 include all DSH or supplemental payments from Medicaid?",,,,,,4
+5," If line 4 is no, enter DSH or supplemental payments from Medicaid",,,,,,5
+6, Medicaid charges,,,,,,6
+7, Medicaid cost (line 1 times line 6),,,,,,7
+8, Difference between net revenue and costs for Medicaid program (line 2 plus line 5 minus line 7),,,,,,8
+,,,,,,,
+, State Children's Health Insurance Program (SCHIP) (see instructions for each line),,,,,,
+9, Net revenue from stand-alone SCHIP,,,,,,9
+10, Stand-alone SCHIP charges,,,,,,10
+11, Stand-alone SCHIP cost (line 1 times line 10),,,,,,11
+12, Difference between net revenue and costs for stand-alone SCHIP (line 9 minus line 11),,,,,,12
+,,,,,,,
+, Other state or local government indigent care program (see instructions for each line),,,,,,
+13," Net revenue from state or local indigent care program (not included on lines 2, 5 or 9)",,,,,,13
+14, Charges for patients covered under state or local indigent care program (not included in lines 6 or 10),,,,,,14
+15, State or local indigent care program cost (line 1 times line 14),,,,,,15
+16, Difference between net revenue and costs for state or local indigent care program (line 13 minus line 15),,,,,,16
+,,,,,,,
+, Uncompensated care (see instructions for each line),,,,,,
+17," Private grants, donations, or endowment income restricted to funding charity care",,,,,,17
+18," Government grants, appropriations or transfers for support of hospital operations",,,,,,18
+19," Total unreimbursed cost for Medicaid, SCHIP and state and local indigent care programs (sum of lines 8, 12 and 16)",,,,,,19
+,,,,,,,
+,,,,Uninsured,Insured,Total,
+,,,,patients,patients,(col. 1 +  col. 2) ,
+,,,,1,2,3,
+20, Total initial obligation of patients approved for charity care (at full charges excluding,,,,,,20
+, non-reimbursable cost centers) for the entire facility,,,,,,
+21, Cost of initial obligation of patients approved for charity care (line 1 times line 20),,,,,,21
+22, Partial payment by patients approved for charity care,,,,,,22
+23, Cost of charity care (line 21 minus line 22),,,,,,23
+,,,,,,,
+24," Does the amount in line 20, column 2 include charges for patient days beyond a length of stay limit imposed on patients covered",,,,,,24
+, by Medicaid or other indigent care program?,,,,,,
+25," If line 24 is yes, enter charges for patient days beyond an indigent care program's length of stay limit (see instructions)",,,,,,25
+26, Total bad debt expense for the entire hospital complex (see instructions),,,,,,26
+27, Medicare bad debts for the entire hospital complex  (see instructions),,,,,,27
+28, Non-Medicare and non-reimbursable bad debt expense (line 26 minus line 27),,,,,,28
+29, Cost of non-Medicare bad debt expense (line 1 times line 28),,,,,,29
+30, Cost of non-Medicare uncompensated care (line 23 column 3 plus line 29) ,,,,,,30
+31, Total unreimbursed and uncompensated care cost (line 19 plus line 30),,,,,,31
