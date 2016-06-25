@@ -1,9 +1,24 @@
-
- 
 var fs = require('fs');
+var mysql = require('mysql');
+
+var connection = mysql.createConnection({
+    host : 'localhost',
+    user : 'nodeuser',
+    password : 'Cheese2000',
+    database : 'HCRIS'
+});
+
+connection.connect(function(err) {
+    if (!err) {
+        console.log("Database is connected ... nn");
+    } else {
+        console.log("Error connecting database ... nn");
+    }
+});
+
 var dir = 'headers/inserts'; 
 var  files = fs.readdirSync(dir);
-console.log(files);
+//console.log(files);
 var cells = [];
   files.forEach(function(file) {
 	  var thisFile = file;
@@ -18,7 +33,7 @@ var cells = [];
 		//console.log(fileContents.toString());
       var lines = fileContents.toString().split('\n');
       //console.log('******************');
-      console.log(lines.length );
+      //console.log(lines.length );
       //console.log(lines );
       //console.log('******************');
       
@@ -27,7 +42,7 @@ var cells = [];
     	  cells.push(lines[i].toString().split(','));
       }
       
-      console.log(cells);
+      //console.log(cells);
       var previousLine = null;
       var thisLine = 0;
       for (var i = 0; i < cells.length; i++) {
@@ -61,7 +76,7 @@ var cells = [];
           			myColumn = "0" + myColumn;
           		}
           		var myvalue = cells[i][j].trim() + '[line' + myLine +']col'+ myColumn;
-          		myvalue = cells[i][j].trim();
+          		myvalue = cells[i][j].trim().replace("'","\'");
 					var sqlInsert = "INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` "
 							+ "(`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) "
 							+ "VALUES(553807,'"
@@ -69,7 +84,13 @@ var cells = [];
 							+ myvalue + "');"
 
 					//data2[i][j] = cells[i][j];
-					console.log(sqlInsert);
+					//console.log(sqlInsert);
+					connection.query(sqlInsert,function(err, rows) {
+						//console.log(rows);
+						if(err){
+							console.log(err);
+						}
+					});
 				}
           }
          // console.log('\n');
