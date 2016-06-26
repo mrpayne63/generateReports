@@ -79,7 +79,7 @@ var cells = [];
           		myvalue = cells[i][j].trim().replace("'","\'");
 					var sqlInsert = "INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` "
 							+ "(`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) "
-							+ "VALUES(553807,'"
+							+ "VALUES(558727,'"
 							+ thisFile + "','" + myLine + "','" + myColumn + "','"
 							+ myvalue + "');"
 
@@ -88,7 +88,8 @@ var cells = [];
 					connection.query(sqlInsert,function(err, rows) {
 						//console.log(rows);
 						if(err){
-							console.log(err);
+							console.log(sqlInsert);
+							console.log("CAUSED: " + err);
 						}
 					});
 				}
