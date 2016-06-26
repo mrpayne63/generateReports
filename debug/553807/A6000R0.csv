@@ -1,7 +1,0 @@
-"","","","","INCREASES","","","","DECREASES","","","Wkst."
-"","","CODE","","","","","","","","","A-7"
-"","EXPLANATION OF RECLASSIFICATION(S)","-1","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref."
-"","","1","2","3","4","5","6","7","8","9","10"
-"Report (A6000R0)","A6000R0[00000]","A6000R0[00100]", ,"A6000R0[00300]", ,"A6000R0[00500]", ,"A6000R0[00700]", ,"A6000R0[00900]","A6000R0[01000]"
-"Line(00100)","CAPITAL RELATED EXPENSE","R", ,"2", ,"35426830", ,"1", ,"35426830","9"
-"Line(00200)","CAPITAL RELATED EXPENSE","R", ,"2", ,"313171", ,"1", ,"313171","9"

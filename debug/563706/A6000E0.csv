@@ -1,7 +1,0 @@
-"","","","","INCREASES","","","","DECREASES","","","Wkst."
-"","","CODE","","","","","","","","","A-7"
-"","EXPLANATION OF RECLASSIFICATION(S)","-1","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref."
-"","","1","2","3","4","5","6","7","8","9","10"
-"Report (A6000E0)","A6000E0[00000]","A6000E0[00100]", ,"A6000E0[00300]", ,"A6000E0[00500]", ,"A6000E0[00700]", ,"A6000E0[00900]","A6000E0[01000]"
-"Line(00100)","RECLASS GARAGE AND STORES DEP","E", ,"194", ,"12384", ,"1", ,"12384","9"
-"Line(00200)","RECLASS GARAGE AND STORES DEP","E", ,"4", ,"1084254", ,"1", ,"1084254","9"

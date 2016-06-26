@@ -1,8 +1,0 @@
-"","PART I - ANALYSIS OF CHANGES IN CAPITAL ASSET BALANCES","","","","","","","","",""
-"","","","","","Acquisitions","","","Disposals","","Fully"
-"","","","","Beginning","","","","and","Ending","Depreciated"
-"","","Description","","Balances","Purchases","Donation","Total","Retirements","Balance","Assets"
-"","","","","1","2","3","4","5","6","7"
-"Report (A700003)", , , , ,"A700003[00400]", , , , ,"A700003[00900]", ,"A700003[01100]","A700003[01200]", , ,"A700003[01500]"
-"Line(00100)", , , , ,"1", , , , ,"24408113", ,"2165385","1150633", , ,"27724131"
-"Line(00200)", , , , , , , , , ,"39131912", ,"2782664","1246519", , ,"43161095"

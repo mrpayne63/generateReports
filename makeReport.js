@@ -43,6 +43,14 @@ connection2.connect(function(err) {
     }
 });
 
+var pool      =    mysql.createPool({
+    connectionLimit : 100, //important
+    host     : 'localhost',
+    user     : 'nodeuser',
+    password : 'Cheese2000',
+    database : 'HCRIS',
+    debug    :  false
+});
 
 var prod = false;
 var baseDir = 'debug/';
@@ -79,7 +87,7 @@ connection.query(sql,function(err, rows) {
                 + rows[i].RPT_REC_NUM
                 + "' and WKSHT_CD like '"
                 + rows[i].WKSHT_CD
-                + "' union select RPT_REC_NUM,WKSHT_CD,LINE_NUM,CLMN_NUM,item myvalue from HCRIS.STRONG_HEADERS2_2013 where RPT_REC_NUM like '"
+                + "' union select RPT_REC_NUM,WKSHT_CD,LINE_NUM,CLMN_NUM,item myvalue from HCRIS.STRONG_HEADERS_2013 where RPT_REC_NUM like '"
                 + rows[i].RPT_REC_NUM
                 + "' and WKSHT_CD like '"
                 + rows[i].WKSHT_CD
@@ -116,79 +124,254 @@ connection.query(sql,function(err, rows) {
                 var thisColumnNUM = rows2[i].CLMN_NUM;
                 var thisSheetLetter = rows2[i].WKSHT_CD.substring(0,1);
 
-
-                switch (rows2[i].WKSHT_CD.substring(0,4))
+                //console.log(thisReportID);
+         	    switch (thisReportID.substring(0,4))
                 {
                    case "A000":
                       thisReportHearedCSV = 'headers/templates/A000Header.csv';
-                      fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+'.csv', fs.readFileSync(thisReportHearedCSV));
+                      fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
                        break;
                    case "A600":
                        thisReportHearedCSV = 'headers/templates/A600Header.csv';
-                       fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+'.csv', fs.readFileSync(thisReportHearedCSV));
+                       fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
                        break;
                    case "A700":
                        thisReportHearedCSV = 'headers/templates/A700Header.csv';
-                       fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+'.csv', fs.readFileSync(thisReportHearedCSV));
+                       fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
                        break;
                    case "A800":
                        thisReportHearedCSV = 'headers/templates/A800Header.csv';
-                       fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+'.csv', fs.readFileSync(thisReportHearedCSV));
+                       fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
                        break;
                    case "A810":
                        thisReportHearedCSV = 'headers/templates/A810Header.csv';
-                       fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+'.csv', fs.readFileSync(thisReportHearedCSV));
+                       fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
                        break;
                    case "A820":
                        thisReportHearedCSV = 'headers/templates/A820Header.csv';
-                       fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+'.csv', fs.readFileSync(thisReportHearedCSV));
+                       fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
                        break;
                    case "B000":
-						thisReportHearedCSV = 'headers/templates/'+rows2[i].WKSHT_CD+ '.csv';
-						fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+ '.csv', fs.readFileSync(thisReportHearedCSV));
+						thisReportHearedCSV = 'headers/templates/'+thisReportID+ '.csv';
+						fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
 						break;
                    case "B100":
 						thisReportHearedCSV = 'headers/templates/B100Header.csv';
-						fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+ '.csv', fs.readFileSync(thisReportHearedCSV));
+						fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
 						break;
                    case "C000":
-                	    thisReportHearedCSV = 'headers/templates/'+rows2[i].WKSHT_CD+ '.csv';
-						fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                	    thisReportHearedCSV = 'headers/templates/'+thisReportID+ '.csv';
+						fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
 						break;
                   case "C100":
 						thisReportHearedCSV = 'headers/templates/C100Header.csv';
-						fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+ '.csv', fs.readFileSync(thisReportHearedCSV));
+						fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
 						break;
                   case "D000":
                       thisReportHearedCSV = 'headers/templates/D000Header.csv';
-                      fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+'.csv', fs.readFileSync(thisReportHearedCSV));
+                      fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
                        break;
                    case "D100":
                        thisReportHearedCSV = 'headers/templates/D100Header.csv';
-                       fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+'.csv', fs.readFileSync(thisReportHearedCSV));
+                       fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
                        break;
                    case "D300":
                        thisReportHearedCSV = 'headers/templates/D300Header.csv';
-                       fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+'.csv', fs.readFileSync(thisReportHearedCSV));
+                       fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
                        break;
                    case "D400":
                        thisReportHearedCSV = 'headers/templates/D400Header.csv';
-                       fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+'.csv', fs.readFileSync(thisReportHearedCSV));
+                       fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
                        break;
+                   case "G000":
+                       thisReportHearedCSV = 'headers/templates/G000Header.csv';
+                       fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
+                        break;
+                    case "G100":
+                        thisReportHearedCSV = 'headers/templates/G100Header.csv';
+                        fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
+                        break;
+                    case "G200":
+                        thisReportHearedCSV = 'headers/templates/G200Header.csv';
+                        fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
+                        break;
+                    case "G300":
+                        thisReportHearedCSV = 'headers/templates/G300Header.csv';
+                        fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
+                        break;
+                    case "H010":
+                        thisReportHearedCSV = 'headers/templates/H010Header.csv';
+                        fs.writeFileSync('headers/'+thisReportID+'.csv', fs.readFileSync(thisReportHearedCSV));
+                        break;  
+                        
+                        
+                   
                    case "S000":
-						thisReportHearedCSV = 'headers/templates/'+rows2[i].WKSHT_CD+ '.csv';
-						fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+ '.csv', fs.readFileSync(thisReportHearedCSV));
+						thisReportHearedCSV = 'headers/templates/'+thisReportID+ '.csv';
+						fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
 						break;
                   case "S100":
 						thisReportHearedCSV = 'headers/templates/S100Header.csv';
-						fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+ '.csv', fs.readFileSync(thisReportHearedCSV));
+						fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
 						break;
                   case "S200":
-						thisReportHearedCSV = 'headers/templates/'+rows2[i].WKSHT_CD+ '.csv';
-						fs.writeFileSync('headers/'+rows2[i].WKSHT_CD+ '.csv', fs.readFileSync(thisReportHearedCSV));
+						thisReportHearedCSV = 'headers/templates/'+thisReportID+ '.csv';
+						fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
 						break;
                    default:
-                       thisReportHearedCSV = 'NoHeader.csv';
+                	   
+                	   thisReportHearedCSV = 'NoHeader.csv';
+                	   
+                	   switch (thisReportID.substring(0,2))
+                       {
+                          case "E0":
+                        	  //console.log("CHECK "+thisReportID.substring(thisReportID.length-1,thisReportID.length));
+                              
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='A'){
+                        		  	thisReportHearedCSV = 'headers/inserts/E00000A.csv';
+          							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+          							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+          						
+
+                        	  
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='B'){
+                        		  thisReportHearedCSV = 'headers/inserts/E00000B.csv';
+        							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+        							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                        	  
+                             break;
+                          case "E1":
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='1'){
+                        		  thisReportHearedCSV = 'headers/inserts/E100001.csv';
+      							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+      							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='2'){
+                        		  thisReportHearedCSV = 'headers/inserts/E100002.csv';
+      							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+      							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                             break;
+                          case "E2":
+                        	  
+                        	  thisReportHearedCSV = 'headers/inserts/E200000.csv';
+  							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+  							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	 
+                             break;
+                          case "E3":
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='1'){
+                        		  thisReportHearedCSV = 'headers/inserts/E300001.csv';
+      							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+      							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='2'){
+                        		  thisReportHearedCSV = 'headers/inserts/E300002.csv';
+        							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+        							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                          	  }
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='3'){
+                        		  thisReportHearedCSV = 'headers/inserts/E300003.csv';
+        							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+        							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                          	  }
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='4'){
+                        		  thisReportHearedCSV = 'headers/inserts/E300004.csv';
+        							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+        							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                          	  }
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='5'){
+                        		  thisReportHearedCSV = 'headers/inserts/E300005.csv';
+        							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+        							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                          	  }
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='6'){
+                        		  thisReportHearedCSV = 'headers/inserts/E300006.csv';
+        							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+        							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                          	  }
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='7'){
+                        		  thisReportHearedCSV = 'headers/inserts/E300007.csv';
+        							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+        							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                          	  }
+
+                             break;
+                          case "E4":
+                        	  
+                        	  thisReportHearedCSV = 'headers/inserts/E400000.csv';
+    							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+    							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                          	                    	 
+                    		  break;
+                    		  
+                          case "H1":
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='1'){
+                        		  thisReportHearedCSV = 'headers/inserts/H100001.csv';
+      							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+      							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='2'){
+                        		  thisReportHearedCSV = 'headers/inserts/H100002.csv';
+      							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+      							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                             break;
+                             
+
+                          case "H2":
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='1'){
+                        		  thisReportHearedCSV = 'headers/inserts/H200001.csv';
+      							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+      							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='2'){
+                        		  thisReportHearedCSV = 'headers/inserts/H200002.csv';
+      							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+      							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                             break;
+                          case "H3":
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='1'){
+                        		  thisReportHearedCSV = 'headers/inserts/H300001.csv';
+      							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+      							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='2'){
+                        		  thisReportHearedCSV = 'headers/inserts/H300002.csv';
+      							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+      							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                             break;
+                          case "H4":
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='1'){
+                        		  thisReportHearedCSV = 'headers/inserts/H400001.csv';
+      							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+      							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                        	  if(thisReportID.substring(thisReportID.length-1,thisReportID.length)=='2'){
+                        		  thisReportHearedCSV = 'headers/inserts/H400002.csv';
+      							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+      							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                        	  }
+                             break;
+                             
+                          case "H5":
+                        	  
+                        	  thisReportHearedCSV = 'headers/inserts/H500000.csv';
+    							fs.writeFileSync('headers/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+    							fs.writeFileSync('headers/inserts/'+thisReportID+ '.csv', fs.readFileSync(thisReportHearedCSV));
+                          	                    	 
+                    		  break;	
+                             
+                          default:
+                       
+                       }
+                            	  
+                	   
+                	   
                        //console.log(' **************** NO HEADER for Report '+ rows2[i].WKSHT_CD +'******************');
 
                 }
@@ -240,6 +423,10 @@ connection.query(sql,function(err, rows) {
                 tmpArray2[tmpColumnNUM + 1] = someText;
 
             }  // end row2 for loop
+            
+            
+            
+            
             tmpLine0[0] =  'Report (' + thisReportID + ')';
             var data2 ;
             //data2[0] = '';

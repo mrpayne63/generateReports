@@ -1,7 +1,0 @@
-"","","","","INCREASES","","","","DECREASES","","","Wkst."
-"","","CODE","","","","","","","","","A-7"
-"","EXPLANATION OF RECLASSIFICATION(S)","-1","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref."
-"","","1","2","3","4","5","6","7","8","9","10"
-"Report (A600BA0)","A600BA0[00000]","A600BA0[00100]", ,"A600BA0[00300]", ,"A600BA0[00500]", ,"A600BA0[00700]", ,"A600BA0[00900]"
-"Line(00100)","I&R CLEAR OUT OTHER EXPENSE","BA", ,"18", ,"17012875", ,"21", ,"27210106"
-"Line(00200)","I&R CLEAR OUT OTHER EXPENSE","BA", ,"22", ,"10197231"

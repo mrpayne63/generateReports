@@ -1,7 +1,0 @@
-"","","","","INCREASES","","","","DECREASES","","","Wkst."
-"","","CODE","","","","","","","","","A-7"
-"","EXPLANATION OF RECLASSIFICATION(S)","-1","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref."
-"","","1","2","3","4","5","6","7","8","9","10"
-"Report (A6000O0)","A6000O0[00000]","A6000O0[00100]", ,"A6000O0[00300]", ,"A6000O0[00500]", ,"A6000O0[00700]", ,"A6000O0[00900]"
-"Line(00100)","ANESTHESIA CONTRACT SERVICES","O", ,"22", ,"6478", ,"23", ,"539187"
-"Line(00200)","ANESTHESIA CONTRACT SERVICES","O", ,"53", ,"532709"
