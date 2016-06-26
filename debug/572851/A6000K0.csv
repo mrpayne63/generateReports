@@ -1,0 +1,8 @@
+"","","","","INCREASES","","","","DECREASES","","","Wkst."
+"","","CODE","","","","","","","","","A-7"
+"","EXPLANATION OF RECLASSIFICATION(S)","-1","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref."
+"","","1","2","3","4","5","6","7","8","9","10"
+"Report (A6000K0)","A6000K0[00000]","A6000K0[00100]", ,"A6000K0[00300]", ,"A6000K0[00500]", ,"A6000K0[00700]", ,"A6000K0[00900]"
+"Line(00100)","FILE 617 PHYSICIANS ON CALL","K", ,"22", ,"35487", ,"90", ,"4029"
+"Line(00200)","FILE 617 PHYSICIANS ON CALL","K", , , , , ,"90", ,"4613"
+"Line(00300)","FILE 617 PHYSICIANS ON CALL","K", , , , , ,"91", ,"26845"

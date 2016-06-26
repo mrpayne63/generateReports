@@ -1,0 +1,8 @@
+"","","","","","","Amount","Net",""
+"","","","","","Amount of","included in","Adjustments","Wkst.",""
+"","","","","","Allowable","Wkst. A","(col. 4 minus","A-7",""
+"","","Line No.","Cost Center","Expense Items","Cost","column 5","col. 5) *","Ref.",""
+"","","1","2","3","4","5","6","7",""
+"Report (A810000)", ,"A810000[00100]","A810000[00200]","A810000[00300]","A810000[00400]","A810000[00500]","A810000[00600]"
+"Line(00100)", ,"16","MEDICAL RECORDS & LIBRARY","VENDED CHIEF QUALITY OFFICER","89720","89720"
+"Line(00500)", , , , ,"89720","89720"

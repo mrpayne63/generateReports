@@ -1,0 +1,7 @@
+"","----","NO HEADER "," -------- ","NO HEADER"," ------- ","","","","","",""
+"","----","NO HEADER "," -------- ","NO HEADER"," ------- ","","","","","",""
+"Report (H11002*)", ,"H11002*[00100]","H11002*[00200]","H11002*[00300]","H11002*[00400]","H11002*[00500]"
+"Line(00100)", ,"CAPITAL","CAPITAL","PLANT","TRANS-","ADMINIS-"
+"Line(00200)", ,"BLDGS &","MOVABLE","OPER. &","PORTAT-","TRATIVE &"
+"Line(00300)", ,"FIXTURES","EQUIPMENT","MAINT.","ION","GENERAL"
+"Line(00400)", ,"SQUARE","DOLLAR","SQUARE","MILEAGE","ACCUM."

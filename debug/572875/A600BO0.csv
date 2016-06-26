@@ -1,0 +1,7 @@
+"","","","","INCREASES","","","","DECREASES","","","Wkst."
+"","","CODE","","","","","","","","","A-7"
+"","EXPLANATION OF RECLASSIFICATION(S)","-1","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref."
+"","","1","2","3","4","5","6","7","8","9","10"
+"Report (A600BO0)","A600BO0[00000]","A600BO0[00100]", ,"A600BO0[00300]", ,"A600BO0[00500]", ,"A600BO0[00700]", ,"A600BO0[00900]"
+"Line(00100)","RFFR-BOP","BO", ,"50", ,"5885301", ,"30", ,"6902839"
+"Line(00200)","RFFR-BOP","BO", ,"69", ,"1017538"

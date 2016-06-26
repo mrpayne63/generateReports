@@ -1,0 +1,7 @@
+"","----","NO HEADER "," -------- ","NO HEADER"," ------- ","","","","","",""
+"","----","NO HEADER "," -------- ","NO HEADER"," ------- ","","","","","",""
+"Report (K41002*)", ,"K41002*[00100]","K41002*[00200]","K41002*[00300]","K41002*[00400]","K41002*[00500]","K41002*[00600]"
+"Line(00100)", ,"CAPITAL","CAPITAL","PLANT","TRANS-","VOLUNT.","ADMINIS-"
+"Line(00200)", ,"BLDGS &","MOVABLE","OPER. &","PORTAT-","SERVICES","TRATIVE &"
+"Line(00300)", ,"FIXTURES","EQUIPMENT","MAINT.","ION","COORDI.","GENERAL"
+"Line(00400)", ,"SQUARE","DOLLAR","SQUARE","MILEAGE","HOURS OF","ACCUM."

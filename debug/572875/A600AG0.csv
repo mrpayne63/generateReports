@@ -1,0 +1,7 @@
+"","","","","INCREASES","","","","DECREASES","","","Wkst."
+"","","CODE","","","","","","","","","A-7"
+"","EXPLANATION OF RECLASSIFICATION(S)","-1","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref."
+"","","1","2","3","4","5","6","7","8","9","10"
+"Report (A600AG0)","A600AG0[00000]","A600AG0[00100]", ,"A600AG0[00300]", ,"A600AG0[00500]", ,"A600AG0[00700]", ,"A600AG0[00900]"
+"Line(00100)","PSYCHOLOGY INTERNS OTHER EXPENSE","AG", ,"23", ,"102542", ,"76", ,"18644"
+"Line(00200)","PSYCHOLOGY INTERNS OTHER EXPENSE","AG", , , , , ,"90", ,"83898"

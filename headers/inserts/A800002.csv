@@ -1,0 +1,35 @@
+,,,Cost Center/,,,,,Physician/,,5 Percent of,
+,,Wkst. A,Physician,Total,Professional,Provider,RCE,Provider,Unadjusted,Unadjusted,
+,,Line #,Identifier,Remuneration,Component,Component,Amount,Component Hours,RCE Limit,RCE Limit,
+,,1,2,3,4,5,6,7,8,9,
+,1,,,,,,,,,,1
+,2,,,,,,,,,,2
+,3,,,,,,,,,,3
+,4,,,,,,,,,,4
+,5,,,,,,,,,,5
+,6,,,,,,,,,,6
+,7,,,,,,,,,,7
+,8,,,,,,,,,,8
+,9,,,,,,,,,,9
+,10,,,,,,,,,,10
+,11,,,,,,,,,,11
+,200,TOTAL,,,,,,,,,200
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,Cost of,Provider,Physician,Provider,,,,
+,,,Cost Center/,Memberships,Component,Cost of,Component,,,,
+,,Wkst. A,Physician,& Continuing,Share of,Malpractice,Share of,Adjusted,RCE,,
+,,Line #,Identifier,Education,col. 12,Insurance,col. 14,RCE Limit,Disallowance,Adjustment,
+,,10,11,12,13,14,15,16,17,18,
+,1,,,,,,,,,,1
+,2,,,,,,,,,,2
+,3,,,,,,,,,,3
+,4,,,,,,,,,,4
+,5,,,,,,,,,,5
+,6,,,,,,,,,,6
+,7,,,,,,,,,,7
+,8,,,,,,,,,,8
+,9,,,,,,,,,,9
+,10,,,,,,,,,,10
+,11,,,,,,,,,,11
+,200,TOTAL,,,,,,,,,200

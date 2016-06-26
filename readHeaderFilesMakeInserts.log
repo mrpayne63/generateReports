@@ -1,0 +1,1163 @@
+Database is connected ... nn
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'A000000','00000','00800','200');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'A000000','00000','00800','200');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'A000000','00000','00800','200');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'A000000','00000','00800','200');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'A000000','00000','00800','200');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'A000006','50003','00500','lines as appropriate. "');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'A000006','50003','00500','lines as appropriate. "');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'A000006','50003','00500','lines as appropriate. "');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'A000006','50003','00500','lines as appropriate. "');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'A000006','50003','00500','lines as appropriate. "');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G000000','06001','00000','lines 51 and 59)');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G000000','06001','00000','lines 51 and 59)');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G000000','06001','00000','lines 51 and 59)');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G000000','06001','00000','lines 51 and 59)');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G000000','06001','00000','lines 51 and 59)');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G100000','01901','00000','sheet (line 11 minus line 18)');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G100000','01901','00000','sheet (line 11 minus line 18)');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G100000','01901','00000','sheet (line 11 minus line 18)');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G100000','01901','00000','sheet (line 11 minus line 18)');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G100000','01901','00000','sheet (line 11 minus line 18)');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G200001','02801','00100','line 1)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G200001','02801','00100','line 1)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G200001','02801','00100','line 1)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G200001','02801','00100','line 1)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G200001','02801','00100','line 1)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G200002','04300','00600','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G200002','04300','00600','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G200002','04300','00600','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G200002','04300','00600','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G200002','04300','00600','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G300000','00040','00400','Rev. 2');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G300000','00040','00400','Rev. 2');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G300000','00040','00400','Rev. 2');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G300000','00040','00400','Rev. 2');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G300000','00040','00400','Rev. 2');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'G300000','00040','00400','Rev. 2');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000003','20005','00600','Maryland 21244-1850."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000003','20005','00600','Maryland 21244-1850."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000003','20005','00600','Maryland 21244-1850."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000003','20005','00600','Maryland 21244-1850."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000003','20005','00600','Maryland 21244-1850."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000003','20005','00600','Maryland 21244-1850."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000004','20015','00000','RETIREMENT COST');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000004','20015','00000','RETIREMENT COST');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000004','20015','00000','RETIREMENT COST');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000004','20015','00000','RETIREMENT COST');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000004','20015','00000','RETIREMENT COST');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S000004','20015','00000','RETIREMENT COST');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S100000','03100','00600','31');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S100000','03100','00600','31');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S100000','03100','00600','31');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S100000','03100','00600','31');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S100000','03100','00600','31');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S100000','03100','00600','31');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S100000','03100','00600','31');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S100000','03100','00600','31');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200001','16900','01000','169');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S200002','04000','01000','40');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300001','03300','01600','33');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300002','04300','00700','43');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300003','00700','00700','7');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300004','02500','00500','25');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Compensation Insurance')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S300005','01800','00500','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Compensation Insurance')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S400000','03800','01100','38');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Compensation Insurance')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S500000','02100','00800','21');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Compensation Insurance')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S600000','01800','00600','18');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Compensation Insurance')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S700000','20700','01300','207');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Compensation Insurance')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S800000','01502','00200','as applicable.  (see instructions)"');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Compensation Insurance')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900001','00502','00100','columns 1 and 2 also include the days reported in columns 3 and 4 ."');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Compensation Insurance')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD co...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Private Offices')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'accounts')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Health Insurance Program (SCHIP) (see instructions for each line)')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's length of stay limit (see instructions)"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'services as defined in CMS Pub. 15-1')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBDs t...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's excluded  IPF and/or IRF unit?  Enter ""Y"" for"')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD412...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD312...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Name:    ___________________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Number:    __________')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'costs included in Worksheet A?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD413...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD188...' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's bad debt collection policy change during this cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records for allocation?')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's records?  If  yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's capitalization policy changed during the cost reporting period?  If yes')' at line 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xEF\xBF\xBD' for column 'item' at row 1
+INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` (`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) VALUES(553807,'S900002','00900','00700','9');
+CAUSED: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Compensation Insurance')' at line 1

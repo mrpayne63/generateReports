@@ -1,0 +1,7 @@
+"","","","","INCREASES","","","","DECREASES","","","Wkst."
+"","","CODE","","","","","","","","","A-7"
+"","EXPLANATION OF RECLASSIFICATION(S)","-1","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref."
+"","","1","2","3","4","5","6","7","8","9","10"
+"Report (A600AA0)","A600AA0[00000]","A600AA0[00100]", ,"A600AA0[00300]", ,"A600AA0[00500]", ,"A600AA0[00700]", ,"A600AA0[00900]"
+"Line(00100)","RECLASS NON-APPROVED I&R","AA", ,"100", ,"1992804", ,"21", ,"1992804"
+"Line(00200)","RECLASS NON-APPROVED I&R","AA", ,"100", ,"458345", ,"21", ,"458345"

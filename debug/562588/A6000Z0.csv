@@ -1,0 +1,8 @@
+"","","","","INCREASES","","","","DECREASES","","","Wkst."
+"","","CODE","","","","","","","","","A-7"
+"","EXPLANATION OF RECLASSIFICATION(S)","-1","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref."
+"","","1","2","3","4","5","6","7","8","9","10"
+"Report (A6000Z0)","A6000Z0[00000]","A6000Z0[00100]", ,"A6000Z0[00300]", ,"A6000Z0[00500]", ,"A6000Z0[00700]", ,"A6000Z0[00900]"
+"Line(00100)","ALLIED HEALTH EDU OTH EXP","Z", ,"23", ,"7920", ,"5", ,"7920"
+"Line(00200)","ALLIED HEALTH EDU OTH EXP","Z", ,"23", ,"11892", ,"15", ,"11892"
+"Line(00300)","ALLIED HEALTH EDU OTH EXP","Z", ,"23", ,"21527", ,"55", ,"21527"
