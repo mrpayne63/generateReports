@@ -76,8 +76,8 @@ var cells = [];
           			myColumn = "0" + myColumn;
           		}
           		var myvalue = cells[i][j].trim() + '[line' + myLine +']col'+ myColumn;
-          		myvalue = cells[i][j].trim().replace("'","\'").replace(")","\)'") ;
-					var sqlInsert = "INSERT INTO `HCRIS`.`STRONG_HEADERS2_2013` "
+          		myvalue = cells[i][j].trim().replace("'","").replace(")","").replace("(","").replace("\"","") ;
+					var sqlInsert = "INSERT INTO `HCRIS`.`STRONG_HEADERS3_2013` "
 							+ "(`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) "
 							+ "VALUES(553807,'"
 							+ thisFile + "','" + myLine + "','" + myColumn + "','"
@@ -88,8 +88,7 @@ var cells = [];
 					connection.query(sqlInsert,function(err, rows) {
 						//console.log(rows);
 						if(err){
-							console.log(sqlInsert);
-							console.log("CAUSED: " + err);
+							console.log(rows + " CAUSED: " + err);
 						}
 					});
 				}

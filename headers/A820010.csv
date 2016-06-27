@@ -1,7 +1,5 @@
-,PROVIDER-BASED PHYSICIANS ADJUSTMENTS,,,,, PROVIDER CCN:,, PERIOD:,, WORKSHEET A-8-2,
-,,,,,,,, FROM ____________,,,
-,,,,,, ________________,, TO _______________,,,
-,,,Cost Center/,,,,,Physician/,,5 Percent of,
-,,Wkst. A,Physician,Total,Professional,Provider,RCE,Provider,Unadjusted,Unadjusted,
-,,Line #,Identifier,Remuneration,Component,Component,Amount,Component Hours,RCE Limit,RCE Limit,
-,,1,2,3,4,5,6,7,8,9,
+,,,,,,,,,,,,,,,,Cost of,Provider,Physician,Provider,,,Cost of
+,,Cost Center/,,,,,Physician/,,5 Percent of,,,,,,Cost Center/,Memberships,Component,Cost of,Component,,Cost Center/,Memberships
+,Wkst. A,Physician,Total,Professional,Provider,RCE,Provider,Unadjusted,Unadjusted,,,,,Wkst. A,Physician,& Continuing,Share of,Malpractice,Share of,Wkst. A,Physician,& Continuing
+,Line #,Identifier,Remuneration,Component,Component,Amount,Component Hours,RCE Limit,RCE Limit,,,,,Line #,Identifier,Education,col. 12,Insurance,col. 14,Line #,Identifier,Education
+,1,2,3,4,5,6,7,8,9,,,,,10,11,12,13,14,15,16,17,18

@@ -1,116 +1,42 @@
-,,,,,,RECLASSIFIED,,NET EXPENSES,
-,COST CENTER DESCRIPTIONS,,,TOTAL,RECLASSIFI-,TRIAL BALANCE,,FOR ALLOCATION,
-,(omit cents),SALARIES,OTHER,(col. 1 + col. 2),CATIONS,(col. 3 +- col. 4),ADJUSTMENTS,(col. 5 +- col. 6),
-,,1,2,3,4,5,6,7,
-,   GENERAL SERVICE COST CENTERS, , , , , , , ,
-1, Capital Related Costs-Buildings and Fixtures, ,,,,,,,1
-2, Capital Related Costs-Movable Equipment, ,,,,,,,2
-3, Other Capital Related Costs,,,,,,,-0-,3
-4, Employee Benefits,,,,,,,,4
-5, Administrative and General,,,,,,,,5
-6, Maintenance and Repairs,,,,,,,,6
-7, Operation of Plant,,,,,,,,7
-8, Laundry and Linen Service,,,,,,,,8
-9, Housekeeping,,,,,,,,9
-10, Dietary,,,,,,,,10
-11, Cafeteria,,,,,,,,11
-12, Maintenance of Personnel,,,,,,,,12
-13, Nursing Administration,,,,,,,,13
-14, Central Services and Supply,,,,,,,,14
-15, Pharmacy,,,,,,,,15
-16, Medical Records & Medical Records Library,,,,,,,,16
-17, Social Service,,,,,,,,17
-, Other General Service (specify),,,,,,,,18
-19, Nonphysician Anesthetists,,,,,,,,19
-20, Nursing School,,,,,,,,20
-21, Intern & Res. Service-Salary & Fringes (Approved),,,,,,,,21
-22, Intern & Res. Other Program Costs (Approved),,,,,,,,22
-23, Paramedical Ed. Program (specify) ,,,,,,,,23
-,   INPATIENT ROUTINE SERVICE COST CENTERS, , , , , , , ,
-30, Adults and Pediatrics (General Routine Care),,,,,,,,30
-31, Intensive Care Unit,,,,,,,,31
-32, Coronary Care Unit,,,,,,,,32
-33, Burn Intensive Care Unit,,,,,,,,33
-34, Surgical Intensive Care Unit,,,,,,,,34
-, Other Special Care (specify),,,,,,,,35
-40, Subprovider - IPF,,,,,,,,40
-41, Subprovider - IRF,,,,,,,,41
-42, Subprovider (specify),,,,,,,,42
-43, Nursery,,,,,,,,43
-44, Skilled Nursing Facility,,,,,,,,44
-45, Nursing Facility,,,,,,,,45
-46, Other Long Term Care,,,,,,,,46
-,,,,,,RECLASSIFIED,,NET EXPENSES,
-,COST CENTER DESCRIPTIONS,,,TOTAL,RECLASSIFI-,TRIAL BALANCE,,FOR ALLOCATION,
-,(omit cents),SALARIES,OTHER,(col. 1 + col. 2),CATIONS,(col. 3 ± col. 4),ADJUSTMENTS,(col. 5 ± col. 6),
-,,1,2,3,4,5,6,7,
-,   ANCILLARY SERVICE COST CENTERS, , , , , , , ,
-50, Operating Room,,,,,,,,50
-51, Recovery Room,,,,,,,,51
-52, Labor Room and Delivery Room,,,,,,,,52
-53, Anesthesiology,,,,,,,,53
-54, Radiology-Diagnostic,,,,,,,,54
-55, Radiology-Therapeutic,,,,,,,,55
-56, Radioisotope,,,,,,,,56
-57, Computed Tomography (CT) Scan,,,,,,,,57
-58, Magnetic Resonance Imaging (MRI),,,,,,,,58
-59, Cardiac Catheterization,,,,,,,,59
-60, Laboratory,,,,,,,,60
-61, PBP Clinical Laboratory Services-Program Only, , , , , , , ,61
-62, Whole Blood & Packed Red Blood Cells,,,,,,,,62
-63," Blood Storing, Processing, & Trans.",,,,,,,,63
-64, Intravenous Therapy,,,,,,,,64
-65, Respiratory Therapy,,,,,,,,65
-66, Physical Therapy,,,,,,,,66
-67, Occupational Therapy,,,,,,,,67
-68, Speech Pathology,,,,,,,,68
-69, Electrocardiology,,,,,,,,69
-70, Electroencephalography,,,,,,,,70
-71, Medical Supplies Charged to Patients,,,,,,,,71
-72, Implantable Devices Charged to Patients,,,,,,,,72
-73, Drugs Charged to Patients,,,,,,,,73
-74, Renal Dialysis,,,,,,,,74
-75, ASC (Non-Distinct Part),,,,,,,,75
-, Other Ancillary (specify),,,,,,,,76
-,   OUTPATIENT SERVICE COST CENTERS, , , , , , , ,
-88, Rural Health Clinic (RHC),,,,,,,,88
-89, Federally Qualified Health Center (FQHC),,,,,,,,89
-90, Clinic,,,,,,,,90
-91, Emergency,,,,,,,,91
-92, Observation Beds, , , , , , , ,92
-, Other Outpatient Service (specify),,,,,,,,93
-,,,,,,RECLASSIFIED,,NET EXPENSES,
-,COST CENTER DESCRIPTIONS,,,TOTAL,RECLASSIFI-,TRIAL BALANCE,,FOR ALLOCATION,
-,(omit cents),SALARIES,OTHER,(col. 1 + col. 2),CATIONS,(col. 3 ± col. 4),ADJUSTMENTS,(col. 5 ± col. 6),
-,,1,2,3,4,5,6,7,
-,   OTHER REIMBURSABLE COST CENTERS, , , , , , , ,
-94, Home Program Dialysis,,,,,,,,94
-95, Ambulance Services,,,,,,,,95
-96, Durable Medical Equipment-Rented,,,,,,,,96
-97, Durable Medical Equipment-Sold,,,,,,,,97
-, Other Reimbursable (specify),,,,,,,,98
-, Outpatient Rehabilitation Provider (specify),,,,,,,,99
-100, Intern-Resident Service (not appvd. tchng. prgm.),,,,,,,,100
-101, Home Health Agency,,,,,,,,101
-,   SPECIAL PURPOSE COST CENTERS, , , , , , , ,
-105, Kidney Acquisition,,,,,,,,105
-106, Heart Acquisition,,,,,,,,106
-107, Liver Acquisition,,,,,,,,107
-108, Lung Acquisition,,,,,,,,108
-109, Pancreas Acquisition,,,,,,,,109
-110, Intestinal Acquisition,,,,,,,,110
-111, Islet Acquisition,,,,,,,,111
-, Other Organ Acquisition (specify),,,,,,,,112
-113, Interest Expense, ,,,,,,- 0 -,113
-114, Utilization Review-SNF,,,,,,,- 0 -,114
-115, Ambulatory Surgical Center (Distinct Part),,,,,,,,115
-116, Hospice,,,,,,,,116
-, Other Special Purpose (specify),,,,,,,,117
- , SUBTOTALS (sum of lines 1-117),,,,,,,,118
-,   NONREIMBURSABLE COST CENTERS, , , , , , , ,
-190," Gift, Flower, Coffee Shop, & Canteen",,,,,,,,190
-191, Research,,,,,,,,191
-192, Physicians' Private Offices,,,,,,,,192
-193, Nonpaid Workers,,,,,,,,193
-, Other Nonreimbursable (specify),,,,,,,,194
- , TOTAL (sum of lines 118-199), , , ,- 0 -, , , ,200
+,,,,,RECLASSIFIED,,NET EXPENSES,
+COST CENTER DESCRIPTIONS,,,TOTAL,RECLASSIFI-,TRIAL BALANCE,,FOR ALLOCATION,
+(omit cents),SALARIES,OTHER,(col. 1 + col. 2),CATIONS,(col. 3 ± col. 4),ADJUSTMENTS,(col. 5 ± col. 6),
+,1,2,3,4,5,6,7,
+   GENERAL SERVICE COST CENTERS, , , , , , , ,
+, ,,,,,,,1
+, ,,,,,,,2
+,,,,,,,-0-,3
+,,,,,,,,4
+,,,,,,,,5
+,,,,,,,,6
+,,,,,,,,7
+,,,,,,,,8
+,,,,,,,,9
+,,,,,,,,10
+,,,,,,,,11
+,,,,,,,,12
+,,,,,,,,13
+,,,,,,,,14
+,,,,,,,,15
+,,,,,,,,16
+,,,,,,,,17
+,,,,,,,,18
+,,,,,,,,19
+,,,,,,,,20
+,,,,,,,,21
+,,,,,,,,22
+,,,,,,,,23
+, , , , , , , ,
+,,,,,,,,30
+,,,,,,,,31
+,,,,,,,,32
+,,,,,,,,33
+,,,,,,,,34
+,,,,,,,,35
+,,,,,,,,40
+,,,,,,,,41
+,,,,,,,,42
+,,,,,,,,43
+,,,,,,,,44
+,,,,,,,,45
+,,,,,,,,46
