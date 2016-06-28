@@ -16,7 +16,7 @@ connection.connect(function(err) {
     }
 });
 
-var dir = 'headers/inserts'; 
+var dir = 'headers/inserts2'; 
 var  files = fs.readdirSync(dir);
 //console.log(files);
 var cells = [];
@@ -30,7 +30,7 @@ var cells = [];
 			  thisFile = thisFile.substring(0,thisFile.lastIndexOf("."));
 		  }
 	  var fileContents = fs.readFileSync(dir + '/' + file);
-		//console.log(fileContents.toString());
+	console.log(fileContents.toString());
       var lines = fileContents.toString().split('\n');
       //console.log('******************');
       //console.log(lines.length );
@@ -77,14 +77,14 @@ var cells = [];
           		}
           		var myvalue = cells[i][j].trim() + '[line' + myLine +']col'+ myColumn;
           		myvalue = cells[i][j].trim().replace("'","").replace(")","").replace("(","").replace("\"","") ;
-					var sqlInsert = "INSERT INTO `HCRIS`.`STRONG_HEADERS3_2013` "
+					var sqlInsert = "INSERT INTO `HCRIS`.`STRONG_HEADERS5_2013` "
 							+ "(`rpt_rec_num`,`wksht_cd`,`line_num`,`clmn_num`,`item`) "
 							+ "VALUES(553807,'"
 							+ thisFile + "','" + myLine + "','" + myColumn + "','"
 							+ myvalue + "');"
 
 					//data2[i][j] = cells[i][j];
-					//console.log(sqlInsert);
+					console.log(sqlInsert);
 					connection.query(sqlInsert,function(err, rows) {
 						//console.log(rows);
 						if(err){

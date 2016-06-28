@@ -1,0 +1,7 @@
+"","","","","INCREASES","","","","DECREASES","","","Wkst."
+"","","CODE","","","","","","","","","A-7"
+"","EXPLANATION OF RECLASSIFICATION(S)","-1","COST CENTER","LINE #","SALARY","OTHER","COST CENTER","LINE #","SALARY","OTHER","Ref."
+"","","1","2","3","4","5","6","7","8","9","10"
+"Entity[549652] Report(A600AB0)","A600AB0[00000]","A600AB0[00100]", ,"A600AB0[00300]", ,"A600AB0[00500]", ,"A600AB0[00700]", ,"A600AB0[00900]"
+"Line(00100)","IMPLANTABLE DEVICES","AB", ,"72", ,"11175310", ,"50", ,"6593491"
+"Line(00200)","IMPLANTABLE DEVICES","AB", , , , , ,"71", ,"4581819"
