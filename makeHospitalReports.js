@@ -53,7 +53,7 @@ connection2.connect(function(err) {
 });
 
 
-var prod = false;
+var prod = true;
 var baseDir = 'debug/';
 var sql = "select RPT_REC_NUM,WKSHT_CD from "+schema+"."+table+" group by RPT_REC_NUM,WKSHT_CD order by RPT_REC_NUM,WKSHT_CD";
 
@@ -61,7 +61,7 @@ if(entity){
 	sql = "select RPT_REC_NUM,WKSHT_CD from "+schema+"."+table+" where RPT_REC_NUM = "+entity+" group by RPT_REC_NUM,WKSHT_CD order by RPT_REC_NUM,WKSHT_CD";
 
 }
-console.log(sql);
+//console.log(sql);
 var spacerArray = createArray(4,6);
 spacerArray[0][0] = '----------------';
 spacerArray[0][1] = '----------------';
@@ -536,8 +536,10 @@ connection.query(sql,function(err, rows) {
                                 	   
                                        //console.log(' **************** NO HEADER for Report '+ rows2[i].WKSHT_CD +'******************');
 
-                                }
-                
+                }
+                if (!fs.existsSync(thisReportHearedCSV)) {
+                	thisReportHearedCSV = 'NoHeader.csv';
+                }
                 
                 if(tmpSheetLetter != thisSheetLetter){
                      sheetArray = new Array();
@@ -555,7 +557,8 @@ connection.query(sql,function(err, rows) {
                 if (newFile) {
 
                     myfile2 = mydir
-                            + '/'
+                            + '/' + schema + '-' + table + '-' 
+                            +thisHospID  + '-'
                             + rows2[i].WKSHT_CD
                             + '.csv';
                     newFile = false;
@@ -660,7 +663,7 @@ connection.query(sql,function(err, rows) {
             
             // write sheet report
             
-            tmpFile2 = mydir + '/'+ schema + '_' + table + '_Sheet' + tmpSheetLetter + '.csv';
+            tmpFile2 = mydir + '/'+ schema + '-' + table + '-Sheet' + tmpSheetLetter + '.csv';
 
             sheetArrayPROD = createArray(sheetArray.length, 20);
 
@@ -683,7 +686,7 @@ connection.query(sql,function(err, rows) {
 					console.log(tmpFile2 + ' saved');
 				});
 			}
-			var tmpFile3 = mydir + '/PRODSheet_' + tmpSheetLetter + '.csv';
+			var tmpFile3 = mydir + '/'+thisHospID+'-Sheet_' + tmpSheetLetter + '.csv';
 
             var csv5 = sheetArrayPROD.map(function(d) {
                 return JSON.stringify(d);
