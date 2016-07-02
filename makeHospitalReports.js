@@ -53,7 +53,7 @@ connection2.connect(function(err) {
 });
 
 
-var prod = true;
+var prod = false;
 var baseDir = 'debug/';
 var sql = "select RPT_REC_NUM,WKSHT_CD from "+schema+"."+table+" group by RPT_REC_NUM,WKSHT_CD order by RPT_REC_NUM,WKSHT_CD";
 
@@ -660,10 +660,8 @@ connection.query(sql,function(err, rows) {
             
             // write sheet report
             
-            tmpFile2 = mydir + '/Sheet_' + tmpSheetLetter + '.csv';
+            tmpFile2 = mydir + '/'+ schema + '_' + table + '_Sheet' + tmpSheetLetter + '.csv';
 
-           
-            
             sheetArrayPROD = createArray(sheetArray.length, 20);
 
                 for (var s = 0; s < sheetArray.length; s++) {
